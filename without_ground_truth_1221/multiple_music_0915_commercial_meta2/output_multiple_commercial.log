@@ -1,0 +1,310 @@
+Loading eval meta data from /home/yufeit/VoiceSynthesizer/eval_melody_0829/commercial_melody_meta2.json
+Loading Models...
+Melody title: Ed_Sheeran_Perfect_1-4
+Song title: queen of the night
+Compiled melody constraints: 
+[[0, 0, 0, 1, 1, 1, 1], [0, 0, 0, 1, 0, 1, 0, 0, 0, 1], [0, 0, 0, 0, 1, 1, 0, 0, 1, 1], [0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 1]]
+New Folder Created
+Synthesis finished in 17.3s.
+Vanilla Lyrics: 
+It's no surprise to me, you'd be the one to come and kiss me Your beauty could melt a hole in the ground You're always the Queen of The Night You're the Queen of The Night There's a secret about you, that's something I've been missing It's your eyes and your grace at your side You make me feel like I'm alive You're always the Queen of The Night You're the
+Saving files to multiple_music_0915_commercial_meta2//queen of the night_(Ed_Sheeran_Perfect_1-4)/vanilla
+Synthesis finished in 17.4s.
+User input keywords: queen, night, make
+Predicted keywords:[['Queen', 'night'], ['Make', 'feelings'], ['make', 'feeling'], ['girl', 'wanna']]
+1
+Generated Lyrics: 
+i am the queen of the night, makes me feel all the feelings that i feel, i can make you feel my feelings for you, you are the only girl that i wanna be with you.
+Saving files to multiple_music_0915_commercial_meta2//queen of the night_(Ed_Sheeran_Perfect_1-4)/1_queen of the night_(Ed_Sheeran_Perfect_1-4)
+Synthesis finished in 17.0s.
+100
+Generated Lyrics: 
+i am the queen of the night, make you feel all of these feelings for me, to make you feel my feelings for you now, and the girl that i wanna with all of my heart said.
+Saving files to multiple_music_0915_commercial_meta2//queen of the night_(Ed_Sheeran_Perfect_1-4)/100_queen of the night_(Ed_Sheeran_Perfect_1-4)
+Synthesis finished in 0.9s.
+99999
+Generated Lyrics: 
+and the queen of the night is, make a wish on the girl with the feelings, the way that you make me feel the way you, in the beginning when a girl wanna be a girl.
+Saving files to multiple_music_0915_commercial_meta2//queen of the night_(Ed_Sheeran_Perfect_1-4)/99999_queen of the night_(Ed_Sheeran_Perfect_1-4)
+Synthesis finished in 29.8s.
+Melody title: The_Sound_of_Silence_1-4
+Song title: run to you
+Compiled melody constraints: 
+[[0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 0, 0, 0, 1, 0, 0, 1], [0, 0, 0, 0, 0, 1, 0, 1]]
+New Folder Created
+Synthesis finished in 14.9s.
+Vanilla Lyrics: 
+You can run to me, babe, I will take my time I think that you've been a fool, babe You can run to me, babe, I will take my time I think that you've been a fool, babe I know you were born to run I know you were born to run I know you were born to run You can run to me, babe, I will take my time I think that you
+Saving files to multiple_music_0915_commercial_meta2//run to you_(The_Sound_of_Silence_1-4)/vanilla
+Synthesis finished in 22.1s.
+User input keywords: wanna, run, hold
+Predicted keywords:[['Wanna', 'run'], ['Hold', 'hold'], ['wanna', 'running'], ['Run', 'love']]
+1
+Generated Lyrics: 
+i wanna run to ya now, hold me tight and hold me near you, and all i wanna do is run to you, run to you i wanna run to.
+Saving files to multiple_music_0915_commercial_meta2//run to you_(The_Sound_of_Silence_1-4)/1_run to you_(The_Sound_of_Silence_1-4)
+Synthesis finished in 15.8s.
+100
+Generated Lyrics: 
+do you wanna run to me, hold my hand and give my all i, and all i wanna do is running to, run to you i wanna run to.
+Saving files to multiple_music_0915_commercial_meta2//run to you_(The_Sound_of_Silence_1-4)/100_run to you_(The_Sound_of_Silence_1-4)
+Synthesis finished in 14.1s.
+99999
+Generated Lyrics: 
+tell me whats in your mind run, and hold the weight of me and you, in the way that you wanna run to me, so i just wanna run to you.
+Saving files to multiple_music_0915_commercial_meta2//run to you_(The_Sound_of_Silence_1-4)/99999_run to you_(The_Sound_of_Silence_1-4)
+Synthesis finished in 15.6s.
+Melody title: The_Sound_of_Silence_1-4
+Song title: somebody bigger than you and i
+Compiled melody constraints: 
+[[0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 0, 0, 0, 1, 0, 0, 1], [0, 0, 0, 0, 0, 1, 0, 1]]
+New Folder Created
+Synthesis finished in 19.3s.
+Vanilla Lyrics: 
+When the walls come down I'm waiting for somebody better I think I'm ready to put up I want someone that can stand with all you and I. I'm ready to put up I'm ready to put up I'm ready to put up I'm ready to put up I'm ready to put up I'm ready to put up 
+Saving files to multiple_music_0915_commercial_meta2//somebody bigger than you and i_(The_Sound_of_Silence_1-4)/vanilla
+Synthesis finished in 0.9s.
+User input keywords: made, mountain, tree
+Predicted keywords:[['tree', 'made'], ['mountain', 'bigger'], ['make', 'mistake'], ['makes', 'mistakes']]
+1
+Generated Lyrics: 
+there is a tree that was made, the mountain is much bigger than, i tried to make the same mistake twice now, someone who makes mistakes like me.
+Saving files to multiple_music_0915_commercial_meta2//somebody bigger than you and i_(The_Sound_of_Silence_1-4)/1_somebody bigger than you and i_(The_Sound_of_Silence_1-4)
+Synthesis finished in 0.9s.
+100
+Generated Lyrics: 
+the tree that you made me see, the mountain is much bigger than, you and i have to make one mistake now, someone who makes mistakes like me.
+Saving files to multiple_music_0915_commercial_meta2//somebody bigger than you and i_(The_Sound_of_Silence_1-4)/100_somebody bigger than you and i_(The_Sound_of_Silence_1-4)
+Synthesis finished in 16.9s.
+99999
+Generated Lyrics: 
+in the tree the knot was made, and the mountain is now bigger, in the way you make the same mistake twice, in the way that makes me mistake.
+Saving files to multiple_music_0915_commercial_meta2//somebody bigger than you and i_(The_Sound_of_Silence_1-4)/99999_somebody bigger than you and i_(The_Sound_of_Silence_1-4)
+Synthesis finished in 21.6s.
+Melody title: The_Sound_of_Silence_1-4
+Song title: someone for me
+Compiled melody constraints: 
+[[0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 0, 0, 0, 1, 0, 0, 1], [0, 0, 0, 0, 0, 1, 0, 1]]
+New Folder Created
+Synthesis finished in 16.3s.
+Vanilla Lyrics: 
+I've been waitin' Been waitin' for someone Gettin' down on the way home, I've been livin' my life on the high road I've been tryin' to find One of those who'll make the things happen Gettin' down on the way home, I've been livin' my life on the high road I've been tryin' to find One
+Saving files to multiple_music_0915_commercial_meta2//someone for me_(The_Sound_of_Silence_1-4)/vanilla
+Synthesis finished in 14.0s.
+User input keywords: party, guy, sitting
+Predicted keywords:[['guy', 'gonna'], ['party', 'sitting'], ['girl', 'lonely'], ['friend', 'wanna']]
+1
+Generated Lyrics: 
+who the guy is gonna be, so the party is sitting down, you know that girl that used to be lonely, me and that girl are lonely too.
+Saving files to multiple_music_0915_commercial_meta2//someone for me_(The_Sound_of_Silence_1-4)/1_someone for me_(The_Sound_of_Silence_1-4)
+Synthesis finished in 0.9s.
+100
+Generated Lyrics: 
+and this guy is gonna know, and the party is sitting down, and not just a girl who leaves you lonely, need a guy to help me sit down.
+Saving files to multiple_music_0915_commercial_meta2//someone for me_(The_Sound_of_Silence_1-4)/100_someone for me_(The_Sound_of_Silence_1-4)
+Synthesis finished in 20.4s.
+99999
+Generated Lyrics: 
+and the guy for me is you, and the party is sitting down, the girl who used to be so lonely now, and not a friend in my away.
+Saving files to multiple_music_0915_commercial_meta2//someone for me_(The_Sound_of_Silence_1-4)/99999_someone for me_(The_Sound_of_Silence_1-4)
+Synthesis finished in 14.5s.
+Melody title: All_I_Want_For_Christmas_Is_You
+Song title: step by step
+Compiled melody constraints: 
+[[1, 1, 1, 0, 1, 1, 0, 1], [1, 1, 0, 1, 1, 1, 1], [0, 1, 1, 1, 0, 1, 1, 1, 1], [1, 0, 1, 0, 1, 1, 1], [1, 0, 1, 0, 1, 1, 1, 1], [1, 0, 1, 1, 1, 1, 1]]
+New Folder Created
+Synthesis finished in 30.6s.
+Vanilla Lyrics: 
+We'll talk about love and peace of mind But love won't wait for long It's my time now to love again I'm a believer in the things you do But love won't wait for long It's my time now to love again I'm a believer in the things you do 
+Saving files to multiple_music_0915_commercial_meta2//step by step_(All_I_Want_For_Christmas_Is_You)/vanilla
+Synthesis finished in 32.3s.
+User input keywords: baby, give, road
+Predicted keywords:[['baby', 'give'], ['gonna', 'make'], ['love', 'step'], ['road', 'back'], ['wanna', 'walk'], ['time', 'wait']]
+1
+Generated Lyrics: 
+baby you got to give it up, no way you gonna make it, i need your love step by step with me, you know the road back to you, and if you wanna walk with me, i just wanna walk with you.
+Saving files to multiple_music_0915_commercial_meta2//step by step_(All_I_Want_For_Christmas_Is_You)/1_step by step_(All_I_Want_For_Christmas_Is_You)
+Synthesis finished in 28.7s.
+100
+Generated Lyrics: 
+and baby you got to give it, how you gonna make it now, i need your love step by step with me, on the road back to you now, i just wanna walk with you now, i wanna walk with you now.
+Saving files to multiple_music_0915_commercial_meta2//step by step_(All_I_Want_For_Christmas_Is_You)/100_step by step_(All_I_Want_For_Christmas_Is_You)
+Synthesis finished in 21.1s.
+99999
+Generated Lyrics: 
+i said baby give it a try, how we gonna make this last, and we love to step by step with you, on the road and back to you, don and wanna walk with me now, if you just say you wanna.
+Saving files to multiple_music_0915_commercial_meta2//step by step_(All_I_Want_For_Christmas_Is_You)/99999_step by step_(All_I_Want_For_Christmas_Is_You)
+Synthesis finished in 25.3s.
+Melody title: I_Write_the_Songs_1-6
+Song title: takin' a chance
+Compiled melody constraints: 
+[[1, 0, 0, 1, 0, 0, 1], [0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 1], [0, 1, 0, 0, 0, 0, 1, 0, 1], [0, 1, 0, 0, 0, 0, 1, 0, 1]]
+New Folder Created
+Synthesis finished in 22.7s.
+Vanilla Lyrics: 
+Now is a time of your life It's so exciting every time you play It's so exciting, yeah And now we've got a real good reason Just because we don't believe in time is not true It's a chance that we'll take it There's a real good reason Yeah! You could take it if you wanna play It's such a chance that we'll take it When we all have a real
+Saving files to multiple_music_0915_commercial_meta2//takin' a chance_(I_Write_the_Songs_1-6)/vanilla
+Synthesis finished in 19.0s.
+User input keywords: chance, wait, Good
+User input keywords: chance, wait, Good
+User input keywords: chance, wait, Good
+Predicted keywords:[['good', 'wait'], ['chance', 'taking'], ['gonna', 'give'], ['wanna', "takin'"], ['time', 'longer'], ['waiting', 'forget']]
+1
+Generated Lyrics: 
+it looks to be a good wait, just a chance we might be taking, you never know what you are gonna get when you give it up now, i just need some time, you know its time to take your own stand, been waiting for a little longer.
+Saving files to multiple_music_0915_commercial_meta2//takin' a chance_(I_Write_the_Songs_1-6)/1_takin' a chance_(I_Write_the_Songs_1-6)
+Synthesis finished in 19.7s.
+100
+Generated Lyrics: 
+for the good times to wait here, it seems like a good time to wait, so we are gonna give it a try and see what we can find here, not gonna give up, and you know that time is longer than, now that we have this time longer than.
+Saving files to multiple_music_0915_commercial_meta2//takin' a chance_(I_Write_the_Songs_1-6)/100_takin' a chance_(I_Write_the_Songs_1-6)
+Synthesis finished in 33.0s.
+99999
+Generated Lyrics: 
+it a good thing i can wait, the chance and the time to take it, and the way you always say the way you gonna give in to me, i and i and i, the time has come and the longer too, the time for us to become forget.
+Saving files to multiple_music_0915_commercial_meta2//takin' a chance_(I_Write_the_Songs_1-6)/99999_takin' a chance_(I_Write_the_Songs_1-6)
+Synthesis finished in 20.3s.
+Melody title: Ed_Sheeran_Perfect_1-4
+Song title: the christmas song (chestnuts roasting on an open fire)
+Compiled melody constraints: 
+[[0, 0, 0, 1, 1, 1, 1], [0, 0, 0, 1, 0, 1, 0, 0, 0, 1], [0, 0, 0, 0, 1, 1, 0, 0, 1, 1], [0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 1]]
+New Folder Created
+Synthesis finished in 19.5s.
+Vanilla Lyrics: 
+Chestnuts roasting on an open fire Yuletide carols being sung by a choir And folks dressed up like eskimos Everybody singing that jingle bell rock Everybody doing that Santa Claus thing Everybody singing that jingle bell roo Everybody doing that Santa Claus thing Let down the snow and cheer up the kids Let down the snow and cheer up the kids Let down the snow and cheer up the kids
+Saving files to multiple_music_0915_commercial_meta2//the christmas song (chestnuts roasting on an open fire)_(Ed_Sheeran_Perfect_1-4)/vanilla
+Synthesis finished in 18.8s.
+User input keywords: Jack, Frost, Yuletide
+Predicted keywords:[['Jack', 'frost'], ['Yuletide', 'Christmas'], ['Frost', 'snowflakes'], ['Shadows', 'falling']]
+1
+Generated Lyrics: 
+a jack in the frost with me, at this time of the year known as christmas, jack is on a frost and he thinks of snow, shadows falling on the tree and so the children say.
+Saving files to multiple_music_0915_commercial_meta2//the christmas song (chestnuts roasting on an open fire)_(Ed_Sheeran_Perfect_1-4)/1_the christmas song (chestnuts roasting on an open fire)_(Ed_Sheeran_Perfect_1-4)
+Synthesis finished in 0.9s.
+100
+Generated Lyrics: 
+the jack frost is on the way, and so on on with the christmas songs of, the christmas song that they sing with frost and, shadow of christmas time falling on the ice and snow.
+Saving files to multiple_music_0915_commercial_meta2//the christmas song (chestnuts roasting on an open fire)_(Ed_Sheeran_Perfect_1-4)/100_the christmas song (chestnuts roasting on an open fire)_(Ed_Sheeran_Perfect_1-4)
+Synthesis finished in 17.5s.
+99999
+Generated Lyrics: 
+in the night time like jack frost, and in remembrance of the christmas song, the frost and the rain are falling on me, sh and the frost came and went and the children sang a song.
+Synthesize error, regenerating...
+Generated Lyrics: 
+and a jack of all trades frost, and in remembrance of the christmas song, frost and snow and black christmas and black snow, sh and the frost came and fell all around the sh and the snow.
+Synthesize error, regenerating...
+Generated Lyrics: 
+the end of jack frost is here, a celebration of the christmas song, and the frost and rain are falling on me, the celebrations of the christmas song and the frost.
+Saving files to multiple_music_0915_commercial_meta2//the christmas song (chestnuts roasting on an open fire)_(Ed_Sheeran_Perfect_1-4)/99999_the christmas song (chestnuts roasting on an open fire)_(Ed_Sheeran_Perfect_1-4)
+Synthesis finished in 20.9s.
+Melody title: I_Write_the_Songs_1-6
+Song title: this day
+Compiled melody constraints: 
+[[1, 0, 0, 1, 0, 0, 1], [0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 1], [0, 1, 0, 0, 0, 0, 1, 0, 1], [0, 1, 0, 0, 0, 0, 1, 0, 1]]
+New Folder Created
+Synthesis finished in 19.2s.
+Vanilla Lyrics: 
+All day long we stay together Now i can see your eyes that shine so bright This day was made for us together Now my love comes to you like fire This day can be forever The future's open wide just for us Now it's time we knew what love felt like This day was made for us both Now my love comes to you like fire This day can be forever Love's so special like this
+Saving files to multiple_music_0915_commercial_meta2//this day_(I_Write_the_Songs_1-6)/vanilla
+Synthesis finished in 22.6s.
+User input keywords: Lord, Give, joy
+Predicted keywords:[['Lord', 'Give'], ['day', 'today'], ['give', 'joy'], ['God', 'gave'], ['time', 'wasting'], ['days', 'living']]
+1
+Generated Lyrics: 
+lord give me strength to go on, it was a day of joy today, so why would you give me all the joy that you give to the one you, that would give us all, thanks for the time that you were wasting, one of these days you will be living.
+Saving files to multiple_music_0915_commercial_meta2//this day_(I_Write_the_Songs_1-6)/1_this day_(I_Write_the_Songs_1-6)
+Synthesis finished in 19.2s.
+100
+Generated Lyrics: 
+lord give me strength to go on, a new day has come for today, i give thanks to you for the joy that you give to me today and, this day is for you, in this time of life we are wasting, and all the days that we are living.
+Saving files to multiple_music_0915_commercial_meta2//this day_(I_Write_the_Songs_1-6)/100_this day_(I_Write_the_Songs_1-6)
+Synthesis finished in 0.9s.
+99999
+Generated Lyrics: 
+thank the lord that you give us, the day the earth stood still today, and so i give a little of my joy to you and you and i, a gift and a joy, the time that i have wasted today, and all the days that we are living.
+Saving files to multiple_music_0915_commercial_meta2//this day_(I_Write_the_Songs_1-6)/99999_this day_(I_Write_the_Songs_1-6)
+Synthesis finished in 18.9s.
+Melody title: All_I_Want_For_Christmas_Is_You
+Song title: until you come back
+Compiled melody constraints: 
+[[1, 1, 1, 0, 1, 1, 0, 1], [1, 1, 0, 1, 1, 1, 1], [0, 1, 1, 1, 0, 1, 1, 1, 1], [1, 0, 1, 0, 1, 1, 1], [1, 0, 1, 0, 1, 1, 1, 1], [1, 0, 1, 1, 1, 1, 1]]
+New Folder Created
+Synthesis finished in 26.8s.
+Vanilla Lyrics: 
+I see a woman who looks like you It's the first time I've seen her before This woman is mine I don't know what's wrong but I can feel it My body feels hot This woman is mine Ohhh my head is spinning round She's got a pretty, pretty smile, pretty, pretty smile I see her in the corner so I walk over to her Just like a man should do, but
+Syllabify error, regenerating...
+Vanilla Lyrics: 
+The more you stay, the faster you turn your mind. The more your love dies, it seems you stay, But when your lies die, it's easy to realize. Every time we call, every one we meet, The more you stay, the faster you turn your mind. The more you make me feel, the worse this time will be. I can't wait for you, I'll wait for you. 
+Saving files to multiple_music_0915_commercial_meta2//until you come back_(All_I_Want_For_Christmas_Is_You)/vanilla
+Synthesis finished in 18.7s.
+User input keywords: back, Till, Boy
+Predicted keywords:[['Till', 'boy'], ['Boy', 'girl'], ['baby', 'back'], ['Back', 'home'], ['till', 'boys'], ['Baby', 'coming']]
+1
+Generated Lyrics: 
+till you coming back to me boy, boy till you come back to me, i need you baby till you come back, not back till you come back boy, up till you come back boy oh boy, i cant wait till you come back.
+Saving files to multiple_music_0915_commercial_meta2//until you come back_(All_I_Want_For_Christmas_Is_You)/1_until you come back_(All_I_Want_For_Christmas_Is_You)
+Synthesis finished in 23.7s.
+100
+Generated Lyrics: 
+now till you come back to me boy, you are my boy not my girl, but baby please come back home to me, back till you come back to me, like till you come back to me boy, know not till you come back boys.
+Saving files to multiple_music_0915_commercial_meta2//until you come back_(All_I_Want_For_Christmas_Is_You)/100_until you come back_(All_I_Want_For_Christmas_Is_You)
+Synthesis finished in 18.8s.
+99999
+Generated Lyrics: 
+til you come back to me boy oh, you are the boy i love girl, before you leave baby please come back, baby come back home to me, i said not until you boys come, till you come back my boy oh.
+Saving files to multiple_music_0915_commercial_meta2//until you come back_(All_I_Want_For_Christmas_Is_You)/99999_until you come back_(All_I_Want_For_Christmas_Is_You)
+Synthesis finished in 18.9s.
+Melody title: All_I_Want_For_Christmas_Is_You
+Song title: where do broken hearts go
+Compiled melody constraints: 
+[[1, 1, 1, 0, 1, 1, 0, 1], [1, 1, 0, 1, 1, 1, 1], [0, 1, 1, 1, 0, 1, 1, 1, 1], [1, 0, 1, 0, 1, 1, 1], [1, 0, 1, 0, 1, 1, 1, 1], [1, 0, 1, 1, 1, 1, 1]]
+New Folder Created
+Synthesis finished in 25.1s.
+Vanilla Lyrics: 
+You know where broken hearts go My broken hearts go I can walk a thousand miles I can drive your car I can walk a thousand miles You know where broken hearts go We'll go home to our little one of a kind I'll walk a thousand miles I'll drive your car I'll walk a thousand miles You know where broke hearts go I'll walk a thousand miles I'll drive
+Saving files to multiple_music_0915_commercial_meta2//where do broken hearts go_(All_I_Want_For_Christmas_Is_You)/vanilla
+Synthesis finished in 34.2s.
+User input keywords: home, broken, hearts
+Predicted keywords:[['heart', 'broken'], ['home', 'wanna'], ['break', 'hope'], ['hearts', 'breaking'], ['eyes', 'open'], ['lost', 'feelings']]
+1
+Generated Lyrics: 
+when your heart is broken and you, no home where you wanna go, they break and they break my hope for you, i lost my heart and now i, i lost all my feelings for you, now that your eyes are open.
+Saving files to multiple_music_0915_commercial_meta2//where do broken hearts go_(All_I_Want_For_Christmas_Is_You)/1_where do broken hearts go_(All_I_Want_For_Christmas_Is_You)
+Synthesis finished in 31.2s.
+100
+Generated Lyrics: 
+but my heart is so broken now, you can take me home wanna, you know that they break my heart with hope, are your eyes open for me, can you see my eyes are open, can you see my eyes open.
+Saving files to multiple_music_0915_commercial_meta2//where do broken hearts go_(All_I_Want_For_Christmas_Is_You)/100_where do broken hearts go_(All_I_Want_For_Christmas_Is_You)
+Synthesis finished in 84.5s.
+99999
+Generated Lyrics: 
+you know my heart is broken now, far from home where you wanna, the break of dawn and my first hope of, just because your heart is broke, i believe in eyes wide open, look in my eyes you might be.
+Saving files to multiple_music_0915_commercial_meta2//where do broken hearts go_(All_I_Want_For_Christmas_Is_You)/99999_where do broken hearts go_(All_I_Want_For_Christmas_Is_You)
+Synthesis finished in 28.5s.
+Melody title: All_I_Want_For_Christmas_Is_You
+Song title: who do you love
+Compiled melody constraints: 
+[[1, 1, 1, 0, 1, 1, 0, 1], [1, 1, 0, 1, 1, 1, 1], [0, 1, 1, 1, 0, 1, 1, 1, 1], [1, 0, 1, 0, 1, 1, 1], [1, 0, 1, 0, 1, 1, 1, 1], [1, 0, 1, 1, 1, 1, 1]]
+New Folder Created
+Synthesis finished in 0.9s.
+Vanilla Lyrics: 
+In your life there will be many things to learn There's more to you than meets the eye I've seen you lose your way, walk the miles You're on your own and you're trying to prove Who do you love, you can make your own truth If you lose your way just don't blame me or me I'll be standing there, watching the way you move your feet If you walk away I'll just stand here
+Saving files to multiple_music_0915_commercial_meta2//who do you love_(All_I_Want_For_Christmas_Is_You)/vanilla
+Synthesis finished in 0.9s.
+User input keywords: love, strong, Straight
+Predicted keywords:[['straight', 'strong'], ['Straight', 'love'], ['Love', 'wanna'], ['Yeah', 'trouble'], ['yeah', 'gonna'], ['wrong', 'feel']]
+1
+Generated Lyrics: 
+we might be straight and strong like this, straight from the lips of your love, just love that you wanna try to have, not right now yeah you feel that, it might be wrong to feel this way, it might be wrong to feel this.
+Saving files to multiple_music_0915_commercial_meta2//who do you love_(All_I_Want_For_Christmas_Is_You)/1_who do you love_(All_I_Want_For_Christmas_Is_You)
+Synthesis finished in 27.4s.
+100
+Generated Lyrics: 
+i straight up want you to be strong, straight from the love you give me, love is all i wanna do for you, i said yeah who do you love, i said yeah who you gonna go, you think you know what wrong feel.
+Saving files to multiple_music_0915_commercial_meta2//who do you love_(All_I_Want_For_Christmas_Is_You)/100_who do you love_(All_I_Want_For_Christmas_Is_You)
+Synthesis finished in 24.5s.
+99999
+Generated Lyrics: 
+we are straight and we will be strong, straight from the love you give me, love is what you wanna do to me, love and wanna be with you, so instead you say yeah yeah yeah, if you think this is wrong feel.
+Saving files to multiple_music_0915_commercial_meta2//who do you love_(All_I_Want_For_Christmas_Is_You)/99999_who do you love_(All_I_Want_For_Christmas_Is_You)
+Synthesis finished in 20.6s.

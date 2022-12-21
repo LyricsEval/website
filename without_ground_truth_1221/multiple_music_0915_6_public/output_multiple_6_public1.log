@@ -1,0 +1,696 @@
+Loading eval meta data from /home/yufeit/VoiceSynthesizer/6_eval_public/6_public_melody_meta.json
+Loading Models...
+Melody title: 1_2_Danny_Boy_Lead_sheet_with_lyrics_1
+Song title: safe
+Compiled melody constraints: 
+[[0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1], [0, 0, 0, 1, 0, 0, 0, 0, 0, 1], [0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]]
+You might be overwriting existing folders
+Synthesis finished in 18.2s.
+Vanilla Lyrics: 
+It's no surprise to me, I feel a lot It's no surprise to me, I feel a lot That I know this one is gonna be alright 'Cause it's no time to waste anymore 'Cause I'm coming back for more now I'm coming back for more now 'Cause I'm coming back for more now I'm coming back for more now I'm coming back for more now I'm coming
+Saving files to multiple_music_0915_6_public//safe_(1_2_Danny_Boy_Lead_sheet_with_lyrics_1)/vanilla
+Synthesis finished in 26.5s.
+User input keywords: gonna, feel, love
+Predicted keywords:[['gonna', 'feel'], ['Gonna', 'love'], ['safe', 'feeling'], ['Safe', 'fucking']]
+1
+Generated Lyrics: 
+how you gonna make me feel when you get here, going through something you can feel is love, i cant take not having you safe with my love, i need a safe place to hide away from feeling.
+Saving files to multiple_music_0915_6_public//safe_(1_2_Danny_Boy_Lead_sheet_with_lyrics_1)/1_safe_(1_2_Danny_Boy_Lead_sheet_with_lyrics_1)
+Synthesis finished in 24.4s.
+100
+Generated Lyrics: 
+and how you gonna make me feel safe in you, saying that we are gonna fall in love, not safe with the way that i am feeling now, i need to feel safe in my own skin now with you.
+Saving files to multiple_music_0915_6_public//safe_(1_2_Danny_Boy_Lead_sheet_with_lyrics_1)/100_safe_(1_2_Danny_Boy_Lead_sheet_with_lyrics_1)
+Synthesis finished in 22.7s.
+99999
+Generated Lyrics: 
+the only way i feel safe is if you are, and the other one is gonna love you, and the safe is gone and the feeling is gone, a and a and a and a and a and a safe.
+Saving files to multiple_music_0915_6_public//safe_(1_2_Danny_Boy_Lead_sheet_with_lyrics_1)/99999_safe_(1_2_Danny_Boy_Lead_sheet_with_lyrics_1)
+Synthesis finished in 18.9s.
+Melody title: 2_What_Can_I_Say_After_I_Say_Im_Sorry_Lead_sheet_with_lyrics_
+Song title: singing forever
+Compiled melody constraints: 
+[[0, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1], [0, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1], [0, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1], [1, 0, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1]]
+New Folder Created
+Synthesis finished in 20.8s.
+Vanilla Lyrics: 
+I'm standing in the corner by myself I don't have to hold back anymore I know I make things more complicated My heart says don't let this happen to me again Singing Forever Singing Forever Singing Forever Singing Forever Singing Forever The sound that I feel in my head I don't ever want to take again (I'm singing all night long Singing Forever 
+Saving files to multiple_music_0915_6_public//singing forever_(2_What_Can_I_Say_After_I_Say_Im_Sorry_Lead_sheet_with_lyrics_)/vanilla
+Synthesis finished in 21.3s.
+User input keywords: future, holds, fight
+Predicted keywords:[['Singing', 'forever'], ['time', 'holds'], ['fight', 'future'], ['longer', 'stay']]
+1
+Generated Lyrics: 
+st st singing forever more and more and more, and no one knows the time that holds for both of us, and there is no time like the one that holds you, so why did we fight for the future then lose it.
+Saving files to multiple_music_0915_6_public//singing forever_(2_What_Can_I_Say_After_I_Say_Im_Sorry_Lead_sheet_with_lyrics_)/1_singing forever_(2_What_Can_I_Say_After_I_Say_Im_Sorry_Lead_sheet_with_lyrics_)
+Synthesis finished in 27.3s.
+100
+Generated Lyrics: 
+saying my love will last forever you and me, and there is no time like the one that holds you down, and there is no time like the one that holds you, to fight the tide of time and the future with you.
+Saving files to multiple_music_0915_6_public//singing forever_(2_What_Can_I_Say_After_I_Say_Im_Sorry_Lead_sheet_with_lyrics_)/100_singing forever_(2_What_Can_I_Say_After_I_Say_Im_Sorry_Lead_sheet_with_lyrics_)
+Synthesis finished in 28.5s.
+99999
+Generated Lyrics: 
+and the more it seems the more time that holds us down, in the time that it takes the world to hold on to, in the time that it takes the world holds on to, no need to fight now for the future with you now.
+Saving files to multiple_music_0915_6_public//singing forever_(2_What_Can_I_Say_After_I_Say_Im_Sorry_Lead_sheet_with_lyrics_)/99999_singing forever_(2_What_Can_I_Say_After_I_Say_Im_Sorry_Lead_sheet_with_lyrics_)
+Synthesis finished in 19.7s.
+Melody title: Baby_Face
+Song title: smile
+Compiled melody constraints: 
+[[1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1], [0, 0, 0, 0, 0, 0, 0, 1, 0, 1], [1, 0, 1, 1, 0, 1, 0, 0, 0], [0, 0, 0, 1, 0, 0, 0, 1, 0, 1]]
+New Folder Created
+Synthesis finished in 0.9s.
+Vanilla Lyrics: 
+But I wouldn't change a single thing about me Every time I hold your hand When the sun comes up for the third day in a row When the morning sun starts shining all around It's all just a beautiful sight A beautiful sight to watch you kiss A beautiful sight to watch you smile When the night is falling When the morning sun starts shining all around It's all just a beautiful sight A beautiful sight
+Syllabify error, regenerating...
+Vanilla Lyrics: 
+(Berry/Buck/Mills/Stipe You're out on the streets, you have no time to see, I'm up in the park, all you see are my hands and my hands, I touch them and make a smile. So I get up in this park where I'm from, And I look through the trees and my hands are trembling, When I see your picture on the paper I
+Saving files to multiple_music_0915_6_public//smile_(Baby_Face)/vanilla
+Synthesis finished in 1.0s.
+User input keywords: Smile, aching, heart
+Predicted keywords:[['Smile', 'heart'], ['Aching', 'feelings'], ['smile', 'aching'], ['eyes', 'tears']]
+1
+Generated Lyrics: 
+smile as you lie in bed with a beating in your heart, an aching in my heart for the feelings, the smile on your face an aching ones, i can see the smile you are an aching.
+Saving files to multiple_music_0915_6_public//smile_(Baby_Face)/1_smile_(Baby_Face)
+Synthesis finished in 0.9s.
+100
+Generated Lyrics: 
+smile in your heart lift me up lift me up lift me up, the in the in the in the in the a, your smile keeps my heart from an aching, the smile you are now is the smile you are.
+Saving files to multiple_music_0915_6_public//smile_(Baby_Face)/100_smile_(Baby_Face)
+Synthesis finished in 18.2s.
+99999
+Generated Lyrics: 
+there a smile in my heart and it feels a lot like you, the and the and the and the aching feel, my smile keeps on a aching for you, the look in your eyes and the pain a ching.
+Saving files to multiple_music_0915_6_public//smile_(Baby_Face)/99999_smile_(Baby_Face)
+Synthesis finished in 22.5s.
+Melody title: Baby_Face
+Song title: soledad
+Compiled melody constraints: 
+[[1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1], [0, 0, 0, 0, 0, 0, 0, 1, 0, 1], [1, 0, 1, 1, 0, 1, 0, 0, 0], [0, 0, 0, 1, 0, 0, 0, 1, 0, 1]]
+New Folder Created
+Synthesis finished in 21.6s.
+Vanilla Lyrics: 
+You're the light in my eyes, your laughter You're the song on the radio You're the life of the story The things I want to hear you want to play I'll be coming back for more But these hearts to be breaking That don't make me laugh You're the light in my eyes, your laughter You're the song on the radio You're the life of the story The things I
+Saving files to multiple_music_0915_6_public//soledad_(Baby_Face)/vanilla
+Synthesis finished in 19.1s.
+User input keywords: love, Repeat, Walking
+Predicted keywords:[['Soledad', 'soledad'], ['Walking', 'wanna'], ['Repeat', 'love'], ['Someday', 'someday']]
+1
+Generated Lyrics: 
+sol ed del sol ed del sol ed del sol ed del sol, walking through the door wanna dance with you, walking through the door wanna be with, read the lyrics to this song about love.
+Saving files to multiple_music_0915_6_public//soledad_(Baby_Face)/1_soledad_(Baby_Face)
+Synthesis finished in 21.4s.
+100
+Generated Lyrics: 
+sol ed ed ed ed ed ed ed ed ed sol ed ed, walk with me little lady walk with me, walking all the way to wanna know, repeat yourself the words i love you say.
+Saving files to multiple_music_0915_6_public//soledad_(Baby_Face)/100_soledad_(Baby_Face)
+Synthesis finished in 16.2s.
+99999
+Generated Lyrics: 
+sol ed del sol ed a sol ed a sol ed a sol, and walking through the door and i wanna, walk again wanna be with you and, repeat yourself and say the words in love.
+Saving files to multiple_music_0915_6_public//soledad_(Baby_Face)/99999_soledad_(Baby_Face)
+Synthesis finished in 24.0s.
+Melody title: 1_1_Danny_Boy_Lead_sheet_with_lyrics_1
+Song title: something right
+Compiled melody constraints: 
+[[0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1], [0, 0, 0, 1], [0, 0, 0, 0, 0, 1], [0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1], [0, 0, 0, 1, 0, 0, 0, 0, 0, 1]]
+New Folder Created
+Synthesis finished in 21.8s.
+Vanilla Lyrics: 
+When you need it, you gotta find Something right, you gotta find You don't ever stop for a minute You can't help the way that you feel No, you don't have to wait for love to find you No, you don't have to wait for love to find you, yeah! You just turn around, the moment you see me Yeah, you just turn around, yeah, turn around Yeah, and
+Saving files to multiple_music_0915_6_public//something right_(1_1_Danny_Boy_Lead_sheet_with_lyrics_1)/vanilla
+Synthesis finished in 17.9s.
+User input keywords: baby, thought, love
+Predicted keywords:[['baby', 'love'], ['thought', 'wrong'], ['lonely', 'feelings'], ['things', 'happen'], ['time', 'gonna']]
+1
+Generated Lyrics: 
+so baby let me love you right from the start, thought it was wrong, from these lonely feelings, not sure what to do with these lonely feelings, and all the things that could happen to us.
+Saving files to multiple_music_0915_6_public//something right_(1_1_Danny_Boy_Lead_sheet_with_lyrics_1)/1_something right_(1_1_Danny_Boy_Lead_sheet_with_lyrics_1)
+Synthesis finished in 20.8s.
+100
+Generated Lyrics: 
+and baby i can tell you that i love you, the thought of you, all those lonely feelings, and all of the lonely feelings that you had, the time is right for us to do it now.
+Saving files to multiple_music_0915_6_public//something right_(1_1_Danny_Boy_Lead_sheet_with_lyrics_1)/100_something right_(1_1_Danny_Boy_Lead_sheet_with_lyrics_1)
+Synthesis finished in 22.7s.
+99999
+Generated Lyrics: 
+the love in your eyes for me baby is so, the way you thought, and the lonely feelings, the lonely feeling after all the good times, a a the time and a the place the day.
+Saving files to multiple_music_0915_6_public//something right_(1_1_Danny_Boy_Lead_sheet_with_lyrics_1)/99999_something right_(1_1_Danny_Boy_Lead_sheet_with_lyrics_1)
+Synthesis finished in 19.7s.
+Melody title: 1_2_Danny_Boy_Lead_sheet_with_lyrics_1
+Song title: still here
+Compiled melody constraints: 
+[[0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1], [0, 0, 0, 1, 0, 0, 0, 0, 0, 1], [0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]]
+New Folder Created
+Synthesis finished in 20.5s.
+Vanilla Lyrics: 
+I've had a lot of things on my mind Some of them don't mean a thing I've had a lot of things on my mind I got my eyes in the air The thought will surely come back I've got my eyes in the air This time I won't run I've got my eyes in the air 
+Syllabify error, regenerating...
+Vanilla Lyrics: 
+I'm gonna walk around and let it out I've been lying here with my eyes wide open But the world keeps coming through And the stars keep shining This heart is still here inside me This heart is still here inside Still here living forever It's like a dream I'm holding on I'm so scared to touch my life But the world keeps coming through And the stars keep shining This heart is
+Saving files to multiple_music_0915_6_public//still here_(1_2_Danny_Boy_Lead_sheet_with_lyrics_1)/vanilla
+Synthesis finished in 19.6s.
+User input keywords: love, running, round
+Predicted keywords:[['running', 'round'], ['Love', 'run'], ['soul', 'find'], ['love', 'runs']]
+1
+Generated Lyrics: 
+and it seems like you keep running round my head, love is all we need to run from it all, i can see that your soul is so hard to find, when the love that you lost has found a new home course.
+Saving files to multiple_music_0915_6_public//still here_(1_2_Danny_Boy_Lead_sheet_with_lyrics_1)/1_still here_(1_2_Danny_Boy_Lead_sheet_with_lyrics_1)
+Synthesis finished in 25.8s.
+100
+Generated Lyrics: 
+when you know me well you know me running round, what love can do when you run out of ways, i need your soul to help me find my own way, the only love that runs through my veins is yours yours.
+Saving files to multiple_music_0915_6_public//still here_(1_2_Danny_Boy_Lead_sheet_with_lyrics_1)/100_still here_(1_2_Danny_Boy_Lead_sheet_with_lyrics_1)
+Synthesis finished in 19.5s.
+99999
+Generated Lyrics: 
+and the running goes on and the world goes round, a love in my heart has got to run now, the only way that my soul will find you is, the love that you lost the love that you could not find.
+Saving files to multiple_music_0915_6_public//still here_(1_2_Danny_Boy_Lead_sheet_with_lyrics_1)/99999_still here_(1_2_Danny_Boy_Lead_sheet_with_lyrics_1)
+Synthesis finished in 33.5s.
+Melody title: 1_1_Danny_Boy_Lead_sheet_with_lyrics_1
+Song title: summer wind
+Compiled melody constraints: 
+[[0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1], [0, 0, 0, 1], [0, 0, 0, 0, 0, 1], [0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1], [0, 0, 0, 1, 0, 0, 0, 0, 0, 1]]
+New Folder Created
+Synthesis finished in 1.0s.
+Vanilla Lyrics: 
+When you get my love and when you get my heart I go out with my summer wind I'll send you my love and I'll show you my hand I'll show you my way and I'm gonna be the last man on Earth When you get my love and when you get my heart We go out with my summer wind I'll send you my love and I'll show you my hand We'll show you my way and I
+Saving files to multiple_music_0915_6_public//summer wind_(1_1_Danny_Boy_Lead_sheet_with_lyrics_1)/vanilla
+Synthesis finished in 0.9s.
+User input keywords: summer, wind, days
+Predicted keywords:[['wind', 'summer'], ['day', 'wonderful'], ['days', 'make'], ['Summer', 'time'], ['Days', 'made']]
+1
+Generated Lyrics: 
+i can see the wind blowing in the summer, the day was great, some days you make me feel, all the days that we had we made it through it, some days we make it better than others.
+Saving files to multiple_music_0915_6_public//summer wind_(1_1_Danny_Boy_Lead_sheet_with_lyrics_1)/1_summer wind_(1_1_Danny_Boy_Lead_sheet_with_lyrics_1)
+Synthesis finished in 17.6s.
+100
+Generated Lyrics: 
+there is a wind that blows through the summer time, some kind of day, some days you make me feel, these are the days that make you feel so good now, days we would sit and laugh and think of you.
+Saving files to multiple_music_0915_6_public//summer wind_(1_1_Danny_Boy_Lead_sheet_with_lyrics_1)/100_summer wind_(1_1_Danny_Boy_Lead_sheet_with_lyrics_1)
+Synthesis finished in 18.5s.
+99999
+Generated Lyrics: 
+in the summer wind and all the things that you, in the day or, and the days make the time, a few days to make a summer romance come, days make the days and the days make the time.
+Saving files to multiple_music_0915_6_public//summer wind_(1_1_Danny_Boy_Lead_sheet_with_lyrics_1)/99999_summer wind_(1_1_Danny_Boy_Lead_sheet_with_lyrics_1)
+Synthesis finished in 23.5s.
+Melody title: 1_1_Danny_Boy_Lead_sheet_with_lyrics_1
+Song title: tell me it's love
+Compiled melody constraints: 
+[[0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1], [0, 0, 0, 1], [0, 0, 0, 0, 0, 1], [0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1], [0, 0, 0, 1, 0, 0, 0, 0, 0, 1]]
+New Folder Created
+Synthesis finished in 24.5s.
+Vanilla Lyrics: 
+Tell me that it's love Tell me that it's love You've been working hard all year long Now you finally get a chance to show me a good time You get a chance to show me a good time All night long we stay out, we stay out All night long we stay out, we stay out All night long we stay out, we stay out All night long we stay outside, all out All
+Saving files to multiple_music_0915_6_public//tell me it's love_(1_1_Danny_Boy_Lead_sheet_with_lyrics_1)/vanilla
+Synthesis finished in 18.4s.
+User input keywords: love, feel, gonna
+Predicted keywords:[['love', 'told'], ['gonna', 'feel'], ['Gonna', 'feeling'], ['wanna', 'make'], ['Wanna', 'live']]
+1
+Generated Lyrics: 
+cause i just want to tell you that i love you, i gonna feel, going to feel this way, tell me that you wanna make love to me now, i wanna make you feel the way i do.
+Saving files to multiple_music_0915_6_public//tell me it's love_(1_1_Danny_Boy_Lead_sheet_with_lyrics_1)/1_tell me it's love_(1_1_Danny_Boy_Lead_sheet_with_lyrics_1)
+Synthesis finished in 17.7s.
+100
+Generated Lyrics: 
+would you tell me if it was love that you told, i gonna feel, that you gonna feel right, tell me that you wanna make me feel this way, not gonna let you make me feel this way.
+Saving files to multiple_music_0915_6_public//tell me it's love_(1_1_Danny_Boy_Lead_sheet_with_lyrics_1)/100_tell me it's love_(1_1_Danny_Boy_Lead_sheet_with_lyrics_1)
+Synthesis finished in 17.6s.
+99999
+Generated Lyrics: 
+the only way this love can be told to you, the way you feel, the and the and the feel, and the way you wanna make me adore you, and all i wanna do in this make up.
+Saving files to multiple_music_0915_6_public//tell me it's love_(1_1_Danny_Boy_Lead_sheet_with_lyrics_1)/99999_tell me it's love_(1_1_Danny_Boy_Lead_sheet_with_lyrics_1)
+Synthesis finished in 19.7s.
+Melody title: 2_What_Can_I_Say_After_I_Say_Im_Sorry_Lead_sheet_with_lyrics_
+Song title: the reason
+Compiled melody constraints: 
+[[0, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1], [0, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1], [0, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1], [1, 0, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1]]
+New Folder Created
+Synthesis finished in 18.5s.
+Vanilla Lyrics: 
+You just can't let the world pull the rug out from underneath you The one that's gonna break your heart It's got me losing all my sense of self Now I'm standing in a hole I'm standing in a hole I'm standing in a hole Yeah I'm standing in a hole I'm standing in a hole Yeah I'm standing in a hole I'm standing in a hole Yeah I'm
+Saving files to multiple_music_0915_6_public//the reason_(2_What_Can_I_Say_After_I_Say_Im_Sorry_Lead_sheet_with_lyrics_)/vanilla
+Synthesis finished in 19.7s.
+User input keywords: reason, found, start
+Predicted keywords:[['found', 'reason'], ['start', 'beginning'], ['find', 'time'], ['started', 'starting']]
+1
+Generated Lyrics: 
+well i found a reason to hang on to you now, we had to start from scratch with the beginning now, you said you would find me in the beginning, when did we all find out that time was gone so well.
+Saving files to multiple_music_0915_6_public//the reason_(2_What_Can_I_Say_After_I_Say_Im_Sorry_Lead_sheet_with_lyrics_)/1_the reason_(2_What_Can_I_Say_After_I_Say_Im_Sorry_Lead_sheet_with_lyrics_)
+Synthesis finished in 20.3s.
+100
+Generated Lyrics: 
+i just found the reason that i need you so much, and now i think its time to start the beginning, can you help me find my way back to a new, i could not find the time to tell you why i am.
+Saving files to multiple_music_0915_6_public//the reason_(2_What_Can_I_Say_After_I_Say_Im_Sorry_Lead_sheet_with_lyrics_)/100_the reason_(2_What_Can_I_Say_After_I_Say_Im_Sorry_Lead_sheet_with_lyrics_)
+Synthesis finished in 22.1s.
+99999
+Generated Lyrics: 
+and the way i found the reason to love you so, the start of this new beginning is not for me, and the way that i start the new beginning, got a new way to find the time that is right for.
+Saving files to multiple_music_0915_6_public//the reason_(2_What_Can_I_Say_After_I_Say_Im_Sorry_Lead_sheet_with_lyrics_)/99999_the reason_(2_What_Can_I_Say_After_I_Say_Im_Sorry_Lead_sheet_with_lyrics_)
+Synthesis finished in 23.8s.
+Melody title: 2_What_Can_I_Say_After_I_Say_Im_Sorry_Lead_sheet_with_lyrics_
+Song title: the way you look tonight
+Compiled melody constraints: 
+[[0, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1], [0, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1], [0, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1], [1, 0, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1]]
+New Folder Created
+Synthesis finished in 21.2s.
+Vanilla Lyrics: 
+The way you look tonight I could tell by the look in your eyes there, it's true The way you look tonight The way you look tonight The way you look tonight My heart keeps turning I can't feel my heart The way you look tonight I could tell by the look in your eyes there, it's true The way you look tonight 
+Saving files to multiple_music_0915_6_public//the way you look tonight_(2_What_Can_I_Say_After_I_Say_Im_Sorry_Lead_sheet_with_lyrics_)/vanilla
+Synthesis finished in 20.6s.
+User input keywords: Tearing, Touches, lovely
+Predicted keywords:[['Tearing', 'eyes'], ['lady', 'lovely'], ['tears', 'smile'], ['sadness', 'beautiful']]
+1
+Generated Lyrics: 
+tears of joy are falling down like rain from your eyes, she looks like a lady and she looks so lovely, when the tears are in your eyes and your love is, but my tears fall for your lady so beautiful.
+Saving files to multiple_music_0915_6_public//the way you look tonight_(2_What_Can_I_Say_After_I_Say_Im_Sorry_Lead_sheet_with_lyrics_)/1_the way you look tonight_(2_What_Can_I_Say_After_I_Say_Im_Sorry_Lead_sheet_with_lyrics_)
+Synthesis finished in 20.2s.
+100
+Generated Lyrics: 
+turning my head to see your tears in my blue eyes, and the lady is so lovely she could kill me, and the lady is lovely she looks so right, it tears me up to see you smile like that for me.
+Saving files to multiple_music_0915_6_public//the way you look tonight_(2_What_Can_I_Say_After_I_Say_Im_Sorry_Lead_sheet_with_lyrics_)/100_the way you look tonight_(2_What_Can_I_Say_After_I_Say_Im_Sorry_Lead_sheet_with_lyrics_)
+Synthesis finished in 23.0s.
+99999
+Generated Lyrics: 
+sh and the tears came streaming down from your eyes to me, the lady you love so lovely you could kill me, in between your tears and the way you smile now, not in the tears you cry and the sweet smile you do.
+Synthesize error, regenerating...
+Generated Lyrics: 
+the way you look at me and shed those tears for me, the lady you love looks a lot like me though she, and the tears that fall for your most lovely one, no tears in your eyes no tears in your smile oh oh.
+Saving files to multiple_music_0915_6_public//the way you look tonight_(2_What_Can_I_Say_After_I_Say_Im_Sorry_Lead_sheet_with_lyrics_)/99999_the way you look tonight_(2_What_Can_I_Say_After_I_Say_Im_Sorry_Lead_sheet_with_lyrics_)
+Synthesis finished in 24.4s.
+Melody title: 1_Moon_River_lead_sheet_with_lyrics_1
+Song title: to be loved
+Compiled melody constraints: 
+[[1, 0, 1, 1, 0, 0, 0, 1], [0, 1, 0, 0, 0, 1, 0, 1], [0, 1, 0, 1, 0, 1, 0, 1], [0, 0, 0, 0, 0, 1], [0, 0, 1, 0, 1]]
+New Folder Created
+Synthesis finished in 17.3s.
+Vanilla Lyrics: 
+I've learned to feel it When you're standing near my door I guess this is the time, oh yeah It's gonna be a lonely day I'd rather make mistakes And then watch them burn And I will give love for free To the one I love with so much desire I will give love so that I can breathe again And I will live forever I'm gonna give love for free To
+Saving files to multiple_music_0915_6_public//to be loved_(1_Moon_River_lead_sheet_with_lyrics_1)/vanilla
+Synthesis finished in 22.4s.
+User input keywords: real, feels, time
+Predicted keywords:[['real', 'feels'], ['time', 'feel'], ['love', 'loved'], ['wanna', 'be'], ['true', 'felt']]
+1
+Generated Lyrics: 
+is it real how this feels to me, for the first time i can feel it, to be loved by you to be loved, i just wanna be loved, to be true felt like.
+Saving files to multiple_music_0915_6_public//to be loved_(1_Moon_River_lead_sheet_with_lyrics_1)/1_to be loved_(1_Moon_River_lead_sheet_with_lyrics_1)
+Synthesis finished in 17.7s.
+100
+Generated Lyrics: 
+is it real how this feels to me, the first time that i feel this way, to be loved by you to be loved, i wanna be loved by, a true love that felt.
+Saving files to multiple_music_0915_6_public//to be loved_(1_Moon_River_lead_sheet_with_lyrics_1)/100_to be loved_(1_Moon_River_lead_sheet_with_lyrics_1)
+Synthesis finished in 21.1s.
+99999
+Generated Lyrics: 
+is the real thing and it feels like, the first time in the way i feel, and to be loved and to be loved, and i wanna be loved, in the way true felt.
+Saving files to multiple_music_0915_6_public//to be loved_(1_Moon_River_lead_sheet_with_lyrics_1)/99999_to be loved_(1_Moon_River_lead_sheet_with_lyrics_1)
+Synthesis finished in 23.3s.
+Melody title: Baby_Face
+Song title: too hard to say goodbye
+Compiled melody constraints: 
+[[1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1], [0, 0, 0, 0, 0, 0, 0, 1, 0, 1], [1, 0, 1, 1, 0, 1, 0, 0, 0], [0, 0, 0, 1, 0, 0, 0, 1, 0, 1]]
+New Folder Created
+Synthesis finished in 16.1s.
+Vanilla Lyrics: 
+I just wanna run and hide away My thoughts turn to a dream or a dream Too fast to say goodbye to you We just made a deal I'm so tired and I need to change I can't tell your face but I'm feeling you I just want to run and hide away I feel like I might never come back My words won't work for you We just made a deal I'm so tired
+Saving files to multiple_music_0915_6_public//too hard to say goodbye_(Baby_Face)/vanilla
+Synthesis finished in 20.0s.
+User input keywords: hard, goodbye, Standing
+Predicted keywords:[['Standing', 'lonely'], ['goodbye', 'hard'], ['standing', 'wanna'], ['standing', 'waiting']]
+1
+Generated Lyrics: 
+standing here lonely with nothing left to say to you, too hard to say goodbye to you too hard, can we say goodbye too hard to say, here we are standing in the cold we don.
+Saving files to multiple_music_0915_6_public//too hard to say goodbye_(Baby_Face)/1_too hard to say goodbye_(Baby_Face)
+Synthesis finished in 18.5s.
+100
+Generated Lyrics: 
+walking down the street when all the faces look lonely, too hard to say goodbye too hard to say, can we say goodbye too hard to say, you were standing right there and i wanna.
+Saving files to multiple_music_0915_6_public//too hard to say goodbye_(Baby_Face)/100_too hard to say goodbye_(Baby_Face)
+Synthesis finished in 17.2s.
+99999
+Generated Lyrics: 
+sitting up in the dark and crying and lonely too, and too hard to say goodbye to you too, said goodbye too hard to say goodbye, a and a standing in the way and you.
+Saving files to multiple_music_0915_6_public//too hard to say goodbye_(Baby_Face)/99999_too hard to say goodbye_(Baby_Face)
+Synthesis finished in 15.7s.
+Melody title: 1_2_Danny_Boy_Lead_sheet_with_lyrics_1
+Song title: try again
+Compiled melody constraints: 
+[[0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1], [0, 0, 0, 1, 0, 0, 0, 0, 0, 1], [0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]]
+New Folder Created
+Synthesis finished in 18.1s.
+Vanilla Lyrics: 
+I tried to hide it from you And all I ever wanted was to stay young Never let you know the pain And it’s hard to be strong I need you so bad my heart aches I need you so bad my heart aches I can make any dreams come true I’ll give you my life I just wanna stay young I need you so bad my heart aches I need
+Saving files to multiple_music_0915_6_public//try again_(1_2_Danny_Boy_Lead_sheet_with_lyrics_1)/vanilla
+Synthesis finished in 20.8s.
+User input keywords: Baby, someday, thought
+Predicted keywords:[['Baby', 'wanna'], ['Wanna', 'try'], ['Try', 'harder'], ['baby', 'thought']]
+1
+Generated Lyrics: 
+baby why you wanna go and break my heart, i wanna be the one you tried so hard, try again try again try again no more, i tried so hard to make you fall in love with me.
+Saving files to multiple_music_0915_6_public//try again_(1_2_Danny_Boy_Lead_sheet_with_lyrics_1)/1_try again_(1_2_Danny_Boy_Lead_sheet_with_lyrics_1)
+Synthesis finished in 19.5s.
+100
+Generated Lyrics: 
+baby i wanna try a little harder, not so in love wanna try again now, take a little more time to try and try hard, and baby i thought that we could make it somehow.
+Saving files to multiple_music_0915_6_public//try again_(1_2_Danny_Boy_Lead_sheet_with_lyrics_1)/100_try again_(1_2_Danny_Boy_Lead_sheet_with_lyrics_1)
+Synthesis finished in 18.4s.
+99999
+Generated Lyrics: 
+a a a baby wanna try a hard to, not in the mood the way you wanna try, try a little harder and make it right now, a a a a a a a a a a a try.
+Saving files to multiple_music_0915_6_public//try again_(1_2_Danny_Boy_Lead_sheet_with_lyrics_1)/99999_try again_(1_2_Danny_Boy_Lead_sheet_with_lyrics_1)
+Synthesis finished in 17.5s.
+Melody title: 1_1_Danny_Boy_Lead_sheet_with_lyrics_1
+Song title: until the end of time
+Compiled melody constraints: 
+[[0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1], [0, 0, 0, 1], [0, 0, 0, 0, 0, 1], [0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1], [0, 0, 0, 1, 0, 0, 0, 0, 0, 1]]
+New Folder Created
+Synthesis finished in 17.7s.
+Vanilla Lyrics: 
+I've been losing my mind all day long I've been working a job I need to make some money To buy a new car and a big house in the country I love the people of my town I've been working for long to get these things done I can't go on living my life like a fool I gotta have that money to buy a new car and a big house in the country I want to find my own way
+Saving files to multiple_music_0915_6_public//until the end of time_(1_1_Danny_Boy_Lead_sheet_with_lyrics_1)/vanilla
+Synthesis finished in 17.4s.
+User input keywords: time, show, love
+Predicted keywords:[['time', 'end'], ['show', 'love'], ['things', 'feel'], ['change', 'life'], ['forever', 'live']]
+1
+Generated Lyrics: 
+this is not the time or the place for the end, let me show you, the way things used to feel, but you can change your life for the better now, if we change the way we live our life.
+Saving files to multiple_music_0915_6_public//until the end of time_(1_1_Danny_Boy_Lead_sheet_with_lyrics_1)/1_until the end of time_(1_1_Danny_Boy_Lead_sheet_with_lyrics_1)
+Synthesis finished in 17.6s.
+100
+Generated Lyrics: 
+the time has come for us to meet in the end, to show you love, and all the things you feel, the things that you feel are the things that you say, i cant wait forever to live with you.
+Saving files to multiple_music_0915_6_public//until the end of time_(1_1_Danny_Boy_Lead_sheet_with_lyrics_1)/100_until the end of time_(1_1_Danny_Boy_Lead_sheet_with_lyrics_1)
+Synthesis finished in 17.6s.
+99999
+Generated Lyrics: 
+in time the pain will melt and the hurt will end, and show the way, and the things that you feel, the way the things in life can make us feel so, in forever and ever and live on.
+Saving files to multiple_music_0915_6_public//until the end of time_(1_1_Danny_Boy_Lead_sheet_with_lyrics_1)/99999_until the end of time_(1_1_Danny_Boy_Lead_sheet_with_lyrics_1)
+Synthesis finished in 18.4s.
+Melody title: Baby_Face
+Song title: verdict
+Compiled melody constraints: 
+[[1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1], [0, 0, 0, 0, 0, 0, 0, 1, 0, 1], [1, 0, 1, 1, 0, 1, 0, 0, 0], [0, 0, 0, 1, 0, 0, 0, 1, 0, 1]]
+New Folder Created
+Synthesis finished in 28.3s.
+Vanilla Lyrics: 
+There's too much of everything in this town It's taking some time to get up to speed You don't want a single thing to change your mind Your head's already spinning No one's gonna hold your hand You're a thousand miles behind No one's gonna hold your hand It's like you're a judge on the run. 
+Saving files to multiple_music_0915_6_public//verdict_(Baby_Face)/vanilla
+Synthesis finished in 16.5s.
+User input keywords: picture, missed, turn
+Predicted keywords:[['missed', 'picture'], ['turn', 'time'], ['wrong', 'thought'], ['guilty', 'found']]
+1
+Generated Lyrics: 
+we missed the picture cause we were too caught up in it, and now you try to turn the hands of time, to turn the hands of time and change it, i was wrong all along i thought i saw.
+Saving files to multiple_music_0915_6_public//verdict_(Baby_Face)/1_verdict_(Baby_Face)
+Synthesis finished in 15.7s.
+100
+Generated Lyrics: 
+i missed your face when i saw your picture on the wall, and now you try to turn the hands of time, but you could turn back the hands of time, i was wrong for thinking you would want me.
+Saving files to multiple_music_0915_6_public//verdict_(Baby_Face)/100_verdict_(Baby_Face)
+Synthesis finished in 16.2s.
+99999
+Generated Lyrics: 
+i missed your face and your picture and the way you look, and when it would turn out the same in time, did i turn it the wrong way this time, in the wrong place at the wrong time and then.
+Saving files to multiple_music_0915_6_public//verdict_(Baby_Face)/99999_verdict_(Baby_Face)
+Synthesis finished in 19.7s.
+Melody title: 2_What_Can_I_Say_After_I_Say_Im_Sorry_Lead_sheet_with_lyrics_
+Song title: what becomes of the broken hearted
+Compiled melody constraints: 
+[[0, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1], [0, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1], [0, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1], [1, 0, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1]]
+New Folder Created
+Synthesis finished in 18.5s.
+Vanilla Lyrics: 
+What makes you so mad? What makes you so mad? What makes you so mad? What makes you so mad? What makes you so mad? What makes you so mad? 
+Syllabify error, regenerating...
+Vanilla Lyrics: 
+I remember those times you promised. Well, I remember that time and it brought me close to you I remember the day you made me cry Well, I remember you made me cry. I remember those times and it brought me close to you I remember my heart breaking apart and I'm left with just one I remember when you broke my heart and you were the only one Well, I remember you made me cry. I
+Saving files to multiple_music_0915_6_public//what becomes of the broken hearted_(2_What_Can_I_Say_After_I_Say_Im_Sorry_Lead_sheet_with_lyrics_)/vanilla
+Synthesis finished in 18.5s.
+User input keywords: love, broken, hearted
+Predicted keywords:[['broken', 'hearted'], ['love', 'hearts'], ['hurt', 'feelings'], ['tears', 'falling']]
+1
+Generated Lyrics: 
+what does it mean to be a broken hearted one, we are the ones who love our broken hearts best, and we hurt the feelings that we had for each, these are the tears falling out of your eyes for me.
+Saving files to multiple_music_0915_6_public//what becomes of the broken hearted_(2_What_Can_I_Say_After_I_Say_Im_Sorry_Lead_sheet_with_lyrics_)/1_what becomes of the broken hearted_(2_What_Can_I_Say_After_I_Say_Im_Sorry_Lead_sheet_with_lyrics_)
+Synthesis finished in 20.6s.
+100
+Generated Lyrics: 
+and what does it mean to be a heart broken heart, and there is no one to love who lives in their hearts, and the hurt that these feelings cause me to feel, just like the tears falling out of your eyes to me.
+Saving files to multiple_music_0915_6_public//what becomes of the broken hearted_(2_What_Can_I_Say_After_I_Say_Im_Sorry_Lead_sheet_with_lyrics_)/100_what becomes of the broken hearted_(2_What_Can_I_Say_After_I_Say_Im_Sorry_Lead_sheet_with_lyrics_)
+Synthesis finished in 19.0s.
+99999
+Generated Lyrics: 
+and the way that we love and how we break each heart, and the love that was in the hearts of both of us, in the hurt of your secret hurt feelings of, but the tears of love are falling down on me now.
+Saving files to multiple_music_0915_6_public//what becomes of the broken hearted_(2_What_Can_I_Say_After_I_Say_Im_Sorry_Lead_sheet_with_lyrics_)/99999_what becomes of the broken hearted_(2_What_Can_I_Say_After_I_Say_Im_Sorry_Lead_sheet_with_lyrics_)
+Synthesis finished in 18.8s.
+Loading eval meta data from /home/yufeit/VoiceSynthesizer/6_eval_public/6_public_melody_meta.json
+Loading Models...
+Melody title: 1_Moon_River_lead_sheet_with_lyrics_1
+Song title: how will i know
+Compiled melody constraints: 
+[[1, 0, 1, 1, 0, 0, 0, 1], [0, 1, 0, 0, 0, 1, 0, 1], [0, 1, 0, 1, 0, 1, 0, 1], [0, 0, 0, 0, 0, 1], [0, 0, 1, 0, 1]]
+New Folder Created
+Synthesis finished in 23.8s.
+Vanilla Lyrics: 
+It's been awhile since you said you'd be here It's been hard not talking on cell phone When I called him on the phone? But I'm not gonna see him anymore If I call him on the phone? I need to see him again, I need to see him again We were just a couple, just a couple in love We could talk and talk every day I need to see him again, I need
+Saving files to multiple_music_0915_6_public//how will i know_(1_Moon_River_lead_sheet_with_lyrics_1)/vanilla
+Synthesis finished in 17.9s.
+User input keywords: love, feel, wake
+Predicted keywords:[['feel', 'love'], ['sleep', 'wake'], ['woke', 'feeling'], ['night', 'dreams'], ['make', 'belong']]
+1
+Generated Lyrics: 
+i feel like i want to love you, and how will i sleep when i wake, i just woke up with the feeling, i woke up with a feel, to make me belong.
+Saving files to multiple_music_0915_6_public//how will i know_(1_Moon_River_lead_sheet_with_lyrics_1)/1_how will i know_(1_Moon_River_lead_sheet_with_lyrics_1)
+Synthesis finished in 17.3s.
+100
+Generated Lyrics: 
+if i could feel your love for me, i cant sleep or i will wake up, i woke up this morning feeling, i woke up with feeling, to make you belong.
+Saving files to multiple_music_0915_6_public//how will i know_(1_Moon_River_lead_sheet_with_lyrics_1)/100_how will i know_(1_Moon_River_lead_sheet_with_lyrics_1)
+Synthesis finished in 17.4s.
+99999
+Generated Lyrics: 
+when i feel your love in the night, and i can not sleep or wake up, until i woke up this feeling, in the night and in dreams, the night of my dreams.
+Saving files to multiple_music_0915_6_public//how will i know_(1_Moon_River_lead_sheet_with_lyrics_1)/99999_how will i know_(1_Moon_River_lead_sheet_with_lyrics_1)
+Synthesis finished in 27.9s.
+Melody title: 2_What_Can_I_Say_After_I_Say_Im_Sorry_Lead_sheet_with_lyrics_
+Song title: all the man that i need
+Compiled melody constraints: 
+[[0, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1], [0, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1], [0, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1], [1, 0, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1]]
+New Folder Created
+Synthesis finished in 28.3s.
+Vanilla Lyrics: 
+I've been so long I don't think this is really happening anymore He looks so young, so young But his face looks so old He walks in, he's dressed in blue I could tell you if I needed a man (a girl (I'm a boy, a boy He's in my pants, he's dressed in blue (I'm a boy, a boy He looks so young, so
+Saving files to multiple_music_0915_6_public//all the man that i need_(2_What_Can_I_Say_After_I_Say_Im_Sorry_Lead_sheet_with_lyrics_)/vanilla
+Synthesis finished in 19.0s.
+User input keywords: night, eyes, slow
+Predicted keywords:[['night', 'falling'], ['eyes', 'slow'], ['love', 'wanna'], ['man', 'need']]
+1
+Generated Lyrics: 
+if the night is falling and no one is near me, i can see it in your eyes falling out of sight, all the love i wanna give to you is you, all the love i wanna give to you is you know.
+Saving files to multiple_music_0915_6_public//all the man that i need_(2_What_Can_I_Say_After_I_Say_Im_Sorry_Lead_sheet_with_lyrics_)/1_all the man that i need_(2_What_Can_I_Say_After_I_Say_Im_Sorry_Lead_sheet_with_lyrics_)
+Synthesis finished in 26.8s.
+100
+Generated Lyrics: 
+in the dead of night and the stars are falling down, so close your eyes now and just let it fall like rain, but my love is what you wanna do to me, i need a love that i wanna feel for me though.
+Saving files to multiple_music_0915_6_public//all the man that i need_(2_What_Can_I_Say_After_I_Say_Im_Sorry_Lead_sheet_with_lyrics_)/100_all the man that i need_(2_What_Can_I_Say_After_I_Say_Im_Sorry_Lead_sheet_with_lyrics_)
+Synthesis finished in 27.1s.
+99999
+Generated Lyrics: 
+in the dead of night and the rain is falling down, and in your eyes i see the rain clouds go by slow, and the love that i wanna feel for you is, i want the love that i wanna give to you now.
+Saving files to multiple_music_0915_6_public//all the man that i need_(2_What_Can_I_Say_After_I_Say_Im_Sorry_Lead_sheet_with_lyrics_)/99999_all the man that i need_(2_What_Can_I_Say_After_I_Say_Im_Sorry_Lead_sheet_with_lyrics_)
+Synthesis finished in 26.4s.
+Melody title: 1_1_Danny_Boy_Lead_sheet_with_lyrics_1
+Song title: jesus loves me
+Compiled melody constraints: 
+[[0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1], [0, 0, 0, 1], [0, 0, 0, 0, 0, 1], [0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1], [0, 0, 0, 1, 0, 0, 0, 0, 0, 1]]
+New Folder Created
+Synthesis finished in 20.5s.
+Vanilla Lyrics: 
+Jesus loves me He loves me because he loves the way I feel His faith won't let me fall His words give me peace And he talks about love He talks about love that's worth living for He talks about the way He heals my life And He loves my love He loves my love that's worth living for He talks about love He loves my love that's worth living for He loves my
+Saving files to multiple_music_0915_6_public//jesus loves me_(1_1_Danny_Boy_Lead_sheet_with_lyrics_1)/vanilla
+Synthesis finished in 23.4s.
+User input keywords: Jesus, loves, Feels
+Predicted keywords:[['Jesus', 'loves'], ['Feels', 'love'], ['Love', 'feels'], ['God', 'wanna'], ['gonna', 'give']]
+1
+Generated Lyrics: 
+oh jesus loves me jesus loves me so much, jesus loves me, this is not a love song, love like jesus loves me feels so right to me, not gonna give up on you jesus loves.
+Saving files to multiple_music_0915_6_public//jesus loves me_(1_1_Danny_Boy_Lead_sheet_with_lyrics_1)/1_jesus loves me_(1_1_Danny_Boy_Lead_sheet_with_lyrics_1)
+Synthesis finished in 18.1s.
+100
+Generated Lyrics: 
+that jesus loves me and all the things i do, jesus loves me, love like jesus loves me, love is all i need to know how it feels to, and the song by the song by the song by.
+Saving files to multiple_music_0915_6_public//jesus loves me_(1_1_Danny_Boy_Lead_sheet_with_lyrics_1)/100_jesus loves me_(1_1_Danny_Boy_Lead_sheet_with_lyrics_1)
+Synthesis finished in 20.6s.
+99999
+Generated Lyrics: 
+jesus loves me and he wants me and he wants, jesus loves me, a the love the world feels, love and the way it feels and the way it seems, and the creator of you and of me.
+Saving files to multiple_music_0915_6_public//jesus loves me_(1_1_Danny_Boy_Lead_sheet_with_lyrics_1)/99999_jesus loves me_(1_1_Danny_Boy_Lead_sheet_with_lyrics_1)
+Synthesis finished in 31.5s.
+Melody title: 1_1_Danny_Boy_Lead_sheet_with_lyrics_1
+Song title: where do broken hearts go
+Compiled melody constraints: 
+[[0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1], [0, 0, 0, 1], [0, 0, 0, 0, 0, 1], [0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1], [0, 0, 0, 1, 0, 0, 0, 0, 0, 1]]
+New Folder Created
+Synthesis finished in 0.9s.
+Vanilla Lyrics: 
+Don't wanna feel your touch I feel like I'm alive I can't make you stay this time 'Cause I won't hurt you now 'Cause I won't hurt you now Can you break my heart Can you break my heart 'Cause I won't hurt you now 'Cause I won't hurt you now Just to get a taste for loving I can't take another touch, no matter how hard
+Saving files to multiple_music_0915_6_public//where do broken hearts go_(1_1_Danny_Boy_Lead_sheet_with_lyrics_1)/vanilla
+Synthesis finished in 0.9s.
+User input keywords: home, broken, hearts
+Predicted keywords:[['heart', 'broken'], ['home', 'made'], ['time', 'find'], ['hope', 'gonna'], ['hearts', 'break']]
+1
+Generated Lyrics: 
+my heart was broken when you left me for good, my home was made, from the time we made it, in the time that it takes to find a new one, where do broken hearts go where do they go.
+Saving files to multiple_music_0915_6_public//where do broken hearts go_(1_1_Danny_Boy_Lead_sheet_with_lyrics_1)/1_where do broken hearts go_(1_1_Danny_Boy_Lead_sheet_with_lyrics_1)
+Synthesis finished in 0.9s.
+100
+Generated Lyrics: 
+you know my heart is broken when you leave me, my home was made, not in time to find you, in time you can find a way to let them go, in the hope that one day they gonna see.
+Saving files to multiple_music_0915_6_public//where do broken hearts go_(1_1_Danny_Boy_Lead_sheet_with_lyrics_1)/100_where do broken hearts go_(1_1_Danny_Boy_Lead_sheet_with_lyrics_1)
+Synthesis finished in 0.9s.
+99999
+Generated Lyrics: 
+and where do we go from here my broken heart, the home you made, in this time we will find, the first time i ever saw your face i found, in the hope that one of them is gonna.
+Saving files to multiple_music_0915_6_public//where do broken hearts go_(1_1_Danny_Boy_Lead_sheet_with_lyrics_1)/99999_where do broken hearts go_(1_1_Danny_Boy_Lead_sheet_with_lyrics_1)
+Synthesis finished in 17.7s.
+Loading eval meta data from /home/yufeit/VoiceSynthesizer/6_eval_public/6_public_melody_meta.json
+Loading Models...
+Melody title: 1_Moon_River_lead_sheet_with_lyrics_1
+Song title: greatest love of all
+Compiled melody constraints: 
+[[1, 0, 1, 1, 0, 0, 0, 1], [0, 1, 0, 0, 0, 1, 0, 1], [0, 1, 0, 1, 0, 1, 0, 1], [0, 0, 0, 0, 0, 1], [0, 0, 1, 0, 1]]
+New Folder Created
+Synthesis finished in 17.3s.
+Vanilla Lyrics: 
+It's no surprise to me, that you had the greatest love of all It's no surprise to me, that you had the greatest love of all But I'm not your lover anymore, my friends Your friends won't be here to hold you, no more Your best friend's gone, so don't hold on Your best friend's gone, so don't hold on It's no surprise to me, that you had the greatest love of
+Saving files to multiple_music_0915_6_public//greatest love of all_(1_Moon_River_lead_sheet_with_lyrics_1)/vanilla
+Synthesis finished in 22.1s.
+User input keywords: love, greatest, children
+Predicted keywords:[['love', 'greatest'], ['children', 'wonderful'], ['childhood', 'someday'], ['world', 'gonna'], ['loved', 'most']]
+1
+Generated Lyrics: 
+my love for you is greatest love, the children are so wonderful, when my childhood dreams are someday, the world will be gonna, when he loved you most.
+Saving files to multiple_music_0915_6_public//greatest love of all_(1_Moon_River_lead_sheet_with_lyrics_1)/1_greatest love of all_(1_Moon_River_lead_sheet_with_lyrics_1)
+Synthesis finished in 17.8s.
+100
+Generated Lyrics: 
+my love for you is greatest love, like my children are wonderful, in your childhood someday not now, the world is gonna say, i loved you most than.
+Saving files to multiple_music_0915_6_public//greatest love of all_(1_Moon_River_lead_sheet_with_lyrics_1)/100_greatest love of all_(1_Moon_River_lead_sheet_with_lyrics_1)
+Synthesis finished in 19.7s.
+99999
+Generated Lyrics: 
+my love for you the greatest love, the children and the greatest love, the childhood of a someday man, the world is gonna say, in a loved and most.
+Saving files to multiple_music_0915_6_public//greatest love of all_(1_Moon_River_lead_sheet_with_lyrics_1)/99999_greatest love of all_(1_Moon_River_lead_sheet_with_lyrics_1)
+Synthesis finished in 23.7s.
+Melody title: Baby_Face
+Song title: hold me (feat. teddy pendergrass)
+Compiled melody constraints: 
+[[1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1], [0, 0, 0, 0, 0, 0, 0, 1, 0, 1], [1, 0, 1, 1, 0, 1, 0, 0, 0], [0, 0, 0, 1, 0, 0, 0, 1, 0, 1]]
+New Folder Created
+Synthesis finished in 29.1s.
+Vanilla Lyrics: 
+The way things stand now That's the way things used to be It's a long long time ago And that was a long time ago We were friends in high school But there's been a change in the air that we breathe It's such a cold hard cold hard cold hard cold hard Hold me back, hold me back Hold me back, hold me back Hold me back, hold me back 
+Saving files to multiple_music_0915_6_public//hold me (feat. teddy pendergrass)_(Baby_Face)/vanilla
+Synthesis finished in 18.6s.
+User input keywords: make, hold, Tonight
+Predicted keywords:[['Tonight', 'hold'], ['make', 'feel'], ['wanna', 'find'], ['nightmare', 'stay']]
+1
+Generated Lyrics: 
+tonight i wanna hold you so bad but not this way, if you can make me feel like you want me, you wanna find out what it feels like, what would it take to make me feel this way.
+Saving files to multiple_music_0915_6_public//hold me (feat. teddy pendergrass)_(Baby_Face)/1_hold me (feat. teddy pendergrass)_(Baby_Face)
+Synthesis finished in 28.1s.
+100
+Generated Lyrics: 
+here it comes tonight i need you to hold me tight and, and make me feel the way you make me feel, i wanna find a way to feel like, i wanna find a way to let you down.
+Saving files to multiple_music_0915_6_public//hold me (feat. teddy pendergrass)_(Baby_Face)/100_hold me (feat. teddy pendergrass)_(Baby_Face)
+Synthesis finished in 81.1s.
+99999
+Generated Lyrics: 
+here tonight and i just can not wait to hold you near, a way to make you feel the way i feel, for the ones that wanna find a way, the nightmare is here to stay with me now.
+Saving files to multiple_music_0915_6_public//hold me (feat. teddy pendergrass)_(Baby_Face)/99999_hold me (feat. teddy pendergrass)_(Baby_Face)
+Synthesis finished in 15.7s.
+Melody title: 1_2_Danny_Boy_Lead_sheet_with_lyrics_1
+Song title: hold on (help is on the way)
+Compiled melody constraints: 
+[[0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1], [0, 0, 0, 1, 0, 0, 0, 0, 0, 1], [0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]]
+New Folder Created
+Synthesis finished in 20.0s.
+Vanilla Lyrics: 
+When I woke up in the wrong place at night When I tried to find a place where I belong But I've got the feeling of being alone When I was seventeen when I knew That you'd be my love forever and ever but a day In some kind of way I can't replace Now that I've left you I found no reasons why No reason why I couldn't love you for a million years To hold on to
+Syllabify error, regenerating...
+Vanilla Lyrics: 
+I can see all the signs of progress in your eyes With the sun that glows in your eyes You make me feel alive I don't need a million signs to tell me I do And the future feels so clear for you And I hear you're making it to your time of need Help is on the way, I will keep walking But the road you walk on seems a little long, And I'm on the run
+Saving files to multiple_music_0915_6_public//hold on (help is on the way)_(1_2_Danny_Boy_Lead_sheet_with_lyrics_1)/vanilla
+Synthesis finished in 34.7s.
+User input keywords: Hold, God, Yeah
+Predicted keywords:[['God', 'hold'], ['Yeah', 'Hold'], ['Hey', 'yeah'], ['hope', 'waiting']]
+1
+Generated Lyrics: 
+god i need someone to hold on to me now, hold on to me yeah hold on to me yeah, well hey hey yeah yeah yeah yeah yeah yeah hold on, and i hope that you are waiting for me to come.
+Saving files to multiple_music_0915_6_public//hold on (help is on the way)_(1_2_Danny_Boy_Lead_sheet_with_lyrics_1)/1_hold on (help is on the way)_(1_2_Danny_Boy_Lead_sheet_with_lyrics_1)
+Synthesis finished in 19.2s.
+100
+Generated Lyrics: 
+god i need someone to hold on to me now, and it feels so good to have you here yeah, hey hold on to me yeah hold on to me yeah, let me tell you what i hope you are waiting for.
+Saving files to multiple_music_0915_6_public//hold on (help is on the way)_(1_2_Danny_Boy_Lead_sheet_with_lyrics_1)/100_hold on (help is on the way)_(1_2_Danny_Boy_Lead_sheet_with_lyrics_1)
+Synthesis finished in 0.9s.
+99999
+Generated Lyrics: 
+in the garage with a gun and a god damn, yeah the time is right for us to hold on, hey and the whole world is watching and yeah yeah, the hope of all your prayers is now waiting in line.
+Saving files to multiple_music_0915_6_public//hold on (help is on the way)_(1_2_Danny_Boy_Lead_sheet_with_lyrics_1)/99999_hold on (help is on the way)_(1_2_Danny_Boy_Lead_sheet_with_lyrics_1)
+Synthesis finished in 18.8s.
+Melody title: Baby_Face
+Song title: how will i know
+Compiled melody constraints: 
+[[1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1], [0, 0, 0, 0, 0, 0, 0, 1, 0, 1], [1, 0, 1, 1, 0, 1, 0, 0, 0], [0, 0, 0, 1, 0, 0, 0, 1, 0, 1]]
+New Folder Created
+Synthesis finished in 16.7s.
+Vanilla Lyrics: 
+You're the girl next door The girl who knows her daddy The girl who takes you on tour You're the girl next door The girl who knows her daddy How will I know when i kiss you? When i touch your hand Or how the world works That you won't tell me how it feels When you're in the corner of my mind I'd take you home with me When you're
+Saving files to multiple_music_0915_6_public//how will i know_(Baby_Face)/vanilla
+Synthesis finished in 0.9s.
+User input keywords: love, feel, wake
+Predicted keywords:[['feel', 'love'], ['sleep', 'wake'], ['hope', 'find'], ['time', 'make']]
+1
+Generated Lyrics: 
+how will i know if you feel the same way i do love, you might not sleep at night and not wake up, and i hope that i will find it here, no one knows what time it is we will make.
+Saving files to multiple_music_0915_6_public//how will i know_(Baby_Face)/1_how will i know_(Baby_Face)
+Synthesis finished in 15.8s.
+100
+Generated Lyrics: 
+how will i know if you feel the same way i do love, you might not sleep or you might not wake up, but i hope that i find what i want, but i hope that i find what i need it.
+Saving files to multiple_music_0915_6_public//how will i know_(Baby_Face)/100_how will i know_(Baby_Face)
+Synthesis finished in 15.6s.
+99999
+Generated Lyrics: 
+if the way you feel and the way you love is the same, the more i try to sleep the less i wake, i hope i find the one for me and, the first time i have to make up my mind.
+Saving files to multiple_music_0915_6_public//how will i know_(Baby_Face)/99999_how will i know_(Baby_Face)
+Synthesis finished in 16.0s.
+Melody title: 2_What_Can_I_Say_After_I_Say_Im_Sorry_Lead_sheet_with_lyrics_
+Song title: i believe in you and me
+Compiled melody constraints: 
+[[0, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1], [0, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1], [0, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1], [1, 0, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1]]
+New Folder Created
+Synthesis finished in 30.1s.
+Vanilla Lyrics: 
+And in your arms I'll never leave To feel you all over my world And if you don't want me to be true I'm gonna be the one that's missing I'm the one that's been waiting for you I'm gonna be the one that's missing When you're with me my heart will keep holding on And the day that's right when it all changes Will be the day that's real And
+Saving files to multiple_music_0915_6_public//i believe in you and me_(2_What_Can_I_Say_After_I_Say_Im_Sorry_Lead_sheet_with_lyrics_)/vanilla
+Synthesis finished in 18.7s.
+User input keywords: lost, free, love
+Predicted keywords:[['free', 'love'], ['stronger', 'feelings'], ['lost', 'feeling'], ['wanna', 'live']]
+1
+Generated Lyrics: 
+no one else can free me from the love you give me, i am stronger than all of these feelings that i, all of the lost feelings are here in me now, i wanna live my life with you in it too i.
+Saving files to multiple_music_0915_6_public//i believe in you and me_(2_What_Can_I_Say_After_I_Say_Im_Sorry_Lead_sheet_with_lyrics_)/1_i believe in you and me_(2_What_Can_I_Say_After_I_Say_Im_Sorry_Lead_sheet_with_lyrics_)
+Synthesis finished in 18.5s.
+100
+Generated Lyrics: 
+the more we are free to love the more we are free, and we are stronger than our feelings are strong, i have lost all these feelings for you and me, not all the lost feelings will come back to you now.
+Saving files to multiple_music_0915_6_public//i believe in you and me_(2_What_Can_I_Say_After_I_Say_Im_Sorry_Lead_sheet_with_lyrics_)/100_i believe in you and me_(2_What_Can_I_Say_After_I_Say_Im_Sorry_Lead_sheet_with_lyrics_)
+Synthesis finished in 18.7s.
+99999
+Generated Lyrics: 
+the more we are free and the more we are in love, and the more we are the stronger these feelings are, and believe that we have lost that old feeling, so the more we are lost the less we are feeling.
+Saving files to multiple_music_0915_6_public//i believe in you and me_(2_What_Can_I_Say_After_I_Say_Im_Sorry_Lead_sheet_with_lyrics_)/99999_i believe in you and me_(2_What_Can_I_Say_After_I_Say_Im_Sorry_Lead_sheet_with_lyrics_)
+Synthesis finished in 18.8s.

@@ -1,0 +1,887 @@
+Loading eval meta data from /home/yufeit/VoiceSynthesizer/eval_melody_0829/commercial_melody_meta.json
+Loading Models...
+Melody title: All_I_Want_For_Christmas_Is_You
+Song title: tightrope
+Compiled melody constraints: 
+[[1, 1, 1, 0, 1, 1, 0, 1], [1, 1, 0, 1, 1, 1, 1], [0, 1, 1, 1, 0, 1, 1, 1, 1], [1, 0, 1, 0, 1, 1, 1], [1, 0, 1, 0, 1, 1, 1, 1], [1, 0, 1, 1, 1, 1, 1]]
+You might be overwriting existing folders
+Synthesis finished in 19.0s.
+Vanilla Lyrics: 
+He was only sixteen-years-old He would never leave the edge of town The streets would always be crowded with kids But he always walked around in a hurry But he felt so high and free And he'd never leave the edge of town To find me in a tightrope In a tightrope, he could make his way back home In a tightrope, he could make his way back home 
+Saving files to multiple_music_0915_commercial//tightrope_(All_I_Want_For_Christmas_Is_You)/vanilla
+Synthesis finished in 19.3s.
+User input keywords: burning, heart, Walk
+Predicted keywords:[['Tightrope', 'tightrope'], ['heart', 'burning'], ['walk', 'walking'], ['Heart', 'burning'], ['Walk', 'hear'], ['Walking', 'home']]
+1
+Generated Lyrics: 
+try to keep a tight ro ose tight, i know your heart is burning, when you walk and i see you walking, no heart is burning for you, walk around the block and hear me, not yet walking home to you.
+Saving files to multiple_music_0915_commercial//tightrope_(All_I_Want_For_Christmas_Is_You)/1_tightrope_(All_I_Want_For_Christmas_Is_You)
+Synthesis finished in 18.6s.
+100
+Generated Lyrics: 
+tight rope but you know where you are, you know my heart is burning, when you walk you just keep on walking, heart is burning not for you, walk away from me when you hear, walking home with you all night.
+Saving files to multiple_music_0915_commercial//tightrope_(All_I_Want_For_Christmas_Is_You)/100_tightrope_(All_I_Want_For_Christmas_Is_You)
+Synthesis finished in 18.8s.
+99999
+Generated Lyrics: 
+walk like me and you will a tight, but my heart is still burning, the way you walk the way that you talk, step inside my heart for you, not the one the one that walked home, just a way to walk you home.
+Saving files to multiple_music_0915_commercial//tightrope_(All_I_Want_For_Christmas_Is_You)/99999_tightrope_(All_I_Want_For_Christmas_Is_You)
+Synthesis finished in 18.9s.
+Melody title: The_Sound_of_Silence_1-4
+Song title: if i let you go
+Compiled melody constraints: 
+[[0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 0, 0, 0, 1, 0, 0, 1], [0, 0, 0, 0, 0, 1, 0, 1]]
+You might be overwriting existing folders
+Synthesis finished in 14.2s.
+Vanilla Lyrics: 
+I am the voice that echoes through your head I am the voice that makes you stay 'Cos I know you'll love me when I come home The way you hold me down, baby, And everytime the way you make love, yeah If I let you go, 'cos I know you'll love me when I come home The way you hold me down, baby, And every every day of every night I'm
+Saving files to multiple_music_0915_commercial//if i let you go_(The_Sound_of_Silence_1-4)/vanilla
+Synthesis finished in 13.9s.
+User input keywords: smiling, back, Taking
+Predicted keywords:[['taking', 'back'], ['smiling', 'laughing'], ['soul', 'fading'], ['giving', 'love']]
+1
+Generated Lyrics: 
+are taking you back to me, and you are smiling and laughing, i can see that my soul is fading out, i am not giving you my love.
+Saving files to multiple_music_0915_commercial//if i let you go_(The_Sound_of_Silence_1-4)/1_if i let you go_(The_Sound_of_Silence_1-4)
+Synthesis finished in 13.9s.
+100
+Generated Lyrics: 
+and taking it all back now, you keep on smiling and laughing, i can see that my soul is fading out, i am not giving you my love.
+Saving files to multiple_music_0915_commercial//if i let you go_(The_Sound_of_Silence_1-4)/100_if i let you go_(The_Sound_of_Silence_1-4)
+Synthesis finished in 13.9s.
+99999
+Generated Lyrics: 
+the way you taking me back, and the smiling and the laughing, and my soul is slowly fading away, and the soul is fading away.
+Saving files to multiple_music_0915_commercial//if i let you go_(The_Sound_of_Silence_1-4)/99999_if i let you go_(The_Sound_of_Silence_1-4)
+Synthesis finished in 13.9s.
+Melody title: The_Sound_of_Silence_1-4
+Song title: i lay my love on you
+Compiled melody constraints: 
+[[0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 0, 0, 0, 1, 0, 0, 1], [0, 0, 0, 0, 0, 1, 0, 1]]
+New Folder Created
+Synthesis finished in 14.3s.
+Vanilla Lyrics: 
+We're gonna change this place It's taking over my mind I'm gonna love you for a long time You're gonna make me crazy You're gonna make me laugh All the way the love keeps calling And I'm waiting for a girl on the other side So I close my eyes and hear her voice say You're gonna make me crazy You're gonna make me laugh All the way the love keeps calling
+Saving files to multiple_music_0915_commercial//i lay my love on you_(The_Sound_of_Silence_1-4)/vanilla
+Synthesis finished in 14.1s.
+User input keywords: love, lay, Show
+Predicted keywords:[['love', 'lay'], ['show', 'give'], ['laid', 'love'], ['Show', 'gonna']]
+1
+Generated Lyrics: 
+i lay my love all on you, so let me show you how to give, i laid my love on you and i know you, show me how you gonna love me.
+Saving files to multiple_music_0915_commercial//i lay my love on you_(The_Sound_of_Silence_1-4)/1_i lay my love on you_(The_Sound_of_Silence_1-4)
+Synthesis finished in 13.6s.
+100
+Generated Lyrics: 
+oh i lay my love on you, i need to show you what i give, so i laid my love on you and you know, show me how you gonna love me.
+Saving files to multiple_music_0915_commercial//i lay my love on you_(The_Sound_of_Silence_1-4)/100_i lay my love on you_(The_Sound_of_Silence_1-4)
+Synthesis finished in 13.6s.
+99999
+Generated Lyrics: 
+and the love that i lay on, in the way that you show and give, the way that i laid my love on you so, the one i laid my love on you.
+Saving files to multiple_music_0915_commercial//i lay my love on you_(The_Sound_of_Silence_1-4)/99999_i lay my love on you_(The_Sound_of_Silence_1-4)
+Synthesis finished in 13.7s.
+Melody title: Ed_Sheeran_Perfect_1-4
+Song title: nothing's gonna change my love for you
+Compiled melody constraints: 
+[[0, 0, 0, 1, 1, 1, 1], [0, 0, 0, 1, 0, 1, 0, 0, 0, 1], [0, 0, 0, 0, 1, 1, 0, 0, 1, 1], [0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 1]]
+New Folder Created
+Synthesis finished in 17.0s.
+Vanilla Lyrics: 
+I'm so young I could cry I can't go on living my life without you. I know, I could love forever just by the hand of the man. Just look at me, baby, and I'm just a baby boy But I'm scared of love that's changing me. I could give all the love you made to someone else But if love won't be, baby, I don't know. I'm not
+Saving files to multiple_music_0915_commercial//nothing's gonna change my love for you_(Ed_Sheeran_Perfect_1-4)/vanilla
+Synthesis finished in 16.9s.
+User input keywords: love, change, gonna
+Predicted keywords:[['love', 'gonna'], ['Gonna', 'change'], ['Love', 'changing'], ['wanna', 'lose']]
+1
+Generated Lyrics: 
+my love is not gonna change, nothing gonna change the way i love you, you know my love for you is not changing, no way that you would wanna see me lose you love for.
+Saving files to multiple_music_0915_commercial//nothing's gonna change my love for you_(Ed_Sheeran_Perfect_1-4)/1_nothing's gonna change my love for you_(Ed_Sheeran_Perfect_1-4)
+Synthesis finished in 17.0s.
+100
+Generated Lyrics: 
+my love is not gonna change, still i believe in love gonna change me, not sure what love is changing for me now, and if you wanna lose something that you love so much.
+Saving files to multiple_music_0915_commercial//nothing's gonna change my love for you_(Ed_Sheeran_Perfect_1-4)/100_nothing's gonna change my love for you_(Ed_Sheeran_Perfect_1-4)
+Synthesis finished in 17.4s.
+99999
+Generated Lyrics: 
+the love in my heart is still, the love in me and you and me and you, the love in the world for both of us is, and if i wanna lose you and it feels the same i.
+Saving files to multiple_music_0915_commercial//nothing's gonna change my love for you_(Ed_Sheeran_Perfect_1-4)/99999_nothing's gonna change my love for you_(Ed_Sheeran_Perfect_1-4)
+Synthesis finished in 17.0s.
+Melody title: The_Sound_of_Silence_1-4
+Song title: flying without wings
+Compiled melody constraints: 
+[[0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 0, 0, 0, 1, 0, 0, 1], [0, 0, 0, 0, 0, 1, 0, 1]]
+New Folder Created
+Synthesis finished in 14.2s.
+Vanilla Lyrics: 
+We've made our mistakes, I've cried I've got my friends, but no one seems to share We've got no one to hold me tight Can you hear my pain? Can you hear my pain? Can you hear my pain? I've got my arms, but no one shows I want to cry from your side Can you hear my pain? Can you hear my pain? Can you hear
+Saving files to multiple_music_0915_commercial//flying without wings_(The_Sound_of_Silence_1-4)/vanilla
+Synthesis finished in 18.6s.
+User input keywords: find, flying, wings
+Predicted keywords:[['fly', 'wings'], ['find', 'flying'], ['finally', 'found'], ['make', 'feel']]
+1
+Generated Lyrics: 
+would you fly on your own wings, we have to find a way flying, when you finally found your way out there, to make you feel this way for me.
+Saving files to multiple_music_0915_commercial//flying without wings_(The_Sound_of_Silence_1-4)/1_flying without wings_(The_Sound_of_Silence_1-4)
+Synthesis finished in 14.1s.
+100
+Generated Lyrics: 
+but i could fly without wings, and i will find me a flying, when you finally found your way to me, and you can make me feel like this.
+Saving files to multiple_music_0915_commercial//flying without wings_(The_Sound_of_Silence_1-4)/100_flying without wings_(The_Sound_of_Silence_1-4)
+Synthesis finished in 14.0s.
+99999
+Generated Lyrics: 
+and i could fly without wings, the way you find me flying here, the way i finally found a way to, in the way that you make me feel.
+Saving files to multiple_music_0915_commercial//flying without wings_(The_Sound_of_Silence_1-4)/99999_flying without wings_(The_Sound_of_Silence_1-4)
+Synthesis finished in 14.6s.
+Melody title: All_I_Want_For_Christmas_Is_You
+Song title: fool again
+Compiled melody constraints: 
+[[1, 1, 1, 0, 1, 1, 0, 1], [1, 1, 0, 1, 1, 1, 1], [0, 1, 1, 1, 0, 1, 1, 1, 1], [1, 0, 1, 0, 1, 1, 1], [1, 0, 1, 0, 1, 1, 1, 1], [1, 0, 1, 1, 1, 1, 1]]
+New Folder Created
+Synthesis finished in 18.9s.
+Vanilla Lyrics: 
+Don't wanna be your fool anymore I can't stand the thought of you being hurt I have to make myself stop You were meant to play I want to be your best friend I want to be your best friend I need someone who can make up for all my mistakes Don't wanna be your fool anymore Just wanna run away from all of your troubles I want to be your best friend I want to be
+Saving files to multiple_music_0915_commercial//fool again_(All_I_Want_For_Christmas_Is_You)/vanilla
+Synthesis finished in 19.1s.
+User input keywords: Baby, read, signs
+Predicted keywords:[['Baby', 'fool'], ['Signs', 'read'], ['Read', 'signs'], ['Fool', 'back'], ['Makes', 'feel'], ['baby', 'make']]
+1
+Generated Lyrics: 
+you know baby you are a fool, sign not a read on you now, read the signs and take the flight now oh, like fool again you come back, and baby you can make it now, and baby you make me see.
+Saving files to multiple_music_0915_commercial//fool again_(All_I_Want_For_Christmas_Is_You)/1_fool again_(All_I_Want_For_Christmas_Is_You)
+Synthesis finished in 25.7s.
+100
+Generated Lyrics: 
+oh my baby is a fool now, words on the signs that you read, read the signs but you can not read me, fool again and come back down, please come on baby make it right, says my baby can make it.
+Saving files to multiple_music_0915_commercial//fool again_(All_I_Want_For_Christmas_Is_You)/100_fool again_(All_I_Want_For_Christmas_Is_You)
+Synthesis finished in 19.1s.
+99999
+Generated Lyrics: 
+i said baby i was a fool, signs are sometimes hard to read, a read on all the signs you read on, fool again and take me back, me and my baby can make it, oh baby you can make it.
+Saving files to multiple_music_0915_commercial//fool again_(All_I_Want_For_Christmas_Is_You)/99999_fool again_(All_I_Want_For_Christmas_Is_You)
+Synthesis finished in 25.7s.
+Melody title: All_I_Want_For_Christmas_Is_You
+Song title: i have a dream
+Compiled melody constraints: 
+[[1, 1, 1, 0, 1, 1, 0, 1], [1, 1, 0, 1, 1, 1, 1], [0, 1, 1, 1, 0, 1, 1, 1, 1], [1, 0, 1, 0, 1, 1, 1], [1, 0, 1, 0, 1, 1, 1, 1], [1, 0, 1, 1, 1, 1, 1]]
+New Folder Created
+Synthesis finished in 19.7s.
+Vanilla Lyrics: 
+The night time is coming There's lightning in my eyes I wake up in this dream I wanna tell you my dreams Just tell me they're good dreams, good dreams I'm falling in love with you There's a dream I'm dreaming I woke up in this dream Just wanna tell you my dreams Just tell me they're good dreams, good dreams I'm falling in love with you I feel
+Saving files to multiple_music_0915_commercial//i have a dream_(All_I_Want_For_Christmas_Is_You)/vanilla
+Synthesis finished in 22.4s.
+User input keywords: dream, stream, crossed
+Predicted keywords:[['dream', 'crossed'], ['stream', 'soul'], ['mind', 'fading'], ['time', 'passing'], ['life', 'wanna'], ['night', 'sleep']]
+1
+Generated Lyrics: 
+is a dream that crossed my mind a, like a stream that crossed my soul, and in my mind my love is fading, of how my life is passing, each night as i lay down to sleep, each night when i go to sleep.
+Saving files to multiple_music_0915_commercial//i have a dream_(All_I_Want_For_Christmas_Is_You)/1_i have a dream_(All_I_Want_For_Christmas_Is_You)
+Synthesis finished in 22.4s.
+100
+Generated Lyrics: 
+i have a dream that crossed my soul, like a stream that crossed my soul, is it my mind that is fading out, of the time that is passing, each night when i go to sleep now, on that night you went to sleep.
+Saving files to multiple_music_0915_commercial//i have a dream_(All_I_Want_For_Christmas_Is_You)/100_i have a dream_(All_I_Want_For_Christmas_Is_You)
+Synthesis finished in 27.3s.
+99999
+Generated Lyrics: 
+i had a dream that crossed the way, like a stream that feeds my soul, in my mind my romance is fading, not enough time is passing, not the night and not my sleep no, each night when i go to sleep.
+Saving files to multiple_music_0915_commercial//i have a dream_(All_I_Want_For_Christmas_Is_You)/99999_i have a dream_(All_I_Want_For_Christmas_Is_You)
+Synthesis finished in 19.4s.
+Melody title: I_Write_the_Songs_1-6
+Song title: against all odds
+Compiled melody constraints: 
+[[1, 0, 0, 1, 0, 0, 1], [0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 1], [0, 1, 0, 0, 0, 0, 1, 0, 1], [0, 1, 0, 0, 0, 0, 1, 0, 1]]
+New Folder Created
+Synthesis finished in 24.4s.
+Vanilla Lyrics: 
+There's a shadow hanging over your head No one is going to come to your rescue There's a shadow hanging over your head There's a shadow hanging over your head There's a shadow hanging over your head There's a shadow hanging over your head It isn't fair, the truth is so hard to find There's a shadow hanging over your head It isn't fair, the truth is so hard to find Oh
+Saving files to multiple_music_0915_commercial//against all odds_(I_Write_the_Songs_1-6)/vanilla
+Synthesis finished in 21.6s.
+User input keywords: space, empty, face
+Predicted keywords:[['space', 'empty'], ['eyes', 'face'], ['time', 'darkness'], ['inside', 'feelings'], ['breathe', 'taste'], ['heart', 'break']]
+1
+Generated Lyrics: 
+in a space so empty now, i can see your eyes on my face, the first time i met you there was a light in the darkness and i, but with time it fades, so you can breathe and take the sweet taste, can you breathe and take the taste of this.
+Saving files to multiple_music_0915_commercial//against all odds_(I_Write_the_Songs_1-6)/1_against all odds_(I_Write_the_Songs_1-6)
+Synthesis finished in 0.9s.
+100
+Generated Lyrics: 
+no space in which to empty, the look in your eyes and your face, the time has come for me to face all the darkness in me and you, the time it takes for, you can breathe but you can not taste it, so you can breathe but you can not taste.
+Saving files to multiple_music_0915_commercial//against all odds_(I_Write_the_Songs_1-6)/100_against all odds_(I_Write_the_Songs_1-6)
+Synthesis finished in 23.9s.
+99999
+Generated Lyrics: 
+when your space is so empty, the look in your eyes and your face, the first time i met you and the first time in my life in darkness, a time in my life, and breathe in this moment of darkness, and we can breathe and we can taste it.
+Saving files to multiple_music_0915_commercial//against all odds_(I_Write_the_Songs_1-6)/99999_against all odds_(I_Write_the_Songs_1-6)
+Synthesis finished in 19.3s.
+Melody title: I_Write_the_Songs_1-6
+Song title: more than words (cover)
+Compiled melody constraints: 
+[[1, 0, 0, 1, 0, 0, 1], [0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 1], [0, 1, 0, 0, 0, 0, 1, 0, 1], [0, 1, 0, 0, 0, 0, 1, 0, 1]]
+New Folder Created
+Synthesis finished in 24.5s.
+Vanilla Lyrics: 
+The things you say, I don't have the words to say You left me standing out in the rain I can't make this world go faster I've lost my faith in love I can't hear your voice inside my head All day long I just hear you speak your mind I hear your voice inside my head All day long I just hear you speak your mind I got no eyes to see I can't make
+Saving files to multiple_music_0915_commercial//more than words (cover)_(I_Write_the_Songs_1-6)/vanilla
+Synthesis finished in 25.5s.
+User input keywords: words, show, make
+Predicted keywords:[['show', 'make'], ['Words', 'more'], ['Show', 'making'], ['Make', 'change'], ['love', 'give'], ['Love', 'gonna']]
+1
+Generated Lyrics: 
+to show you what you make me, more than words to say to make you, shows the way for me to make the words come out my mouth more than words, can you show me what, this love you give me this love you give, more than words can say my love give you.
+Saving files to multiple_music_0915_commercial//more than words (cover)_(I_Write_the_Songs_1-6)/1_more than words (cover)_(I_Write_the_Songs_1-6)
+Synthesis finished in 32.1s.
+100
+Generated Lyrics: 
+you show me how to make you, more than words to say to you now, show me something more than words to make me feel this way about you, love is all we need, only love can give us more than words, and if love is gonna change us all.
+Saving files to multiple_music_0915_commercial//more than words (cover)_(I_Write_the_Songs_1-6)/100_more than words (cover)_(I_Write_the_Songs_1-6)
+Synthesis finished in 21.9s.
+99999
+Generated Lyrics: 
+to show the way that you make, and more than words more than love can, show whats in my heart and whats in my head and more than words must say, show the way and make, the love i feel and the love i give, and that the love that you would give me.
+Saving files to multiple_music_0915_commercial//more than words (cover)_(I_Write_the_Songs_1-6)/99999_more than words (cover)_(I_Write_the_Songs_1-6)
+Synthesis finished in 25.7s.
+Melody title: The_Sound_of_Silence_1-4
+Song title: all out of love
+Compiled melody constraints: 
+[[0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 0, 0, 0, 1, 0, 0, 1], [0, 0, 0, 0, 0, 1, 0, 1]]
+New Folder Created
+Synthesis finished in 19.0s.
+Vanilla Lyrics: 
+All you did was lie and steal And now you're gonna pay 'Cause you left my body to lie and steal. 
+Syllabify error, regenerating...
+Vanilla Lyrics: 
+All out, all out of love in my life All out, all out of love I've got All out, I feel all out of love in my mind I feel all out of love in my mind I feel all out of love in my mind I need to touch you It's gonna be the end of time I know your eyes are the fire in mine I feel the pain I feel the hurt I feel the love I taste
+Saving files to multiple_music_0915_commercial//all out of love_(The_Sound_of_Silence_1-4)/vanilla
+Synthesis finished in 14.6s.
+User input keywords: carry, long, Thinking
+Predicted keywords:[['thinking', 'long'], ['love', 'carry'], ['Love', 'carried'], ['thought', 'wanna']]
+1
+Generated Lyrics: 
+i been thinking for so long, i need love to carry me through, like love you carried on your back for me, thought you wanna love me too much.
+Saving files to multiple_music_0915_commercial//all out of love_(The_Sound_of_Silence_1-4)/1_all out of love_(The_Sound_of_Silence_1-4)
+Synthesis finished in 25.2s.
+100
+Generated Lyrics: 
+i been thinking for so long, i need love to carry me through, the love that you carried all out of love, thought you wanna love me too much.
+Saving files to multiple_music_0915_commercial//all out of love_(The_Sound_of_Silence_1-4)/100_all out of love_(The_Sound_of_Silence_1-4)
+Synthesis finished in 19.7s.
+99999
+Generated Lyrics: 
+the way you been thinking long, the love that you would carry on, and the love that you carried on and on, and the thought of you carried me.
+Saving files to multiple_music_0915_commercial//all out of love_(The_Sound_of_Silence_1-4)/99999_all out of love_(The_Sound_of_Silence_1-4)
+Synthesis finished in 14.2s.
+Melody title: All_I_Want_For_Christmas_Is_You
+Song title: close your eyes
+Compiled melody constraints: 
+[[1, 1, 1, 0, 1, 1, 0, 1], [1, 1, 0, 1, 1, 1, 1], [0, 1, 1, 1, 0, 1, 1, 1, 1], [1, 0, 1, 0, 1, 1, 1], [1, 0, 1, 0, 1, 1, 1, 1], [1, 0, 1, 1, 1, 1, 1]]
+New Folder Created
+Synthesis finished in 21.6s.
+Vanilla Lyrics: 
+Don't turn the light on But you never let us break the spell I've seen us talk about the worst things we've ever seen Close your eyes and dream your life away, away, away I've seen us talk about the worst things we've ever seen Close your eyes and dream your life away, away, away I've seen us talk about the worst things we've ever seen Close your eyes and dream your life away,
+Saving files to multiple_music_0915_commercial//close your eyes_(All_I_Want_For_Christmas_Is_You)/vanilla
+Synthesis finished in 21.5s.
+User input keywords: close, eyes, love
+Predicted keywords:[['eyes', 'close'], ['love', 'open'], ['Close', 'eyes'], ['heart', 'wanna'], ['make', 'feel'], ['dreams', 'find']]
+1
+Generated Lyrics: 
+i close my eyes and you are there, my love is open wide now, come on close your eyes and love me now, close your eyes and make them close, not in my dreams can you find it, if your dreams can find your way.
+Saving files to multiple_music_0915_commercial//close your eyes_(All_I_Want_For_Christmas_Is_You)/1_close your eyes_(All_I_Want_For_Christmas_Is_You)
+Synthesis finished in 12.4s.
+100
+Generated Lyrics: 
+when i close my eyes i see you, you know my love is open, open up your eyes and let me in, hold my hand and close your eyes, your dreams they will find you one day, you know that dreams can find you.
+Saving files to multiple_music_0915_commercial//close your eyes_(All_I_Want_For_Christmas_Is_You)/100_close your eyes_(All_I_Want_For_Christmas_Is_You)
+Synthesis finished in 19.0s.
+99999
+Generated Lyrics: 
+so close your eyes so you can see, when your love is wide open, close your eyes now and see me close them, just before the heart wants to, not in my dreams to find you here, there in your dreams you will find.
+Saving files to multiple_music_0915_commercial//close your eyes_(All_I_Want_For_Christmas_Is_You)/99999_close your eyes_(All_I_Want_For_Christmas_Is_You)
+Synthesis finished in 34.0s.
+Melody title: All_I_Want_For_Christmas_Is_You
+Song title: against all odds
+Compiled melody constraints: 
+[[1, 1, 1, 0, 1, 1, 0, 1], [1, 1, 0, 1, 1, 1, 1], [0, 1, 1, 1, 0, 1, 1, 1, 1], [1, 0, 1, 0, 1, 1, 1], [1, 0, 1, 0, 1, 1, 1, 1], [1, 0, 1, 1, 1, 1, 1]]
+New Folder Created
+Synthesis finished in 32.9s.
+Vanilla Lyrics: 
+This is against all odds The world will fall down All over the place And everything's gonna be so sad I've seen you before, I've lost you in vain I've had my share of sleepless nights I'm the one who lost you in vain My head is spinning And my hands are shaking I can barely breathe But I can't stop the pain You're the only one who's
+Saving files to multiple_music_0915_commercial//against all odds_(All_I_Want_For_Christmas_Is_You)/vanilla
+Synthesis finished in 21.3s.
+User input keywords: space, empty, face
+Predicted keywords:[['space', 'empty'], ['face', 'leave'], ['eyes', 'open'], ['time', 'endless'], ['wanna', 'live'], ['fight', 'forget']]
+1
+Generated Lyrics: 
+the space in which we are empty, and in my face you leave me, and your eyes they open up to me, and not all time is endless, i wanna live my life with you, i wanna live without you.
+Saving files to multiple_music_0915_commercial//against all odds_(All_I_Want_For_Christmas_Is_You)/1_against all odds_(All_I_Want_For_Christmas_Is_You)
+Synthesis finished in 18.9s.
+100
+Generated Lyrics: 
+there is no space this empty space, to see your face or leave you, my eyes are not open to see you, no more time for endless nights, i wanna live my life with you, so we fight to forget it.
+Saving files to multiple_music_0915_commercial//against all odds_(All_I_Want_For_Christmas_Is_You)/100_against all odds_(All_I_Want_For_Christmas_Is_You)
+Synthesis finished in 25.6s.
+99999
+Generated Lyrics: 
+all that space and time is empty, i see your face as you leave, and your eyes they remain wide open, take the time to close your eyes, you and i can fight we can lose, for the fight we both lose we.
+Saving files to multiple_music_0915_commercial//against all odds_(All_I_Want_For_Christmas_Is_You)/99999_against all odds_(All_I_Want_For_Christmas_Is_You)
+Synthesis finished in 18.9s.
+Melody title: All_I_Want_For_Christmas_Is_You
+Song title: all out of love
+Compiled melody constraints: 
+[[1, 1, 1, 0, 1, 1, 0, 1], [1, 1, 0, 1, 1, 1, 1], [0, 1, 1, 1, 0, 1, 1, 1, 1], [1, 0, 1, 0, 1, 1, 1], [1, 0, 1, 0, 1, 1, 1, 1], [1, 0, 1, 1, 1, 1, 1]]
+New Folder Created
+Synthesis finished in 19.0s.
+Vanilla Lyrics: 
+I'm a-gonna be the one who comes through I'll put my trust into you but you will be the one who dies Cause I won't be wasting my time So put your trust into me but I'll be the one who dies Cause I won't be wasting my time I know you're in my world This world's in my hands And don't worry I'll make you mine This world's in my
+Saving files to multiple_music_0915_commercial//all out of love_(All_I_Want_For_Christmas_Is_You)/vanilla
+Synthesis finished in 29.8s.
+User input keywords: carry, long, Thinking
+Predicted keywords:[['thinking', 'long'], ['carry', 'love'], ['time', 'wasting'], ['thought', 'tears'], ['Time', 'holding'], ['mind', 'lost']]
+1
+Generated Lyrics: 
+been thinking of you for so long, to carry the weight of love, it seems like all my time is wasting, thought that it would dry your tears, have you lost your mind or lost love, my mind is lost in love now.
+Saving files to multiple_music_0915_commercial//all out of love_(All_I_Want_For_Christmas_Is_You)/1_all out of love_(All_I_Want_For_Christmas_Is_You)
+Synthesis finished in 27.9s.
+100
+Generated Lyrics: 
+i been thinking for so long now, i cant carry all my love, it seems like all my time is wasting, i thought you dry your tears now, not in your mind you have lost it, not in your mind you lost it.
+Saving files to multiple_music_0915_commercial//all out of love_(All_I_Want_For_Christmas_Is_You)/100_all out of love_(All_I_Want_For_Christmas_Is_You)
+Synthesis finished in 21.9s.
+99999
+Generated Lyrics: 
+cause i been thinking for so long, i carry all out of love, and all this time away from you love, i thought i released my tears, out of mind and out of love now, out of mind but lost for sure.
+Saving files to multiple_music_0915_commercial//all out of love_(All_I_Want_For_Christmas_Is_You)/99999_all out of love_(All_I_Want_For_Christmas_Is_You)
+Synthesis finished in 21.0s.
+Melody title: I_Write_the_Songs_1-6
+Song title: amazing
+Compiled melody constraints: 
+[[1, 0, 0, 1, 0, 0, 1], [0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 1], [0, 1, 0, 0, 0, 0, 1, 0, 1], [0, 1, 0, 0, 0, 0, 1, 0, 1]]
+New Folder Created
+Synthesis finished in 28.1s.
+Vanilla Lyrics: 
+The world keeps spinning I'm never gonna stop trying I thought I had the world at my feet I knew this would turn out this way This place is amazing! This place is wonderful I got my phone out I'm running the streets with you This place is amazing! This place is wonderful And I feel free I don't really want a helping hand There's too much time and I
+Syllabify error, regenerating...
+Vanilla Lyrics: 
+It's been so long since I've been free I know that one of us is a part of you Yeah, it's a miracle Now everybody loves something new Now everybody loves something new Yeah, it's a miracle Yeah, it's a miracle Yeah, it's a miracle Yeah, it's a miracle. 
+Saving files to multiple_music_0915_commercial//amazing_(I_Write_the_Songs_1-6)/vanilla
+Synthesis finished in 21.3s.
+User input keywords: lie, sake, Follow
+Predicted keywords:[['Follow', 'love'], ['sake', 'follow'], ['truth', 'lie'], ['mind', 'make'], ['wanna', 'feel'], ['Wanna', 'live']]
+1
+Generated Lyrics: 
+follow my love i swear i, oh for the sake of follow you, there is no such thing as no truth and no such thing as no lie now, in my mind you make, it not in my mind to make you go, now you say you wanna feel it too.
+Saving files to multiple_music_0915_commercial//amazing_(I_Write_the_Songs_1-6)/1_amazing_(I_Write_the_Songs_1-6)
+Synthesis finished in 25.5s.
+100
+Generated Lyrics: 
+follow the love that we all, all for the sake to follow you, not in the truth and not in the games you play not in the lie oh, and not in the truth, and you wanna tell me how you feel, i just wanna tell you how i feel.
+Saving files to multiple_music_0915_commercial//amazing_(I_Write_the_Songs_1-6)/100_amazing_(I_Write_the_Songs_1-6)
+Synthesis finished in 19.8s.
+99999
+Generated Lyrics: 
+follow the one you love to, the sake and the wish to follow, in a perfect world and in a house of the truth and in a lie, the truth and the one, in your mind you make believe in me, and you wanna tell me how the feel.
+Saving files to multiple_music_0915_commercial//amazing_(I_Write_the_Songs_1-6)/99999_amazing_(I_Write_the_Songs_1-6)
+Synthesis finished in 18.8s.
+Melody title: I_Write_the_Songs_1-6
+Song title: angel
+Compiled melody constraints: 
+[[1, 0, 0, 1, 0, 0, 1], [0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 1], [0, 1, 0, 0, 0, 0, 1, 0, 1], [0, 1, 0, 0, 0, 0, 1, 0, 1]]
+New Folder Created
+Synthesis finished in 19.0s.
+Vanilla Lyrics: 
+And now I've met my maker I just hope they're gonna see some reason In the face of a stranger And I was wondering why you lied So scared to say you'd left me Oh the moment of truth When the truth comes crashing down When the heart of my hero But we're just playing pretend 'Til your dying day And now I've met my maker I just hope they're
+Saving files to multiple_music_0915_commercial//angel_(I_Write_the_Songs_1-6)/vanilla
+Synthesis finished in 23.6s.
+User input keywords: arms, angel, find
+Predicted keywords:[['angel', 'find'], ['arms', 'hold'], ['hands', 'searching'], ['love', 'hear'], ['heart', 'break'], ['eyes', 'open']]
+1
+Generated Lyrics: 
+there is an angel to find, take me in your arms and hold me, your hands are searching for something that you cannot find on your own, and not in my arms, this is not my heart to break in two, but your heart will not let me break it.
+Saving files to multiple_music_0915_commercial//angel_(I_Write_the_Songs_1-6)/1_angel_(I_Write_the_Songs_1-6)
+Synthesis finished in 26.8s.
+100
+Generated Lyrics: 
+an angel is hard to find, and when your arms will not hold me, not in my arms not in my arms not in my arms searching for you, and not in my arms, not sure if my heart will break for you, not sure if my heart will break for you.
+Saving files to multiple_music_0915_commercial//angel_(I_Write_the_Songs_1-6)/100_angel_(I_Write_the_Songs_1-6)
+Synthesis finished in 23.5s.
+99999
+Generated Lyrics: 
+that an angel could find you, the arms that hold on to me now, a smile in your eyes and a hand to hold and a hand to search for, in the arms of what, the hands of time and the heart and break, without a heart to break it in two.
+Saving files to multiple_music_0915_commercial//angel_(I_Write_the_Songs_1-6)/99999_angel_(I_Write_the_Songs_1-6)
+Synthesis finished in 27.4s.
+Melody title: Ed_Sheeran_Perfect_1-4
+Song title: another world
+Compiled melody constraints: 
+[[0, 0, 0, 1, 1, 1, 1], [0, 0, 0, 1, 0, 1, 0, 0, 0, 1], [0, 0, 0, 0, 1, 1, 0, 0, 1, 1], [0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 1]]
+New Folder Created
+Synthesis finished in 17.1s.
+Vanilla Lyrics: 
+My world has fallen I lost my mind There's no place I can hide You told me to live alone It's a hard life I lost the only thing inside my heart The world that I have loved I lost my place There're no ones I can live alone It's a hard life I lost the only thing inside my heart The world that I have loved I lost my place
+Saving files to multiple_music_0915_commercial//another world_(Ed_Sheeran_Perfect_1-4)/vanilla
+Synthesis finished in 20.2s.
+User input keywords: Yeah, find, star
+Predicted keywords:[['Yeah', 'world'], ['star', 'find'], ['yeah', 'stars'], ['Find', 'love']]
+1
+Generated Lyrics: 
+yeah another world for me, there is no star that i can find no more, and yeah we can find a world like this stars, find yourself another world where love is all you need.
+Saving files to multiple_music_0915_commercial//another world_(Ed_Sheeran_Perfect_1-4)/1_another world_(Ed_Sheeran_Perfect_1-4)
+Synthesis finished in 19.7s.
+100
+Generated Lyrics: 
+yeah you got me in your world, and the star that we all need to find is, and yeah we can find it in the stars yeah, help me find my way to the other side of love yeah.
+Saving files to multiple_music_0915_commercial//another world_(Ed_Sheeran_Perfect_1-4)/100_another world_(Ed_Sheeran_Perfect_1-4)
+Synthesis finished in 20.7s.
+99999
+Generated Lyrics: 
+yeah the world can wait for you, and a star is a place a man can find, and yeah the stars will guide the way for me, and in the end the sun and the moon and the stars will.
+Saving files to multiple_music_0915_commercial//another world_(Ed_Sheeran_Perfect_1-4)/99999_another world_(Ed_Sheeran_Perfect_1-4)
+Synthesis finished in 17.5s.
+Melody title: The_Sound_of_Silence_1-4
+Song title: as love is my witness
+Compiled melody constraints: 
+[[0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 0, 0, 0, 1, 0, 0, 1], [0, 0, 0, 0, 0, 1, 0, 1]]
+New Folder Created
+Synthesis finished in 16.0s.
+Vanilla Lyrics: 
+I want to make you my witness I want to make you my witness The things that you did you've done in your mind But you have to do them out loud so I can hear As good as your love is my witness I want to make you my witness I want to make you my witness 
+Saving files to multiple_music_0915_commercial//as love is my witness_(The_Sound_of_Silence_1-4)/vanilla
+Synthesis finished in 14.8s.
+User input keywords: love, witness, feeling
+Predicted keywords:[['love', 'hear'], ['witness', 'heard'], ['feelings', 'told'], ['heart', 'feeling']]
+1
+Generated Lyrics: 
+so much love to hear you say, as love is my witness i heard, to all the feelings that you have told me, these feelings have been told to me.
+Saving files to multiple_music_0915_commercial//as love is my witness_(The_Sound_of_Silence_1-4)/1_as love is my witness_(The_Sound_of_Silence_1-4)
+Synthesis finished in 30.6s.
+100
+Generated Lyrics: 
+the love that you hear in me, and as love is my witness i, the feelings and the things you have told me, the feelings that you have told me.
+Saving files to multiple_music_0915_commercial//as love is my witness_(The_Sound_of_Silence_1-4)/100_as love is my witness_(The_Sound_of_Silence_1-4)
+Synthesis finished in 14.4s.
+99999
+Generated Lyrics: 
+the love that you love to hear, the love that i hear for you is, and the feelings and the things that you told, the feelings and the things you told.
+Saving files to multiple_music_0915_commercial//as love is my witness_(The_Sound_of_Silence_1-4)/99999_as love is my witness_(The_Sound_of_Silence_1-4)
+Synthesis finished in 14.4s.
+Melody title: Ed_Sheeran_Perfect_1-4
+Song title: before it's too late
+Compiled melody constraints: 
+[[0, 0, 0, 1, 1, 1, 1], [0, 0, 0, 1, 0, 1, 0, 0, 0, 1], [0, 0, 0, 0, 1, 1, 0, 0, 1, 1], [0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 1]]
+New Folder Created
+Synthesis finished in 19.2s.
+Vanilla Lyrics: 
+I'll be waiting and watching the clock I'm gonna be waiting and watching the clock And wait all these years till it's too late I'll be waiting and watching the clock I'm gonna be waiting and a waiting and a waiting to make a change To make a change in my life so I can live like I can breathe But I feel like I'm ready to love again I'm gonna be waiting for a while till it's
+Saving files to multiple_music_0915_commercial//before it's too late_(Ed_Sheeran_Perfect_1-4)/vanilla
+Synthesis finished in 18.2s.
+
+
+Loading eval meta data from /home/yufeit/VoiceSynthesizer/eval_melody_0829/commercial_melody_meta.json
+Loading Models...
+Melody title: The_Sound_of_Silence_1-4
+Song title: close
+Compiled melody constraints: 
+[[0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 0, 0, 0, 1, 0, 0, 1], [0, 0, 0, 0, 0, 1, 0, 1]]
+New Folder Created
+Synthesis finished in 14.6s.
+Vanilla Lyrics: 
+It's no surprise to me, you'd be here It's no surprise to me, you'd be here (x4 You'd always be waiting in line But when I met you I felt your heart I'd seen your eyes from across the seas You'd always be waiting in line But when I met you I felt your heart I felt your heart and I felt your soul I felt your heart, I've felt
+Saving files to multiple_music_0915_commercial//close_(The_Sound_of_Silence_1-4)/vanilla
+Synthesis finished in 15.4s.
+User input keywords: give, strength, hope
+Predicted keywords:[['close', 'heart'], ['stronger', 'give'], ['find', 'strength'], ['love', 'hope']]
+1
+Generated Lyrics: 
+when you close your heart to me, and we are stronger than we give, maybe you will find the strength to go on, you can find the strength to go on.
+Saving files to multiple_music_0915_commercial//close_(The_Sound_of_Silence_1-4)/1_close_(The_Sound_of_Silence_1-4)
+Synthesis finished in 26.6s.
+100
+Generated Lyrics: 
+to close the door to your heart, to be stronger than you give up, and we will find the strength to go on through, help me find the strength to go on.
+Saving files to multiple_music_0915_commercial//close_(The_Sound_of_Silence_1-4)/100_close_(The_Sound_of_Silence_1-4)
+Synthesis finished in 24.2s.
+99999
+Generated Lyrics: 
+and do what you close your heart, and the stronger the more you give, and the more the more you find the strength to, and the love and the hope within.
+Saving files to multiple_music_0915_commercial//close_(The_Sound_of_Silence_1-4)/99999_close_(The_Sound_of_Silence_1-4)
+Synthesis finished in 14.4s.
+Melody title: I_Write_the_Songs_1-6
+Song title: close your eyes
+Compiled melody constraints: 
+[[1, 0, 0, 1, 0, 0, 1], [0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 1], [0, 1, 0, 0, 0, 0, 1, 0, 1], [0, 1, 0, 0, 0, 0, 1, 0, 1]]
+New Folder Created
+Synthesis finished in 19.2s.
+Vanilla Lyrics: 
+You close your eyes I love to be your lover But my love for you will fade away To fade away and fade away My love for you, you're gonna fade away I love to be your lover 'Cause my love for you will fade away To fade away and fade away You close your eyes I love to be your lover 'Cause my love for you will fade away To fade away and
+Saving files to multiple_music_0915_commercial//close your eyes_(I_Write_the_Songs_1-6)/vanilla
+Synthesis finished in 21.0s.
+User input keywords: close, eyes, love
+Predicted keywords:[['eyes', 'close'], ['love', 'hold'], ['Close', 'eyes'], ['heart', 'open'], ['Love', 'find'], ['inside', 'feel']]
+1
+Generated Lyrics: 
+if you close your eyes and try, you want my love to hold you tight, open up your eyes and see if you can really hold on to me, close your eyes and think, but if your heart is open to me, love will find a way to get to you.
+Saving files to multiple_music_0915_commercial//close your eyes_(I_Write_the_Songs_1-6)/1_close your eyes_(I_Write_the_Songs_1-6)
+Synthesis finished in 24.4s.
+100
+Generated Lyrics: 
+if you close your eyes and try, the love you need to hold on to, close your eyes so you can see the love you have left inside of me, close your eyes and think, your heart will not be open to me, love will find a way to get through you.
+Saving files to multiple_music_0915_commercial//close your eyes_(I_Write_the_Songs_1-6)/100_close your eyes_(I_Write_the_Songs_1-6)
+Synthesis finished in 19.2s.
+99999
+Generated Lyrics: 
+when your eyes close and go home, and the love and the trust you hold, close your eyes now and let your love come down and hold you tight and in, the heart and the mind, and when your heart and mind are open, the heart and the eye can find a way.
+Saving files to multiple_music_0915_commercial//close your eyes_(I_Write_the_Songs_1-6)/99999_close your eyes_(I_Write_the_Songs_1-6)
+Synthesis finished in 19.9s.
+Melody title: All_I_Want_For_Christmas_Is_You
+Song title: daytime friends and nighttime lovers
+Compiled melody constraints: 
+[[1, 1, 1, 0, 1, 1, 0, 1], [1, 1, 0, 1, 1, 1, 1], [0, 1, 1, 1, 0, 1, 1, 1, 1], [1, 0, 1, 0, 1, 1, 1], [1, 0, 1, 0, 1, 1, 1, 1], [1, 0, 1, 1, 1, 1, 1]]
+New Folder Created
+Synthesis finished in 18.9s.
+Vanilla Lyrics: 
+But sometimes the world seems a stranger So wake up and find the sunlight Everyday night and day I know it looks like some kind of fantasy It's just a world full of strangers I got some time to kill I got some time to kill I got some time to kill I got some time to kill I'm awake now, I'm awake now This world is gonna explode I don't care about
+Saving files to multiple_music_0915_commercial//daytime friends and nighttime lovers_(All_I_Want_For_Christmas_Is_You)/vanilla
+Synthesis finished in 19.3s.
+User input keywords: Daytime, nighttime, lovers
+Predicted keywords:[['Daytime', 'friends'], ['nightly', 'lover'], ['Lovers', 'daytime'], ['longer', 'wanna'], ['forever', 'stay'], ['Nightmare', 'back']]
+1
+Generated Lyrics: 
+nights are daytime friends and daytime, i am your daytime lover, day time lover not in the night time, no longer you wanna be, you are forever gone to stay, no more forever to stay.
+Saving files to multiple_music_0915_commercial//daytime friends and nighttime lovers_(All_I_Want_For_Christmas_Is_You)/1_daytime friends and nighttime lovers_(All_I_Want_For_Christmas_Is_You)
+Synthesis finished in 18.6s.
+100
+Generated Lyrics: 
+day time is for daytime friends and, i am your daytime lover, nights are for daytime lovers not me, no longer you wanna be, to forever stay with me now, i can not be forever.
+Saving files to multiple_music_0915_commercial//daytime friends and nighttime lovers_(All_I_Want_For_Christmas_Is_You)/100_daytime friends and nighttime lovers_(All_I_Want_For_Christmas_Is_You)
+Synthesis finished in 19.1s.
+99999
+Generated Lyrics: 
+days are daytime friends with my friends, like my daytime lover you, and since we are a night time lover, just a shorter time for me, that forever is here to stay, but remains on your back now.
+Saving files to multiple_music_0915_commercial//daytime friends and nighttime lovers_(All_I_Want_For_Christmas_Is_You)/99999_daytime friends and nighttime lovers_(All_I_Want_For_Christmas_Is_You)
+Synthesis finished in 21.3s.
+Melody title: I_Write_the_Songs_1-6
+Song title: difference in me
+Compiled melody constraints: 
+[[1, 0, 0, 1, 0, 0, 1], [0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 1], [0, 1, 0, 0, 0, 0, 1, 0, 1], [0, 1, 0, 0, 0, 0, 1, 0, 1]]
+New Folder Created
+Synthesis finished in 21.1s.
+Vanilla Lyrics: 
+I feel the same When I stand with pride I have this feeling inside With your eyes wide open I'm the mirror to your face I'm the place that you fall down I'm the sound that you cry There's a difference in me I could tell you lies all day long I'm your greatest mistake I could tell you right from wrong So you would fall for the lies There's
+Saving files to multiple_music_0915_commercial//difference in me_(I_Write_the_Songs_1-6)/vanilla
+Synthesis finished in 20.1s.
+User input keywords: missed, Yeah, sound
+Predicted keywords:[['Yeah', 'sound'], ['love', 'missed'], ['yeah', 'made'], ['Love', 'moved'], ['goodbye', 'feeling'], ['kinda', 'feel']]
+1
+Generated Lyrics: 
+yeah this is the sound of me, i love the way that you missed me, i said yeah you know you made me miss you and i miss you so much, oh yeah you made me, i said yeah you made a difference, but how could you say goodbye feeling.
+Saving files to multiple_music_0915_commercial//difference in me_(I_Write_the_Songs_1-6)/1_difference in me_(I_Write_the_Songs_1-6)
+Synthesis finished in 18.8s.
+100
+Generated Lyrics: 
+yeah the sound of you is there, but my love for you is not missed, well you know yeah you know yeah you know you made a big mistake in, yeah you made a big, and yeah you made a big move in me, so you say goodbye to the feeling.
+Saving files to multiple_music_0915_commercial//difference in me_(I_Write_the_Songs_1-6)/100_difference in me_(I_Write_the_Songs_1-6)
+Synthesis finished in 19.2s.
+99999
+Generated Lyrics: 
+oh yeah and that was the sound, and the love that i missed the most, and in the silence and in the light and in the dark and in me, the way the love was, and how the other one made me feel, goodbye and a feeling of the same.
+Saving files to multiple_music_0915_commercial//difference in me_(I_Write_the_Songs_1-6)/99999_difference in me_(I_Write_the_Songs_1-6)
+Synthesis finished in 19.0s.
+Melody title: I_Write_the_Songs_1-6
+Song title: don't calm the storm
+Compiled melody constraints: 
+[[1, 0, 0, 1, 0, 0, 1], [0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 1], [0, 1, 0, 0, 0, 0, 1, 0, 1], [0, 1, 0, 0, 0, 0, 1, 0, 1]]
+New Folder Created
+Synthesis finished in 32.2s.
+Vanilla Lyrics: 
+My heart beats faster With every minute of a lifetime You'll never reach out, you won't reach out to me And the clouds are clearing, they're breaking my fall With the winds of love We'll sail over the water As the river waters pour Let's make tomorrow so bright And this world is changing so fast My life moves so slow My mind's still reeling, I'm still reeling 
+Saving files to multiple_music_0915_commercial//don't calm the storm_(I_Write_the_Songs_1-6)/vanilla
+Synthesis finished in 19.1s.
+User input keywords: Girl, baby, eyes
+Predicted keywords:[['Baby', 'girl'], ['gonna', 'wait'], ['night', 'wanna'], ['eyes', 'close'], ['baby', 'make'], ['soul', 'find']]
+1
+Generated Lyrics: 
+so you think you know baby, you say you gonna wait and see, when the night comes and you wanna let me hold you tight and cry and, if you close your eyes, just look in my eyes and hold me close, that your soul will find a way to you.
+Saving files to multiple_music_0915_commercial//don't calm the storm_(I_Write_the_Songs_1-6)/1_don't calm the storm_(I_Write_the_Songs_1-6)
+Synthesis finished in 21.1s.
+100
+Generated Lyrics: 
+so baby girl let me go, i think im gonna have to wait, the other night i had a dream that i wanna wake up with you, and with your eyes closed, if you close your eyes and think of me, i need your soul to help me find it.
+Saving files to multiple_music_0915_commercial//don't calm the storm_(I_Write_the_Songs_1-6)/100_don't calm the storm_(I_Write_the_Songs_1-6)
+Synthesis finished in 19.0s.
+99999
+Generated Lyrics: 
+baby the storm is a girl, the storm is gonna wait and see, and in the middle of the night i wanna scream and shout and shout, and in your eyes i, the look in your eyes and when you close, in your eyes the storm begins to close.
+Saving files to multiple_music_0915_commercial//don't calm the storm_(I_Write_the_Songs_1-6)/99999_don't calm the storm_(I_Write_the_Songs_1-6)
+Synthesis finished in 19.1s.
+Melody title: Ed_Sheeran_Perfect_1-4
+Song title: easy sunday morning
+Compiled melody constraints: 
+[[0, 0, 0, 1, 1, 1, 1], [0, 0, 0, 1, 0, 1, 0, 0, 0, 1], [0, 0, 0, 0, 1, 1, 0, 0, 1, 1], [0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 1]]
+New Folder Created
+Synthesis finished in 26.3s.
+Vanilla Lyrics: 
+It's easy sunday morning It's easy sunday morning There's a good time coming There's a good time coming for you But it's not your time to waste time on him You can be so good to him All the good things in the world It's easy sunday morning It's easy sunday morning for you It's easy sunday morning There's a good time coming There
+Saving files to multiple_music_0915_commercial//easy sunday morning_(Ed_Sheeran_Perfect_1-4)/vanilla
+Synthesis finished in 22.9s.
+User input keywords: Sunday, easy, morning
+Predicted keywords:[['Sunday', 'easy'], ['Saturday', 'morning'], ['Monday', 'hard'], ['Saturdays', 'days']]
+1
+Generated Lyrics: 
+on a sunday easy way, on a saturday morning not too hard, on a saturday morning not too hard, some saturdays and some sundays are hard days for me.
+Saving files to multiple_music_0915_commercial//easy sunday morning_(Ed_Sheeran_Perfect_1-4)/1_easy sunday morning_(Ed_Sheeran_Perfect_1-4)
+Synthesis finished in 20.4s.
+100
+Generated Lyrics: 
+on a sunday easy way, on a saturday morning not too hard, on a saturday morning not too hard, on saturday and all the rest of the hard days too.
+Saving files to multiple_music_0915_commercial//easy sunday morning_(Ed_Sheeran_Perfect_1-4)/100_easy sunday morning_(Ed_Sheeran_Perfect_1-4)
+Synthesis finished in 22.9s.
+99999
+Generated Lyrics: 
+a easy day on sunday, and on a sunday morning the first day, and on a saturday morning you know, the saturdays and sol st because of the hard days.
+Saving files to multiple_music_0915_commercial//easy sunday morning_(Ed_Sheeran_Perfect_1-4)/99999_easy sunday morning_(Ed_Sheeran_Perfect_1-4)
+Loading eval meta data from /home/yufeit/VoiceSynthesizer/eval_melody_0829/commercial_melody_meta.json
+Loading Models...
+Melody title: I_Write_the_Songs_1-6
+Song title: evergreen
+Compiled melody constraints: 
+[[1, 0, 0, 1, 0, 0, 1], [0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 1], [0, 1, 0, 0, 0, 0, 1, 0, 1], [0, 1, 0, 0, 0, 0, 1, 0, 1]]
+You might be overwriting existing folders
+Synthesis finished in 21.4s.
+Vanilla Lyrics: 
+It's been awhile since I've really seen your face It's been hard not talking to you And all I wanted was the truth for a little while We've had a long, time together You're a part of my life forever All I needed was the truth for a little while We've had a long, time together We've had a long, time together It’s been awhile since I've really seen your
+Saving files to multiple_music_0915_commercial//evergreen_(I_Write_the_Songs_1-6)/vanilla
+Synthesis finished in 24.4s.
+User input keywords: feels, gonna, love
+Predicted keywords:[['anymore', 'gonna'], ['love', 'feels'], ['evergreen', 'wanna'], ['forever', 'feel'], ['Evergreen', 'growing'], ['Forever', 'felt']]
+1
+Generated Lyrics: 
+i can feel anymore it, you know that my love feels this way, ever green is the color that i wanna paint on my wall now, this is forever, i can see forever when i feel, forever has felt like home to me.
+Saving files to multiple_music_0915_commercial//evergreen_(I_Write_the_Songs_1-6)/1_evergreen_(I_Write_the_Songs_1-6)
+Synthesis finished in 20.8s.
+100
+Generated Lyrics: 
+that my life is anymore, and my love it feels the same way, the more i see you the more i see you the more i wanna know, and you are ever, forever felt like home to me now, forever has felt like home to me.
+Saving files to multiple_music_0915_commercial//evergreen_(I_Write_the_Songs_1-6)/100_evergreen_(I_Write_the_Songs_1-6)
+Synthesis finished in 18.9s.
+99999
+Generated Lyrics: 
+cause i don ot anymore, in the love that used to feels here, in the forever and in the here and now i wanna be in, in the ever green, the ever green and the ever green, forever and longer you feel it.
+Saving files to multiple_music_0915_commercial//evergreen_(I_Write_the_Songs_1-6)/99999_evergreen_(I_Write_the_Songs_1-6)
+Synthesis finished in 20.9s.
+Melody title: All_I_Want_For_Christmas_Is_You
+Song title: everybody knows
+Compiled melody constraints: 
+[[1, 1, 1, 0, 1, 1, 0, 1], [1, 1, 0, 1, 1, 1, 1], [0, 1, 1, 1, 0, 1, 1, 1, 1], [1, 0, 1, 0, 1, 1, 1], [1, 0, 1, 0, 1, 1, 1, 1], [1, 0, 1, 1, 1, 1, 1]]
+New Folder Created
+Synthesis finished in 29.4s.
+Vanilla Lyrics: 
+Every Girl You Ever Had A Lover For Yourself Everybody Does, Every Girl You Ever Had A Lover For Yourself. I Feel No Pain, I Feel No Pain But When I See You Kiss My Face, When I See You Touch Me, I Will Feel Your Feel, Everybody Does, Everybody Does, Everybody Does, Everybody Does. Everybody Does, Everybody Does, Everybody Does, Everybody Does. 
+Saving files to multiple_music_0915_commercial//everybody knows_(All_I_Want_For_Christmas_Is_You)/vanilla
+Synthesis finished in 26.9s.
+User input keywords: love, talk, show
+Predicted keywords:[['show', 'love'], ['people', 'wanna'], ['talk', 'make'], ['mind', 'change'], ['friends', 'loved'], ['things', 'feel']]
+1
+Generated Lyrics: 
+if you want to show me your love, when people wanna tell you, if you talk to me you can make it, in your mind you will not change, like all my friends and loved ones do, the things that you used to feel.
+Saving files to multiple_music_0915_commercial//everybody knows_(All_I_Want_For_Christmas_Is_You)/1_everybody knows_(All_I_Want_For_Christmas_Is_You)
+Synthesis finished in 19.0s.
+100
+Generated Lyrics: 
+to show you that you are my love, some people wanna show you, the way you talk you make me think twice, you got on my mind to change, not all of my friends have loved me, seen a lot of friends that i.
+Saving files to multiple_music_0915_commercial//everybody knows_(All_I_Want_For_Christmas_Is_You)/100_everybody knows_(All_I_Want_For_Christmas_Is_You)
+Synthesis finished in 23.9s.
+99999
+Generated Lyrics: 
+to show you the way that i love, why do people wanna know, a lot of talk and not much make up, got a lot on my mind change, will the friends the ones you once loved, see the friends that you once loved.
+Saving files to multiple_music_0915_commercial//everybody knows_(All_I_Want_For_Christmas_Is_You)/99999_everybody knows_(All_I_Want_For_Christmas_Is_You)
+Synthesis finished in 22.5s.
+Melody title: I_Write_the_Songs_1-6
+Song title: flying without wings
+Compiled melody constraints: 
+[[1, 0, 0, 1, 0, 0, 1], [0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 1], [0, 1, 0, 0, 0, 0, 1, 0, 1], [0, 1, 0, 0, 0, 0, 1, 0, 1]]
+New Folder Created
+Synthesis finished in 19.2s.
+Vanilla Lyrics: 
+I'm flying without wings But I don't think I'd be satisfied That you're gonna take my place I'm flying without wings I'm flying without wings It hurts me to my chest But I feel it in my heart I'm flying without wings Flying without wings 
+Saving files to multiple_music_0915_commercial//flying without wings_(I_Write_the_Songs_1-6)/vanilla
+Synthesis finished in 27.3s.
+User input keywords: find, flying, wings
+Predicted keywords:[['wings', 'flying'], ['find', 'fly'], ['eyes', 'wonderful'], ['sky', 'dancing'], ['clouds', 'fading'], ['stars', 'falling']]
+1
+Generated Lyrics: 
+when i have these wings flying, if we can find a way to fly, you can look into my eyes and see a wonderful world of you, when the sky is dark, and all the clouds are dancing with me, see the clouds and the stars fading out.
+Saving files to multiple_music_0915_commercial//flying without wings_(I_Write_the_Songs_1-6)/1_flying without wings_(I_Write_the_Songs_1-6)
+Synthesis finished in 32.6s.
+100
+Generated Lyrics: 
+when my wings are flying me, and if i find that i can fly, i close my eyes and i see a wonderful world that i can fly, up in the blue sky, beyond the clouds the sky is dancing, the clouds are falling away from me.
+Saving files to multiple_music_0915_commercial//flying without wings_(I_Write_the_Songs_1-6)/100_flying without wings_(I_Write_the_Songs_1-6)
+Synthesis finished in 0.9s.
+99999
+Generated Lyrics: 
+some in the wings and flying, the more i find the more i fly, a look in your eyes and a demeanor that is so wonderful, the sky and the stars, and all the clouds in the night dancing, because the clouds and the stars are gone.
+Saving files to multiple_music_0915_commercial//flying without wings_(I_Write_the_Songs_1-6)/99999_flying without wings_(I_Write_the_Songs_1-6)
+Synthesis finished in 26.3s.
+Melody title: Ed_Sheeran_Perfect_1-4
+Song title: fool again
+Compiled melody constraints: 
+[[0, 0, 0, 1, 1, 1, 1], [0, 0, 0, 1, 0, 1, 0, 0, 0, 1], [0, 0, 0, 0, 1, 1, 0, 0, 1, 1], [0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 1]]
+New Folder Created
+Synthesis finished in 30.4s.
+Vanilla Lyrics: 
+Well, now, my boy is gonna take your head down You'll never let me outta your bed at night Well I'd give my body so if I could just leave this town Now, now my boy is gonna take your head down You'll never let me outta your bed at night Now, now my boy is gonna take your head down You're gonna love your mother 'til the end of time Now, now my
+Saving files to multiple_music_0915_commercial//fool again_(Ed_Sheeran_Perfect_1-4)/vanilla
+Synthesis finished in 0.9s.
+User input keywords: Baby, read, signs
+Predicted keywords:[['Baby', 'make'], ['signs', 'read'], ['baby', 'makes'], ['Make', 'mistakes']]
+1
+Generated Lyrics: 
+baby you can make it now, all the signs are on and you can read it, that the baby that makes me cry so much, make a fool of me again and again and again.
+Saving files to multiple_music_0915_commercial//fool again_(Ed_Sheeran_Perfect_1-4)/1_fool again_(Ed_Sheeran_Perfect_1-4)
+Synthesis finished in 26.4s.
+100
+Generated Lyrics: 
+baby you can make it now, i see the signs and i read the signs but, that the baby that makes me cry so much, make a fool out of me once again and again now.
+Saving files to multiple_music_0915_commercial//fool again_(Ed_Sheeran_Perfect_1-4)/100_fool again_(Ed_Sheeran_Perfect_1-4)
+Synthesis finished in 17.2s.
+99999
+Generated Lyrics: 
+and the signs are on you read, and the signs are beginning to read out, the baby inside me that makes me think, take a look at yourself baby makes me sick and then.
+Saving files to multiple_music_0915_commercial//fool again_(Ed_Sheeran_Perfect_1-4)/99999_fool again_(Ed_Sheeran_Perfect_1-4)
+Synthesis finished in 18.8s.
+Melody title: Ed_Sheeran_Perfect_1-4
+Song title: forever
+Compiled melody constraints: 
+[[0, 0, 0, 1, 1, 1, 1], [0, 0, 0, 1, 0, 1, 0, 0, 0, 1], [0, 0, 0, 0, 1, 1, 0, 0, 1, 1], [0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 1]]
+New Folder Created
+Synthesis finished in 25.1s.
+Vanilla Lyrics: 
+The moment I found I could Forever, can be my favorite part of you I feel so much more every dream I ever dreamed I am living my soul Forever my heart I feel so much more, I could live Forever my love No matter the distance I find my world just around you And I wanna sing Forever my world, forever, so Forever my love Love is a gift that you
+Saving files to multiple_music_0915_commercial//forever_(Ed_Sheeran_Perfect_1-4)/vanilla
+Synthesis finished in 18.5s.
+User input keywords: forever, leave, Deep
+Predicted keywords:[['Deep', 'deep'], ['forever', 'leave'], ['Forever', 'left'], ['finally', 'find']]
+1
+Generated Lyrics: 
+so take a deep breath and deep, i want you to be forever leave me, not forever you will leave me behind, when you finally find someone who loves you like me.
+Saving files to multiple_music_0915_commercial//forever_(Ed_Sheeran_Perfect_1-4)/1_forever_(Ed_Sheeran_Perfect_1-4)
+Synthesis finished in 17.1s.
+100
+Generated Lyrics: 
+and it cuts me so deep deep, i wish forever that you would leave me, forever left to find a way out now, no one could ever finally find a love like you.
+Saving files to multiple_music_0915_commercial//forever_(Ed_Sheeran_Perfect_1-4)/100_forever_(Ed_Sheeran_Perfect_1-4)
+Synthesis finished in 19.4s.
+99999
+Generated Lyrics: 
+in the deep end of it all, and the forever will leave you behind, and the forever left me behind me, and in a few years you and i will finally find.
+Saving files to multiple_music_0915_commercial//forever_(Ed_Sheeran_Perfect_1-4)/99999_forever_(Ed_Sheeran_Perfect_1-4)
+Synthesis finished in 0.9s.
+Melody title: I_Write_the_Songs_1-6
+Song title: have you ever been in love?
+Compiled melody constraints: 
+[[1, 0, 0, 1, 0, 0, 1], [0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 1], [0, 1, 0, 0, 0, 0, 1, 0, 1], [0, 1, 0, 0, 0, 0, 1, 0, 1]]
+New Folder Created
+Synthesis finished in 0.9s.
+Vanilla Lyrics: 
+Have you ever been in love You've been in the arms of someone Has your heart been in love with someone else? You've got your mind made up Has your body been satisfied? Have you ever been in love You've been in the arms of someone Have your eyes been open? Is your mind made up Has your body been satisfied? 
+Saving files to multiple_music_0915_commercial//have you ever been in love?_(I_Write_the_Songs_1-6)/vanilla
+Synthesis finished in 0.9s.
+User input keywords: times, Finding, Half
+Predicted keywords:[['Finding', 'love'], ['half', 'time'], ['Half', 'times'], ['Love', 'lost'], ['finally', 'found'], ['true', 'things']]
+1
+Generated Lyrics: 
+finding out that you love me, like we were half the time or more, and not even in half the time that it took for me to find you, half the time we spent, i finally found someone for me, now that we have finally found it.
+Saving files to multiple_music_0915_commercial//have you ever been in love?_(I_Write_the_Songs_1-6)/1_have you ever been in love?_(I_Write_the_Songs_1-6)
+Synthesis finished in 19.5s.
+100
+Generated Lyrics: 
+finding out that you love me, in half the time it takes to say, and not even in half the time that it takes for me to do so, in all of the times, that your love is lost and you need me, can you tell me if these are true things.
+Saving files to multiple_music_0915_commercial//have you ever been in love?_(I_Write_the_Songs_1-6)/100_have you ever been in love?_(I_Write_the_Songs_1-6)
+Synthesis finished in 20.6s.
+99999
+Generated Lyrics: 
+find the romance of the love, a half a love in the first time, a half a love in a lifetime is a little less than the last, in all of the times, the two of us finally found it, and when you finally found the one.
+Saving files to multiple_music_0915_commercial//have you ever been in love?_(I_Write_the_Songs_1-6)/99999_have you ever been in love?_(I_Write_the_Songs_1-6)
+Synthesis finished in 18.8s.
+Melody title: I_Write_the_Songs_1-6
+Song title: if i let you go
+Compiled melody constraints: 
+[[1, 0, 0, 1, 0, 0, 1], [0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 1], [0, 1, 0, 0, 0, 0, 1, 0, 1], [0, 1, 0, 0, 0, 0, 1, 0, 1]]
+New Folder Created
+Synthesis finished in 27.4s.
+Vanilla Lyrics: 
+It's been awhile since I let you go When I held you in my arms, baby Your heart beats with every time we meet If I let you go, you'll be gone, oh yeah You've been so good to me, baby It's been awhile since I let you go We've been so good to each other, baby Every time we talk, baby You're my love, I'd give anything for you
+Saving files to multiple_music_0915_commercial//if i let you go_(I_Write_the_Songs_1-6)/vanilla
+Synthesis finished in 19.0s.
+User input keywords: smiling, back, Taking
+Predicted keywords:[['Taking', 'gonna'], ['back', 'smile'], ['wanna', 'give'], ['Letting', 'go'], ['love', 'taking'], ['Back', 'smiling']]
+1
+Generated Lyrics: 
+take your love taking it go, can you take me back to your smile, tell me that you wanna give it to me and i will let you go, if i let you go, my love for you is taking over, with your back against the wall smiling.
+Saving files to multiple_music_0915_commercial//if i let you go_(I_Write_the_Songs_1-6)/1_if i let you go_(I_Write_the_Songs_1-6)
+Synthesis finished in 21.7s.
+100
+Generated Lyrics: 
+take me back to the start i, i want you back i want you smile, i wanna give you all the love that i have in my heart for you, let me take you back, this love is taking over me now, back when you were smiling at me then.
+Saving files to multiple_music_0915_commercial//if i let you go_(I_Write_the_Songs_1-6)/100_if i let you go_(I_Write_the_Songs_1-6)
+Synthesis finished in 21.2s.
+99999
+Generated Lyrics: 
+for the taking and the go, the back of your hand in my smile, the way you wanna give in the way you wanna give in to me, and the way i let, and you know the way love is taking, in front of your back and you smiling.
+Saving files to multiple_music_0915_commercial//if i let you go_(I_Write_the_Songs_1-6)/99999_if i let you go_(I_Write_the_Songs_1-6)
+Synthesis finished in 19.5s.
+Melody title: Ed_Sheeran_Perfect_1-4
+Song title: if tomorrow never comes
+Compiled melody constraints: 
+[[0, 0, 0, 1, 1, 1, 1], [0, 0, 0, 1, 0, 1, 0, 0, 0, 1], [0, 0, 0, 0, 1, 1, 0, 0, 1, 1], [0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 1]]
+New Folder Created
+Synthesis finished in 17.3s.
+Vanilla Lyrics: 
+If tomorrow never comes When we hold hands and kiss And when you feel your heart pound I'll never feel your pain So I'll just stay, stay by your side There are times I'm losing my mind If tomorrow never comes When we hold hands and kiss 
+Saving files to multiple_music_0915_commercial//if tomorrow never comes_(Ed_Sheeran_Perfect_1-4)/vanilla
+Synthesis finished in 19.9s.
+User input keywords: lost, loved, past
+Predicted keywords:[['lost', 'loved'], ['time', 'past'], ['today', 'back'], ['tomorrow', 'never']]
+1
+Generated Lyrics: 
+you lost the one that you loved, the time has come for me to face the past, i cant let today bring me back to you, if tomorrow never comes to bring you back to me.
+Saving files to multiple_music_0915_commercial//if tomorrow never comes_(Ed_Sheeran_Perfect_1-4)/1_if tomorrow never comes_(Ed_Sheeran_Perfect_1-4)
+Synthesis finished in 23.3s.
+100
+Generated Lyrics: 
+the way you lost your loved one, the time has come to look back on the past, you can take today and turn it back to, if tomorrow never comes and if you stay with me.
+Saving files to multiple_music_0915_commercial//if tomorrow never comes_(Ed_Sheeran_Perfect_1-4)/100_if tomorrow never comes_(Ed_Sheeran_Perfect_1-4)
+Synthesis finished in 28.6s.
+99999
+Generated Lyrics: 
+a love that is lost or loved, and the time has come to look in the past, and in today not looking back at all, the sun and moon and stars and the earth will all return.
+Saving files to multiple_music_0915_commercial//if tomorrow never comes_(Ed_Sheeran_Perfect_1-4)/99999_if tomorrow never comes_(Ed_Sheeran_Perfect_1-4)
+Synthesis finished in 17.5s.
+Melody title: The_Sound_of_Silence_1-4
+Song title: it tomorrow never comes
+Compiled melody constraints: 
+[[0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 0, 0, 0, 1, 0, 0, 1], [0, 0, 0, 0, 0, 1, 0, 1]]
+New Folder Created
+Synthesis finished in 72.2s.
+Vanilla Lyrics: 
+It tomorrow never comes It tomorrow never comes It today don't come It tomorrow never comes It today don't come The rain don't ever wash the dirt But it's all over the place It tomorrow never comes It tomorrow never cometh It tomorrow never cometh It today don't come It tomorrow never cometh It today don't come It tomorrow never cometh It
+Saving files to multiple_music_0915_commercial//it tomorrow never comes_(The_Sound_of_Silence_1-4)/vanilla
+Synthesis finished in 34.1s.
+User input keywords: past, feel, show
+Predicted keywords:[['today', 'show'], ['time', 'past'], ['day', 'feel'], ['tomorrow', 'never']]
+1
+Generated Lyrics: 
+if today is just a show, now the time has come to the past, not a day goes by that will make you feel, but it tomorrow never comes.
+Saving files to multiple_music_0915_commercial//it tomorrow never comes_(The_Sound_of_Silence_1-4)/1_it tomorrow never comes_(The_Sound_of_Silence_1-4)
+Synthesis finished in 11.2s.
+100
+Generated Lyrics: 
+the way today goes to show, the time has come to let the past, on the day that you need to feel it most, that the day you feel this way too.
+Saving files to multiple_music_0915_commercial//it tomorrow never comes_(The_Sound_of_Silence_1-4)/100_it tomorrow never comes_(The_Sound_of_Silence_1-4)
+Synthesis finished in 1.0s.
+99999
+Generated Lyrics: 
+in the today and the show, a time and a place in the past, the day you told me the way you feel now, in a tomorrow where you feel.
+Saving files to multiple_music_0915_commercial//it tomorrow never comes_(The_Sound_of_Silence_1-4)/99999_it tomorrow never comes_(The_Sound_of_Silence_1-4)
+Synthesis finished in 16.3s.

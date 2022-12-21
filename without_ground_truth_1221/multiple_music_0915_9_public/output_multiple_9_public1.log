@@ -1,0 +1,763 @@
+Loading eval meta data from /home/yufeit/VoiceSynthesizer/9_eval_public/9_public_melody_meta.json
+Loading Models...
+Melody title: Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1
+Song title: queen of the night" (film version)
+Compiled melody constraints: 
+[[0, 0, 0, 0, 0, 0, 1], [0, 0, 1, 0, 0, 1], [1, 1, 1, 1], [0, 0, 0, 0, 0, 0, 1], [0, 0, 1, 0, 0, 1], [1, 1, 1, 1]]
+New Folder Created
+Synthesis finished in 18.7s.
+Vanilla Lyrics: 
+He was only sixteen-years-old He would go on adventures in the night The girls would call him her knight, the king of the night The girls would call him her knight, the king of the night With a crown of thorns and a flaming sword Her pretty mouth like a little red rose His life the way he could make it She would sing and she would cry She would sing and she would shout 
+Saving files to multiple_music_0915_9_public//queen of the night" (film version)_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)/vanilla
+Synthesis finished in 20.8s.
+User input keywords: queen, night, make
+Predicted keywords:[['night', 'queen'], ['make', 'feel'], ['day', 'dreams'], ['lonely', 'sleep'], ['Queen', 'Night'], ['eyes', 'close']]
+1
+Generated Lyrics: 
+the night is for the queen of, to make you feel this way, new day of dreams, when your eyes are close to me, you are the queen of the, my eyes are closed.
+Saving files to multiple_music_0915_9_public//queen of the night" (film version)_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)/1_queen of the night" (film version)_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)
+Synthesis finished in 22.6s.
+100
+Generated Lyrics: 
+the night is the queen of all, to make you feel this way, one day my dreams, the night is for the queen of, queen of the night and day, her eyes they close.
+Saving files to multiple_music_0915_9_public//queen of the night" (film version)_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)/100_queen of the night" (film version)_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)
+Synthesis finished in 0.9s.
+99999
+Generated Lyrics: 
+and the night is the queen of, the way you make me feel, all my day dreams, a look in your eyes and close, the queen of the night is, her eyes they close.
+Saving files to multiple_music_0915_9_public//queen of the night" (film version)_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)/99999_queen of the night" (film version)_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)
+Synthesis finished in 20.1s.
+Melody title: In_a_Little_Spanish_Town_Lead_sheet_with_lyrics_1
+Song title: run to you
+Compiled melody constraints: 
+[[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1], [1, 1, 1, 1, 1, 1, 1], [1, 1, 1, 1, 1]]
+New Folder Created
+Synthesis finished in 21.5s.
+Vanilla Lyrics: 
+I could hide my heart, hide my head I could make a promise, just for a night A promise that I'd hold on to I could throw away the key, just to have your face And if I get this wrong, I can't stay here for long I think this time I'm gonna do it all right I've made a promise, I've made a vow I've broken a law, and I've been hurt
+Saving files to multiple_music_0915_9_public//run to you_(In_a_Little_Spanish_Town_Lead_sheet_with_lyrics_1)/vanilla
+Synthesis finished in 19.8s.
+User input keywords: wanna, run, hold
+Predicted keywords:[['wanna', 'run'], ['Run', 'love'], ['Hold', 'hold'], ['hope', 'breathe']]
+1
+Generated Lyrics: 
+and all i wanna do is just run to you and i, run to you i wanna run to you and i love you, hold on to me and love me, hold onto me now.
+Saving files to multiple_music_0915_9_public//run to you_(In_a_Little_Spanish_Town_Lead_sheet_with_lyrics_1)/1_run to you_(In_a_Little_Spanish_Town_Lead_sheet_with_lyrics_1)
+Synthesis finished in 20.4s.
+100
+Generated Lyrics: 
+and all i wanna do is just run to you and i, run to you and hold on to the way you love me so, hold on to me like you love, hold on to me hold.
+Saving files to multiple_music_0915_9_public//run to you_(In_a_Little_Spanish_Town_Lead_sheet_with_lyrics_1)/100_run to you_(In_a_Little_Spanish_Town_Lead_sheet_with_lyrics_1)
+Synthesis finished in 17.3s.
+99999
+Generated Lyrics: 
+the way you wanna run and the way that you love me, in the way i wanna run to you and love you so, try to hold on to me love, hold on to me hold.
+Saving files to multiple_music_0915_9_public//run to you_(In_a_Little_Spanish_Town_Lead_sheet_with_lyrics_1)/99999_run to you_(In_a_Little_Spanish_Town_Lead_sheet_with_lyrics_1)
+Synthesis finished in 16.9s.
+Melody title: Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1
+Song title: somebody bigger than you and i
+Compiled melody constraints: 
+[[0, 0, 0, 0, 0, 0, 1], [0, 0, 1, 0, 0, 1], [1, 1, 1, 1], [0, 0, 0, 0, 0, 0, 1], [0, 0, 1, 0, 0, 1], [1, 1, 1, 1]]
+New Folder Created
+Synthesis finished in 17.6s.
+Vanilla Lyrics: 
+You're the queen of the street but Somebody bigger than you and I Somebody bigger than you and I Somebody bigger than you and I The most beautiful man alive The greatest man alive Somebody bigger than you and I Somebody bigger than you but Somebody bigger than you and I Somebody bigger than you and I Somebody bigger than you and I Somebody bigger than you but Somebody bigger than you and I
+Saving files to multiple_music_0915_9_public//somebody bigger than you and i_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)/vanilla
+Synthesis finished in 26.7s.
+User input keywords: made, mountain, tree
+Predicted keywords:[['tree', 'made'], ['bigger', 'people'], ['mountain', 'gonna'], ['lonely', 'make'], ['trees', 'grow'], ['mountain', 'growing']]
+1
+Generated Lyrics: 
+the tree that you made me in, you and me bigger than, the mountain is, and not the lonely make you, and the trees they will grow, not the mountain.
+Saving files to multiple_music_0915_9_public//somebody bigger than you and i_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)/1_somebody bigger than you and i_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)
+Synthesis finished in 19.4s.
+100
+Generated Lyrics: 
+the tree of life that you made, and bigger than people, the mountain is, the mountain is growing up, and not the trees we grow, but the mountain.
+Saving files to multiple_music_0915_9_public//somebody bigger than you and i_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)/100_somebody bigger than you and i_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)
+Synthesis finished in 33.8s.
+99999
+Generated Lyrics: 
+the tree that you made in two, the bigger the people, there is one big, the mountain and the trees grow, and the trees they grow on, there is mountain.
+Saving files to multiple_music_0915_9_public//somebody bigger than you and i_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)/99999_somebody bigger than you and i_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)
+Synthesis finished in 25.7s.
+Melody title: Someone_to_watch_over_me_2
+Song title: someone for me
+Compiled melody constraints: 
+[[0, 0, 0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 1, 0, 0, 0, 1], [0, 0, 0, 1, 0, 1, 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 1, 0, 0, 0, 1], [0, 0, 0, 1, 0, 1, 1]]
+New Folder Created
+Synthesis finished in 24.4s.
+Vanilla Lyrics: 
+I'm lonely in this town You know it sucks to be here I just know it sucks to be here I know it sucks to be here That we never shared the same life So I'm gonna have to break your bones, baby It's too bad our time has come to the end No one is watching on the TV, honey You know it sucks to be here You know it sucks to be here 
+Syllabify error, regenerating...
+Vanilla Lyrics: 
+I got something special in my pocket You got this feeling inside me Something deep inside me Is just the feeling of somebody for me Baby, can you make me feel better? Someone who understands, who loves me, who cares Someone who cares for me, who loves me, who cares I got all the love and the good things that love brings You had, got my heart, got me out of the pain All
+Saving files to multiple_music_0915_9_public//someone for me_(Someone_to_watch_over_me_2)/vanilla
+Synthesis finished in 20.1s.
+User input keywords: party, guy, sitting
+Predicted keywords:[['party', 'guy'], ['gonna', 'sit'], ['lonely', 'girl'], ['sitting', 'people'], ['wanna', 'love'], ['friend', 'give']]
+1
+Generated Lyrics: 
+to the party with the guy that you know, are you gonna sit next to me, i am such a lonely girl, need a friend just to sit with me and you, i wanna be in love with you, need a friend to give me go.
+Saving files to multiple_music_0915_9_public//someone for me_(Someone_to_watch_over_me_2)/1_someone for me_(Someone_to_watch_over_me_2)
+Synthesis finished in 25.1s.
+100
+Generated Lyrics: 
+we used to go to party with my guy, but who you gonna sit next to, i am such a lonely girl, i need a friend not someone to sit with, if you wanna get in my love, need a friend to give it to.
+Saving files to multiple_music_0915_9_public//someone for me_(Someone_to_watch_over_me_2)/100_someone for me_(Someone_to_watch_over_me_2)
+Synthesis finished in 20.4s.
+99999
+Generated Lyrics: 
+in the party and the guy next to me, i think im gonna have to sit, a lonely boy and that girl, in a party and the guy next to me, a friend a give a little love, the best friend that i can give.
+Saving files to multiple_music_0915_9_public//someone for me_(Someone_to_watch_over_me_2)/99999_someone for me_(Someone_to_watch_over_me_2)
+Synthesis finished in 27.4s.
+Melody title: Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1
+Song title: step by step
+Compiled melody constraints: 
+[[0, 0, 0, 0, 0, 0, 1], [0, 0, 1, 0, 0, 1], [1, 1, 1, 1], [0, 0, 0, 0, 0, 0, 1], [0, 0, 1, 0, 0, 1], [1, 1, 1, 1]]
+New Folder Created
+Synthesis finished in 25.7s.
+Vanilla Lyrics: 
+Don't let me break your heart, I'll be here for you I'll be with you, just hold on a minute Don't let this moment fade away, I'll be here for you, just hold on a minute Don't let me break your heart, I'll be here for you, just hold on a minute I'll be here for you, just hold on a minute Don't let me break your heart,
+Saving files to multiple_music_0915_9_public//step by step_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)/vanilla
+Synthesis finished in 22.4s.
+User input keywords: baby, give, road
+Predicted keywords:[['Baby', 'give'], ['baby', 'gave'], ['road', 'step'], ['Give', 'time'], ['love', 'make'], ['change', 'life']]
+1
+Generated Lyrics: 
+baby i give it all up, my baby gave me this, on the road step, i need to change my life now, i need your love to make, can make a change.
+Saving files to multiple_music_0915_9_public//step by step_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)/1_step by step_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)
+Synthesis finished in 26.5s.
+100
+Generated Lyrics: 
+baby i gave it all to, and baby you gave it, on the road step, i need to change my life now, and all my love will make, to change my life.
+Saving files to multiple_music_0915_9_public//step by step_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)/100_step by step_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)
+Synthesis finished in 25.7s.
+99999
+Generated Lyrics: 
+baby the love you give me, the baby you gave me, oh my road step, and the change in my life now, the love you make in me, will change your life.
+Saving files to multiple_music_0915_9_public//step by step_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)/99999_step by step_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)
+Synthesis finished in 23.3s.
+Melody title: Someone_to_watch_over_me_3
+Song title: takin' a chance
+Compiled melody constraints: 
+[[0, 0, 0, 0, 0, 0, 0, 0], [1, 0, 0, 1, 0, 0, 1], [0, 0, 1, 0, 0, 1, 0, 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 1, 0, 0, 0, 1], [0, 0, 0, 1, 0, 1, 1]]
+New Folder Created
+Synthesis finished in 25.1s.
+Vanilla Lyrics: 
+Took a chance on a man Thought he had me beat Took every chance on a man Thought he had me beat Took a chance on a lover Thought he had me beat Took a chance on a lover Thought he had me beat Took a chance on a boy Thought he had me beat Took a chance on a boy Thought he had me beat Took a chance
+Saving files to multiple_music_0915_9_public//takin' a chance_(Someone_to_watch_over_me_3)/vanilla
+Synthesis finished in 19.9s.
+User input keywords: chance, wait, Good
+User input keywords: chance, wait, Good
+User input keywords: chance, wait, Good
+User input keywords: chance, wait, Good
+User input keywords: chance, wait, Good
+User input keywords: chance, wait, Good
+Predicted keywords:[['Good', 'chance'], ['good', 'time'], ['wait', "takin'"], ['gonna', 'love'], ['Gonna', 'give'], ['yeah', 'make']]
+1
+Generated Lyrics: 
+great chance to take it or leave it, it was a good time to go, and we wait and we take a chance, oh yeah you make me feel so good to know, not gonna give it up now yeah, yeah you make me feel this way.
+Saving files to multiple_music_0915_9_public//takin' a chance_(Someone_to_watch_over_me_3)/1_takin' a chance_(Someone_to_watch_over_me_3)
+Synthesis finished in 28.3s.
+100
+Generated Lyrics: 
+so good to take a chance with you, i want a good time with you, and if i wait could i just tak, oh yeah you are gonna make me love you, not gonna give up on you now, oh oh oh oh yeah make it.
+Saving files to multiple_music_0915_9_public//takin' a chance_(Someone_to_watch_over_me_3)/100_takin' a chance_(Someone_to_watch_over_me_3)
+Synthesis finished in 19.4s.
+99999
+Generated Lyrics: 
+and the good girls are in the a, you and me got a good time, in the wait and the wait and wait, a and a and a and a and a wait, gonna love you and treat you right, and yeah the way you make me.
+Saving files to multiple_music_0915_9_public//takin' a chance_(Someone_to_watch_over_me_3)/99999_takin' a chance_(Someone_to_watch_over_me_3)
+Synthesis finished in 27.8s.
+Melody title: In_a_Little_Spanish_Town_Lead_sheet_with_lyrics_1
+Song title: the christmas song (chestnuts roasting on an open fire)
+Compiled melody constraints: 
+[[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1], [1, 1, 1, 1, 1, 1, 1], [1, 1, 1, 1, 1]]
+New Folder Created
+Synthesis finished in 18.6s.
+Vanilla Lyrics: 
+Chestnuts roasting on an open fire Yuletide carols being sung by a choir And folks dressed up like eskimos Everybody singing a different song And every song you knew was a favorite of mine And this one's for our neighbor Santa Claus He's making mince pies for us But underneath the table everybody's singing And he's making a big ol' bowl of sauce From some kind of corn
+Syllabify error, regenerating...
+Vanilla Lyrics: 
+Chestnuts roasting on an open fire Jack Frost nipping at your nose Yuletide carols being sung by a choir Everybody loves to watch them fight But not on a day like today A man can sing this song A man can sing this song I'm a man who loves to sing A man who loves to sing Chestnuts roasting on an open fire Jack Frost nipping at your nose
+Saving files to multiple_music_0915_9_public//the christmas song (chestnuts roasting on an open fire)_(In_a_Little_Spanish_Town_Lead_sheet_with_lyrics_1)/vanilla
+Synthesis finished in 0.9s.
+User input keywords: Jack, Frost, Yuletide
+Predicted keywords:[['Jack', 'Yuletide'], ['Christmas', 'feeling'], ['Frost', 'snowflakes'], ['Feels', 'coldest']]
+1
+Generated Lyrics: 
+thank you for the jack and all the kids at christmas time, christmas time is here and we are feeling all alone, jack frost and the snow flake snow, winter frost and snow.
+Saving files to multiple_music_0915_9_public//the christmas song (chestnuts roasting on an open fire)_(In_a_Little_Spanish_Town_Lead_sheet_with_lyrics_1)/1_the christmas song (chestnuts roasting on an open fire)_(In_a_Little_Spanish_Town_Lead_sheet_with_lyrics_1)
+Synthesis finished in 18.1s.
+100
+Generated Lyrics: 
+the night is cold and the night is dark and jack frost is, jack is singing christmas songs with a christmas feeling, frost on the leaves and cold snow, frost of the first snow.
+Saving files to multiple_music_0915_9_public//the christmas song (chestnuts roasting on an open fire)_(In_a_Little_Spanish_Town_Lead_sheet_with_lyrics_1)/100_the christmas song (chestnuts roasting on an open fire)_(In_a_Little_Spanish_Town_Lead_sheet_with_lyrics_1)
+Synthesis finished in 20.5s.
+99999
+Generated Lyrics: 
+jack in the year of his christmas the frost came and went, and the christmas song is just about the feeling we, frost bite frost bite snow flake snow, frost bites like snow flakes.
+Saving files to multiple_music_0915_9_public//the christmas song (chestnuts roasting on an open fire)_(In_a_Little_Spanish_Town_Lead_sheet_with_lyrics_1)/99999_the christmas song (chestnuts roasting on an open fire)_(In_a_Little_Spanish_Town_Lead_sheet_with_lyrics_1)
+Synthesis finished in 18.0s.
+Melody title: Someone_to_watch_over_me_2
+Song title: this day
+Compiled melody constraints: 
+[[0, 0, 0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 1, 0, 0, 0, 1], [0, 0, 0, 1, 0, 1, 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 1, 0, 0, 0, 1], [0, 0, 0, 1, 0, 1, 1]]
+New Folder Created
+Synthesis finished in 26.3s.
+Vanilla Lyrics: 
+I don't need no more than one night The world's too small and it's too lonely I can't stop thinking of you for a day I can't stop thinking of you for a day I just have to break one more time Just give me one more day You were gone from my life and this world is so heavy You told me to walk the lonely street You left us as one step from the sky 
+Saving files to multiple_music_0915_9_public//this day_(Someone_to_watch_over_me_2)/vanilla
+Synthesis finished in 26.0s.
+User input keywords: Lord, Give, joy
+Predicted keywords:[['Lord', 'give'], ['Give', 'love'], ['Today', 'day'], ['today', 'days'], ['life', 'joy'], ['God', 'gave']]
+1
+Generated Lyrics: 
+lord i give my love to you and you give, give us all the love that we need, for today is a new day, this day has been a joy of a lifetime, all of my life has been joy and, god gave me this day to you.
+Saving files to multiple_music_0915_9_public//this day_(Someone_to_watch_over_me_2)/1_this day_(Someone_to_watch_over_me_2)
+Synthesis finished in 29.8s.
+100
+Generated Lyrics: 
+oh lord give me strength so i can fight on, give me all your love and my love, not today but some day soon, in this today and all of my days oh, to live my life in joy and pain, in the grace of god we gave.
+Saving files to multiple_music_0915_9_public//this day_(Someone_to_watch_over_me_2)/100_this day_(Someone_to_watch_over_me_2)
+Synthesis finished in 28.3s.
+99999
+Generated Lyrics: 
+the grace of god and the love of jesus, in order to give and receive, in the today and this day, in today the day and all of my days, and the life that you live in joy, the hand of god gave you me.
+Saving files to multiple_music_0915_9_public//this day_(Someone_to_watch_over_me_2)/99999_this day_(Someone_to_watch_over_me_2)
+Synthesis finished in 24.1s.
+Melody title: Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1
+Song title: until you come back
+Compiled melody constraints: 
+[[0, 0, 0, 0, 0, 0, 1], [0, 0, 1, 0, 0, 1], [1, 1, 1, 1], [0, 0, 0, 0, 0, 0, 1], [0, 0, 1, 0, 0, 1], [1, 1, 1, 1]]
+New Folder Created
+Synthesis finished in 17.7s.
+Vanilla Lyrics: 
+This lonely heart Can I hear you calling? Can I stop you running? This lonely heart The lonely, lonely heart Can I hear you calling? Can I stop you running? This lonely heart 
+Saving files to multiple_music_0915_9_public//until you come back_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)/vanilla
+Synthesis finished in 17.8s.
+User input keywords: back, Till, Boy
+Predicted keywords:[['Till', 'back'], ['Boy', 'till'], ['boy', 'til'], ['baby', 'lonely'], ['girl', 'love'], ['Girl', 'make']]
+1
+Generated Lyrics: 
+until you come back to me, oh boy till you come back, oh boy till you, and this boy till you come back, you know that girl i love, not girl i love.
+Saving files to multiple_music_0915_9_public//until you come back_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)/1_until you come back_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)
+Synthesis finished in 26.7s.
+100
+Generated Lyrics: 
+until you come back to me, girl until you come back, boy till you come, and boy till you come back to, the girl you love so much, girl you make me.
+Saving files to multiple_music_0915_9_public//until you come back_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)/100_until you come back_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)
+Synthesis finished in 17.9s.
+99999
+Generated Lyrics: 
+till you come back to me now, a boy till you come back, boy till you come, the boy you love till you die, the girl you love the most, girl you make me.
+Saving files to multiple_music_0915_9_public//until you come back_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)/99999_until you come back_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)
+Synthesis finished in 24.1s.
+Melody title: In_a_Little_Spanish_Town_Lead_sheet_with_lyrics_1
+Song title: where do broken hearts go
+Compiled melody constraints: 
+[[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1], [1, 1, 1, 1, 1, 1, 1], [1, 1, 1, 1, 1]]
+New Folder Created
+Synthesis finished in 20.0s.
+Vanilla Lyrics: 
+(Raceman I know you're gonna get your wish, I know you're gonna be the one A boy of good luck A girl of good will I'll love the one that you love more, A child of the storm, A child of fortune, They're all gonna love me tonight A boy of good luck A girl of good will They're all gonna love me tonight A
+Saving files to multiple_music_0915_9_public//where do broken hearts go_(In_a_Little_Spanish_Town_Lead_sheet_with_lyrics_1)/vanilla
+Synthesis finished in 19.3s.
+User input keywords: home, broken, hearts
+Predicted keywords:[['heart', 'broken'], ['home', 'find'], ['breakdown', 'hearts'], ['hope', 'forget']]
+1
+Generated Lyrics: 
+my heart is broken but i will not let it break down, i want my heart back i want my heart back now home find, from the breakdown of their hearts, in the breakdown of.
+Saving files to multiple_music_0915_9_public//where do broken hearts go_(In_a_Little_Spanish_Town_Lead_sheet_with_lyrics_1)/1_where do broken hearts go_(In_a_Little_Spanish_Town_Lead_sheet_with_lyrics_1)
+Synthesis finished in 17.7s.
+100
+Generated Lyrics: 
+in the arms of a stranger with a heart so broken, and no one will be home until you find her again, from the breakdown of their hearts, from their breakdown hearts.
+Saving files to multiple_music_0915_9_public//where do broken hearts go_(In_a_Little_Spanish_Town_Lead_sheet_with_lyrics_1)/100_where do broken hearts go_(In_a_Little_Spanish_Town_Lead_sheet_with_lyrics_1)
+Synthesis finished in 21.2s.
+99999
+Generated Lyrics: 
+the heart of a child and the one that was broken now, and you can stay at home and cry yourself to sleep no, to let this heart go to find, on their break down hearts.
+Saving files to multiple_music_0915_9_public//where do broken hearts go_(In_a_Little_Spanish_Town_Lead_sheet_with_lyrics_1)/99999_where do broken hearts go_(In_a_Little_Spanish_Town_Lead_sheet_with_lyrics_1)
+Synthesis finished in 17.6s.
+Melody title: Someone_to_watch_over_me_3
+Song title: who do you love
+Compiled melody constraints: 
+[[0, 0, 0, 0, 0, 0, 0, 0], [1, 0, 0, 1, 0, 0, 1], [0, 0, 1, 0, 0, 1, 0, 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 1, 0, 0, 0, 1], [0, 0, 0, 1, 0, 1, 1]]
+New Folder Created
+Synthesis finished in 27.1s.
+Vanilla Lyrics: 
+We meet all day I love, love that you love so much I love, love that you love so much And I'll make believe you're all mine I'll make believe you're all mine And I'll make believe you're all mine I love, love that you love so much I love, love that you love so much And I'll make believe you're all mine And I'll make believe you're
+Saving files to multiple_music_0915_9_public//who do you love_(Someone_to_watch_over_me_3)/vanilla
+Synthesis finished in 20.2s.
+User input keywords: love, strong, Straight
+Predicted keywords:[['Straight', 'love'], ['straight', 'strong'], ['streets', 'gonna'], ['wanna', 'find'], ['Love', 'who'], ['wrong', 'make']]
+1
+Generated Lyrics: 
+straight shooter who love you more than, and you know that straight and strong, on the streets who you gonna be, cause right now the streets are gonna know you, you know that love is who you are, you got it all wrong make right.
+Saving files to multiple_music_0915_9_public//who do you love_(Someone_to_watch_over_me_3)/1_who do you love_(Someone_to_watch_over_me_3)
+Synthesis finished in 25.3s.
+100
+Generated Lyrics: 
+right straight up to the top of love, i come straight from strong to you, the streets are gonna call my name, when it all goes wrong will you make it right, love who you love who do you know, what went wrong can make you right.
+Saving files to multiple_music_0915_9_public//who do you love_(Someone_to_watch_over_me_3)/100_who do you love_(Someone_to_watch_over_me_3)
+Synthesis finished in 27.4s.
+99999
+Generated Lyrics: 
+and straight and true is what you love, i got a straight and strong love, the streets are gonna get the best, the streets are gonna be where you and i, and love and who do you love ya, and the wrong way to make it.
+Saving files to multiple_music_0915_9_public//who do you love_(Someone_to_watch_over_me_3)/99999_who do you love_(Someone_to_watch_over_me_3)
+Synthesis finished in 20.1s.
+Melody title: Someone_to_watch_over_me_2
+Song title: who would imagine a king
+Compiled melody constraints: 
+[[0, 0, 0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 1, 0, 0, 0, 1], [0, 0, 0, 1, 0, 1, 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 1, 0, 0, 0, 1], [0, 0, 0, 1, 0, 1, 1]]
+New Folder Created
+Synthesis finished in 19.5s.
+Vanilla Lyrics: 
+The king of England would never be The king of England would never be He's an English boy and he would always be His queen was always queen of France His kingdom was always in Spain So when the queen of England dies That she'll be buried in Scotland. His queen was always queen of France His kingdom was always in Spain So when the queen of England dies That she'll be buried in Scotland.
+Saving files to multiple_music_0915_9_public//who would imagine a king_(Someone_to_watch_over_me_2)/vanilla
+Synthesis finished in 26.3s.
+User input keywords: imagine, king, Daddies
+Predicted keywords:[['King', 'imagined'], ['Imagine', 'king'], ['Daddies', 'daddy'], ['dreams', 'gonna'], ['realize', 'hear'], ['man', 'wanna']]
+Loading eval meta data from /home/yufeit/VoiceSynthesizer/9_eval_public/9_public_melody_meta.json
+Loading Models...
+Melody title: Someone_to_watch_over_me_2
+Song title: why does it hurt so bad?
+Compiled melody constraints: 
+[[0, 0, 0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 1, 0, 0, 0, 1], [0, 0, 0, 1, 0, 1, 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 1, 0, 0, 0, 1], [0, 0, 0, 1, 0, 1, 1]]
+New Folder Created
+Synthesis finished in 39.1s.
+Vanilla Lyrics: 
+Why does it hurt so bad? Why does it hurt so bad? Why does it hurt so bad? Why does it hurt so bad? Does it ever happen to anyone? Do it to a guy or a girl? If it happened to you, would you ever do it? Have I ever tried to break your heart in two? Why does it hurt so bad? Why does it hurt so bad?
+Saving files to multiple_music_0915_9_public//why does it hurt so bad?_(Someone_to_watch_over_me_2)/vanilla
+Synthesis finished in 35.7s.
+User input keywords: bad, hurt, hurts
+Predicted keywords:[['Hurt', 'bad'], ['hurt', 'good'], ['hurts', 'worse'], ['harder', 'feelings'], ['pain', 'feeling'], ['hear', 'voice']]
+1
+Generated Lyrics: 
+why does it hurt so bad when i see you, but it hurts so good to know you, when it hurts so good to know, how is it harder to feel your feelings, i hear your voice inside my head, not sure if you hear my voice.
+Saving files to multiple_music_0915_9_public//why does it hurt so bad?_(Someone_to_watch_over_me_2)/1_why does it hurt so bad?_(Someone_to_watch_over_me_2)
+Synthesis finished in 21.3s.
+100
+Generated Lyrics: 
+why does it hurt so bad when i see you, tell me why does it hurt so good, tell me why it hurts so good, it hurts so bad to see you hurt so good, i hear your voice inside my head, can you hear my voice at all.
+Saving files to multiple_music_0915_9_public//why does it hurt so bad?_(Someone_to_watch_over_me_2)/100_why does it hurt so bad?_(Someone_to_watch_over_me_2)
+Synthesis finished in 25.1s.
+99999
+Generated Lyrics: 
+and the hurt is so bad and you know it, the hurt and love it feels so good, and the hurt just hurts so good, the harder the hurt the worse the pain it, i can hear your voice in the crowd, not a way to hear your voice.
+Saving files to multiple_music_0915_9_public//why does it hurt so bad?_(Someone_to_watch_over_me_2)/99999_why does it hurt so bad?_(Someone_to_watch_over_me_2)
+Synthesis finished in 20.2s.
+Melody title: Someone_to_watch_over_me_3
+Song title: you light up my life
+Compiled melody constraints: 
+[[0, 0, 0, 0, 0, 0, 0, 0], [1, 0, 0, 1, 0, 0, 1], [0, 0, 1, 0, 0, 1, 0, 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 1, 0, 0, 0, 1], [0, 0, 0, 1, 0, 1, 1]]
+New Folder Created
+Synthesis finished in 23.9s.
+Vanilla Lyrics: 
+My eyes have been shut. Now I'm a happy man. All good things always come to those who wait. All we have to do is shine a light light light on you all. Your light light up my life. So shine a light light light light on you all. All good things always come to those who wait. All we have to do is shine a light light light on us all. We shine a
+Saving files to multiple_music_0915_9_public//you light up my life_(Someone_to_watch_over_me_3)/vanilla
+Synthesis finished in 20.1s.
+User input keywords: light, life, nights
+Predicted keywords:[['night', 'lonely'], ['life', 'light'], ['day', 'darkness'], ['days', 'dreams'], ['time', 'wasting'], ['nights', 'falling']]
+1
+Generated Lyrics: 
+when the night is cold and lonely, you light up my life like light, not since the last day of darkness, all my days are filled with your dreams of me, oh oh oh the nights are falling, all of my nights are falling.
+Saving files to multiple_music_0915_9_public//you light up my life_(Someone_to_watch_over_me_3)/1_you light up my life_(Someone_to_watch_over_me_3)
+Synthesis finished in 20.9s.
+100
+Generated Lyrics: 
+when the night is cold and lonely, when my life is filled with light, not a day goes by with darkness, the days go by and the nights are darkness, the nights are dark and the nights are, and the nights are falling down.
+Saving files to multiple_music_0915_9_public//you light up my life_(Someone_to_watch_over_me_3)/100_you light up my life_(Someone_to_watch_over_me_3)
+Synthesis finished in 20.2s.
+99999
+Generated Lyrics: 
+and the night when you are lonely, when my life was in the light, and the whole day in darkness too, a days and nights a world of dreams a dreams, the nights are dark and the nights are, the nights and days and nights are.
+Saving files to multiple_music_0915_9_public//you light up my life_(Someone_to_watch_over_me_3)/99999_you light up my life_(Someone_to_watch_over_me_3)
+Synthesis finished in 27.0s.
+Melody title: Someone_to_watch_over_me_2
+Song title: you'll never stand alone
+Compiled melody constraints: 
+[[0, 0, 0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 1, 0, 0, 0, 1], [0, 0, 0, 1, 0, 1, 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 1, 0, 0, 0, 1], [0, 0, 0, 1, 0, 1, 1]]
+New Folder Created
+Synthesis finished in 19.4s.
+Vanilla Lyrics: 
+Now there was a girl, oh the other day That I fell in love with She gave me her number I called her and she told me But one morning she said But one morning she said I told her I loved her But one morning she said That there was a chance she could find me I called her and she told me But one morning she said But one morning she said But
+Saving files to multiple_music_0915_9_public//you'll never stand alone_(Someone_to_watch_over_me_2)/vanilla
+Synthesis finished in 20.8s.
+User input keywords: standing, love, lose
+Predicted keywords:[['love', 'stand'], ['standing', 'lonely'], ['lost', 'gonna'], ['time', 'stay'], ['life', 'longer'], ['Stand', 'alone']]
+1
+Generated Lyrics: 
+i need your love to help me stand alone, and now you are standing lonely, and now we are lost gonna, it seems like the last time that i will stay, say you love me and stand alone, stand alone when you need me.
+Saving files to multiple_music_0915_9_public//you'll never stand alone_(Someone_to_watch_over_me_2)/1_you'll never stand alone_(Someone_to_watch_over_me_2)
+Synthesis finished in 24.6s.
+100
+Generated Lyrics: 
+the love that you need is there to stand by, when your love is standing lonely, i was lost gonna find you, the time has come for you to stay with me, stand up and be strong and alone, stand alone you must be strong.
+Saving files to multiple_music_0915_9_public//you'll never stand alone_(Someone_to_watch_over_me_2)/100_you'll never stand alone_(Someone_to_watch_over_me_2)
+Synthesis finished in 19.9s.
+99999
+Generated Lyrics: 
+and the love you feel for me will stand still, and when you are standing lonely, and we in lost and gone go, the time has come for you and me to stay, and the time has come to stay now, in the stand of you now here.
+Saving files to multiple_music_0915_9_public//you'll never stand alone_(Someone_to_watch_over_me_2)/99999_you'll never stand alone_(Someone_to_watch_over_me_2)
+Synthesis finished in 21.2s.
+Melody title: Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1
+Song title: you're still my man
+Compiled melody constraints: 
+[[0, 0, 0, 0, 0, 0, 1], [0, 0, 1, 0, 0, 1], [1, 1, 1, 1], [0, 0, 0, 0, 0, 0, 1], [0, 0, 1, 0, 0, 1], [1, 1, 1, 1]]
+New Folder Created
+Synthesis finished in 17.7s.
+Vanilla Lyrics: 
+If I could hold you and make you stay If I could stop your burning desire I'd stop your screaming I don't care (I don't care We'll be living in a dream together (dream together I'm not the type of girl who's gonna be afraid of your wrath Because I'll walk away with nothing on my mind (on my mind I'd stop your screaming I don't care (I don't care
+Saving files to multiple_music_0915_9_public//you're still my man_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)/vanilla
+Synthesis finished in 17.7s.
+User input keywords: love, day, left
+Predicted keywords:[['day', 'wanna'], ['man', 'love'], ['time', 'left'], ['night', 'leave'], ['days', 'wait'], ['today', 'stay']]
+1
+Generated Lyrics: 
+one day you wanna come back, i am a man in love, no time left now, so many nights you leave me, no today you will stay, just stay today.
+Saving files to multiple_music_0915_9_public//you're still my man_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)/1_you're still my man_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)
+Synthesis finished in 28.0s.
+100
+Generated Lyrics: 
+since the day i wanna be, i am a man in love, there is time left, just like the night you leave me, no today i will stay, just stay today.
+Saving files to multiple_music_0915_9_public//you're still my man_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)/100_you're still my man_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)
+Synthesis finished in 21.3s.
+99999
+Generated Lyrics: 
+in the day i wanna see, the man you love and know, no time left now, in the night and you leave me, a today and you stay, not today stay.
+Saving files to multiple_music_0915_9_public//you're still my man_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)/99999_you're still my man_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)
+Synthesis finished in 17.5s.
+Melody title: Someone_to_watch_over_me_2
+Song title: take you away
+Compiled melody constraints: 
+[[0, 0, 0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 1, 0, 0, 0, 1], [0, 0, 0, 1, 0, 1, 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 1, 0, 0, 0, 1], [0, 0, 0, 1, 0, 1, 1]]
+New Folder Created
+Synthesis finished in 21.1s.
+Vanilla Lyrics: 
+It's been years since I saw you, I've been gone in just a little while When I think back now, well it's been my longest year Since the start of the day, but oh when it's been a long time I'd like to feel your warm embrace I'd like to hear you say you love me so I'd like to meet you in a little town somewhere I'd like to be the girl next door 
+Saving files to multiple_music_0915_9_public//take you away_(Someone_to_watch_over_me_2)/vanilla
+Synthesis finished in 21.5s.
+User input keywords: home, sound, Turn
+Predicted keywords:[['home', 'sound'], ['Turn', 'turning'], ['time', 'wasting'], ['stay', 'hope'], ['leave', 'feelings'], ['left', 'love']]
+1
+Generated Lyrics: 
+it takes me home when all the sound is gone, turn it off and turning back on, there is no time for wasting, you know i can stay if you give me hope, but you left me with these feelings, i have left my love for you.
+Saving files to multiple_music_0915_9_public//take you away_(Someone_to_watch_over_me_2)/1_take you away_(Someone_to_watch_over_me_2)
+Synthesis finished in 19.7s.
+100
+Generated Lyrics: 
+and when you come home the house will sound like, turn the lights off and turning on, there is no time for wasting, i want to stay with you and i hope you, and you left me with these feelings, i have left all my love here.
+Saving files to multiple_music_0915_9_public//take you away_(Someone_to_watch_over_me_2)/100_take you away_(Someone_to_watch_over_me_2)
+Synthesis finished in 24.9s.
+99999
+Generated Lyrics: 
+in the morning when you come home the sound, turn and the light is turning off, and all the time we were waste, want you to stay and give me some hope now, the only one left to love you, and whats left of the love you.
+Saving files to multiple_music_0915_9_public//take you away_(Someone_to_watch_over_me_2)/99999_take you away_(Someone_to_watch_over_me_2)
+Synthesis finished in 21.0s.
+Melody title: Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1
+Song title: butterfly
+Compiled melody constraints: 
+[[0, 0, 0, 0, 0, 0, 1], [0, 0, 1, 0, 0, 1], [1, 1, 1, 1], [0, 0, 0, 0, 0, 0, 1], [0, 0, 1, 0, 0, 1], [1, 1, 1, 1]]
+New Folder Created
+Synthesis finished in 17.6s.
+Vanilla Lyrics: 
+I see butterflies in a paper bag They dance all night and dance all day Well, I know I got lucky, I know it's a good thing I got love in a butterfly I got love in a butterfly I can't dance in the snow I'm gonna dance my way home I gotta dance my way home Well, I know I got lucky, I know it's a good thing I got love in a
+Saving files to multiple_music_0915_9_public//butterfly_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)/vanilla
+Synthesis finished in 24.9s.
+User input keywords: Flight, People, fro
+Predicted keywords:[['People', 'fly'], ['Flying', 'wings'], ['sky', 'froze'], ['Fly', 'flies'], ['people', 'flying'], ['flight', 'flies']]
+1
+Generated Lyrics: 
+people think that you fly too, flying on the wings of, when the sky froze, the people who were flying, must be a flight that flies, the flight that flies.
+Saving files to multiple_music_0915_9_public//butterfly_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)/1_butterfly_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)
+Synthesis finished in 18.0s.
+100
+Generated Lyrics: 
+people think that i am fly, he flying on his wings, the sky froze up, all the people are flying, on a flight that flies by, on the flight flies.
+Saving files to multiple_music_0915_9_public//butterfly_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)/100_butterfly_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)
+Synthesis finished in 22.1s.
+99999
+Generated Lyrics: 
+in a crowd of people fly, the flying of the wings, when it froze sky, and the people were flying, and a flight of the flies, this flight flies by.
+Saving files to multiple_music_0915_9_public//butterfly_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)/99999_butterfly_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)
+Synthesis finished in 17.8s.
+Loading eval meta data from /home/yufeit/VoiceSynthesizer/9_eval_public/9_public_melody_meta.json
+Loading Models...
+Melody title: Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1
+Song title: close up
+Compiled melody constraints: 
+[[0, 0, 0, 0, 0, 0, 1], [0, 0, 1, 0, 0, 1], [1, 1, 1, 1], [0, 0, 0, 0, 0, 0, 1], [0, 0, 1, 0, 0, 1], [1, 1, 1, 1]]
+You might be overwriting existing folders
+Synthesis finished in 17.8s.
+Vanilla Lyrics: 
+It's no surprise to me, you'd be here It's no surprise to me, you'd be here (x4 You'd always be waiting in line But when I met you I felt your heart I'd seen your eyes from across the room You'd always be waiting in line But when I met you I felt your heart Every time we talk, baby every time we're alone Every time I feel you close
+Saving files to multiple_music_0915_9_public//close up_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)/vanilla
+Synthesis finished in 17.8s.
+User input keywords: close, baby, Ready
+Predicted keywords:[['Close', 'baby'], ['Baby', 'close'], ['Open', 'eyes'], ['ready', 'love'], ['Ready', 'make'], ['wanna', 'feel']]
+1
+Generated Lyrics: 
+baby close up and kiss me, baby close up to me, open your eyes, are you ready to love me, ready to make love now, i wanna feel.
+Saving files to multiple_music_0915_9_public//close up_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)/1_close up_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)
+Synthesis finished in 21.6s.
+100
+Generated Lyrics: 
+baby close up and kiss me, baby close up to me, open your eyes, are you ready to love me, ready to make love now, you wanna feel.
+Saving files to multiple_music_0915_9_public//close up_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)/100_close up_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)
+Synthesis finished in 17.6s.
+99999
+Generated Lyrics: 
+close up and show me baby, baby close up and see, open your eyes, the way you ready to love, ready to make the first, no way to feel.
+Saving files to multiple_music_0915_9_public//close up_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)/99999_close up_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)
+Synthesis finished in 17.4s.
+Melody title: In_a_Little_Spanish_Town_Lead_sheet_with_lyrics_1
+Song title: fireflies
+Compiled melody constraints: 
+[[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1], [1, 1, 1, 1, 1, 1, 1], [1, 1, 1, 1, 1]]
+New Folder Created
+Synthesis finished in 17.7s.
+Vanilla Lyrics: 
+I was living in my little dream I'm trying hard to fly And I feel like I've been burned, oh Fireflies, fireflies fly, oh I was living in my little dream I'm trying hard to fly And I feel like I've been burned, oh Fireflies, fireflies fly, oh 
+Saving files to multiple_music_0915_9_public//fireflies_(In_a_Little_Spanish_Town_Lead_sheet_with_lyrics_1)/vanilla
+Synthesis finished in 23.5s.
+User input keywords: put, air, Fireflies
+Predicted keywords:[['Fireflies', 'fireflies'], ['Put', 'light'], ['ground', 'air'], ['Lightning', 'fly']]
+1
+Generated Lyrics: 
+all of my friends have seen it and they all know how it, put your hands up in the air and feel the speed of light, up on the ground in the air, the ground and the air.
+Saving files to multiple_music_0915_9_public//fireflies_(In_a_Little_Spanish_Town_Lead_sheet_with_lyrics_1)/1_fireflies_(In_a_Little_Spanish_Town_Lead_sheet_with_lyrics_1)
+Synthesis finished in 18.0s.
+100
+Generated Lyrics: 
+the flying insects are all the same in the fire, put your hands up in the air if you see a fire, up on the ground in the air, no ground in the air.
+Saving files to multiple_music_0915_9_public//fireflies_(In_a_Little_Spanish_Town_Lead_sheet_with_lyrics_1)/100_fireflies_(In_a_Little_Spanish_Town_Lead_sheet_with_lyrics_1)
+Synthesis finished in 18.4s.
+99999
+Generated Lyrics: 
+the fires and the flames and the flies and the fire, put a light in the window if you wanna see me, we are on the ground but air, out of ground and air.
+Saving files to multiple_music_0915_9_public//fireflies_(In_a_Little_Spanish_Town_Lead_sheet_with_lyrics_1)/99999_fireflies_(In_a_Little_Spanish_Town_Lead_sheet_with_lyrics_1)
+Synthesis finished in 19.6s.
+Melody title: Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1
+Song title: go crazy
+Compiled melody constraints: 
+[[0, 0, 0, 0, 0, 0, 1], [0, 0, 1, 0, 0, 1], [1, 1, 1, 1], [0, 0, 0, 0, 0, 0, 1], [0, 0, 1, 0, 0, 1], [1, 1, 1, 1]]
+New Folder Created
+Synthesis finished in 19.7s.
+Vanilla Lyrics: 
+It's been a long time coming Now I'm gonna find you something else I'm tryna find you something else You're a hard core junkie I hope you have a nice long life I hope you don't find a reason You're a hard core junkie I hope you have a nice long life I hope you don't find a reason You're a hard core junkie I hope you have
+Saving files to multiple_music_0915_9_public//go crazy_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)/vanilla
+Synthesis finished in 20.3s.
+User input keywords: hands, air, feet
+Predicted keywords:[['feet', 'hear'], ['hands', 'feels'], ['cold', 'wanna'], ['air', 'feel'], ['time', 'make'], ['crazy', 'go']]
+1
+Generated Lyrics: 
+on my feet you can hear me, my hands it feels the same, so cold wanna, in the air when you feel it, and the time to make it, it goes crazy.
+Saving files to multiple_music_0915_9_public//go crazy_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)/1_go crazy_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)
+Synthesis finished in 17.7s.
+100
+Generated Lyrics: 
+get up on your feet and hear, and my hands it feels like, so cold wanna, in the air when you feel it, this time we make it through, go crazy go.
+Saving files to multiple_music_0915_9_public//go crazy_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)/100_go crazy_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)
+Synthesis finished in 17.8s.
+99999
+Generated Lyrics: 
+the feet that i can hear you, the hands on me it feels, so cold to think, in the air and i feel it, and the time will make it, so go crazy.
+Saving files to multiple_music_0915_9_public//go crazy_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)/99999_go crazy_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)
+Synthesis finished in 20.8s.
+Melody title: Someone_to_watch_over_me_2
+Song title: made in japan
+Compiled melody constraints: 
+[[0, 0, 0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 1, 0, 0, 0, 1], [0, 0, 0, 1, 0, 1, 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 1, 0, 0, 0, 1], [0, 0, 0, 1, 0, 1, 1]]
+New Folder Created
+Synthesis finished in 25.1s.
+Vanilla Lyrics: 
+It's not a good story, it's not a good story It's not a good story, it's not a good story I'm not the girl that the magazine said you should be I'm not a boy to give you a kiss now I know She never got to make me her boyfriend She got some guy on the road Don't ask me to call him when I'm away I'm not a girl that the magazine said
+Saving files to multiple_music_0915_9_public//made in japan_(Someone_to_watch_over_me_2)/vanilla
+Synthesis finished in 25.7s.
+User input keywords: Japan, Made, Tokyo
+Predicted keywords:[['Japan', 'made'], ['Made', 'japan'], ['Tokyo', 'built'], ['Till', 'make'], ['Making', 'JAPANESE'], ['Make', 'Japanese']]
+1
+Generated Lyrics: 
+i am made in japan but you are not, japan was made for you and me, tokyo was built to last, tokyo was the place we built it to, make you feel like a japanese, making love in japanese.
+Saving files to multiple_music_0915_9_public//made in japan_(Someone_to_watch_over_me_2)/1_made in japan_(Someone_to_watch_over_me_2)
+Synthesis finished in 21.6s.
+100
+Generated Lyrics: 
+japan is made up of a lot of things, japan japan i made it all, in tokyo i built it, tokyo was the place we built it to, making love to the japanese, make you feel japanese too.
+Saving files to multiple_music_0915_9_public//made in japan_(Someone_to_watch_over_me_2)/100_made in japan_(Someone_to_watch_over_me_2)
+Synthesis finished in 21.5s.
+99999
+Generated Lyrics: 
+a in japan the sun and the moon are, made in japan a japanese, in tokyo the car was, in tokyo i built a japanese, in the making a japanese, and japanese in them selves.
+Saving files to multiple_music_0915_9_public//made in japan_(Someone_to_watch_over_me_2)/99999_made in japan_(Someone_to_watch_over_me_2)
+Synthesis finished in 19.7s.
+Melody title: Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1
+Song title: only when you're close
+Compiled melody constraints: 
+[[0, 0, 0, 0, 0, 0, 1], [0, 0, 1, 0, 0, 1], [1, 1, 1, 1], [0, 0, 0, 0, 0, 0, 1], [0, 0, 1, 0, 0, 1], [1, 1, 1, 1]]
+New Folder Created
+Synthesis finished in 18.8s.
+Vanilla Lyrics: 
+Only when you're close can we be close Can you hold the world in your hands In just a whisper you can let things go We've got the power to make you feel this way I never thought life could be this sweet It's so hard to see what you really feel inside You can feel what a child feels inside We've got the power to make you feel this way And it's never too late, I promise
+Saving files to multiple_music_0915_9_public//only when you're close_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)/vanilla
+Synthesis finished in 23.6s.
+User input keywords: catch, breath, drops
+Predicted keywords:[['catch', 'breath'], ['close', 'eyes'], ['time', 'falling'], ['lose', 'feel'], ['drop', 'heart'], ['tears', 'wanna']]
+1
+Generated Lyrics: 
+i need to catch my breath and, i need to catch my breath, time is falling, when you lose sight of you feel, need a drop of your heart, my tears wanna.
+Saving files to multiple_music_0915_9_public//only when you're close_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)/1_only when you're close_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)
+Synthesis finished in 17.7s.
+100
+Generated Lyrics: 
+i need to catch my breath now, just close your eyes and try, time is falling, and lose the way you feel it, need a drop of your heart, these tears wanna.
+Saving files to multiple_music_0915_9_public//only when you're close_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)/100_only when you're close_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)
+Synthesis finished in 26.3s.
+99999
+Generated Lyrics: 
+in the way i catch my breath, in the close of your eyes, each time we fall, and you lose the way you feel, in the drop of your heart, with tears you don.
+Saving files to multiple_music_0915_9_public//only when you're close_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)/99999_only when you're close_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)
+Synthesis finished in 18.8s.
+Melody title: Someone_to_watch_over_me_2
+Song title: parachute
+Compiled melody constraints: 
+[[0, 0, 0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 1, 0, 0, 0, 1], [0, 0, 0, 1, 0, 1, 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 1, 0, 0, 0, 1], [0, 0, 0, 1, 0, 1, 1]]
+New Folder Created
+Synthesis finished in 27.8s.
+Vanilla Lyrics: 
+I could see your arms, I could feel your heart You can't stop your crying, you could fall Your whole life so short You can't stop the rain, you can't stop the fight You can't stop your crying, you can't stop the fight There's no point crying, cause everything's gonna work You can't stop the rains, you can't stop the fight You can't stop your crying, you can't
+Saving files to multiple_music_0915_9_public//parachute_(Someone_to_watch_over_me_2)/vanilla
+Synthesis finished in 23.3s.
+User input keywords: Jumped, parachute, fear
+Predicted keywords:[['Jumped', 'parachute'], ['Parachute', 'jumped'], ['Chapel', 'jumped'], ['choke', 'falling'], ['fear', 'lose'], ['sky', 'fly']]
+1
+Generated Lyrics: 
+jump jump jump jump jump parachute with me, parachute jumped and saved me now, chapel just jumped off of me, you choke on the fear of falling down now, i fear i might lose my breath and, i can see the sky fly by.
+Saving files to multiple_music_0915_9_public//parachute_(Someone_to_watch_over_me_2)/1_parachute_(Someone_to_watch_over_me_2)
+Synthesis finished in 24.9s.
+100
+Generated Lyrics: 
+jump out of the parachute and land on, parachute jumped off of me now, cho parachute jumped off me, and as you choke and fall you hit the ground, in a fear of losing you now, can you see the sky fly by.
+Saving files to multiple_music_0915_9_public//parachute_(Someone_to_watch_over_me_2)/100_parachute_(Someone_to_watch_over_me_2)
+Synthesis finished in 33.6s.
+99999
+Generated Lyrics: 
+the parachute jumped and saved me and you, a chap a jumped and saved a life, the chap a jumped and saved me, in my choke i see the ground falling down, in the choke of the falling rain, the sky began to fly down.
+Saving files to multiple_music_0915_9_public//parachute_(Someone_to_watch_over_me_2)/99999_parachute_(Someone_to_watch_over_me_2)
+Synthesis finished in 31.2s.
+Loading eval meta data from /home/yufeit/VoiceSynthesizer/9_eval_public/9_public_melody_meta.json
+Loading Models...
+Melody title: Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1
+Song title: shake santa shake
+Compiled melody constraints: 
+[[0, 0, 0, 0, 0, 0, 1], [0, 0, 1, 0, 0, 1], [1, 1, 1, 1], [0, 0, 0, 0, 0, 0, 1], [0, 0, 1, 0, 0, 1], [1, 1, 1, 1]]
+New Folder Created
+Synthesis finished in 19.7s.
+Vanilla Lyrics: 
+He's got that feeling inside his stomach again When his big big belly laughs He's got a real big belly laugh, yeah His little white heart is pounding on his chest Yeah he's shaking Santa Claus Hey he's shaking Santa Claus now Hey he's shaking Santa Claus come on He's got a big big belly laugh, yeah He knows that I'm gonna be waiting for Santa. When he walks by the mall
+Saving files to multiple_music_0915_9_public//shake santa shake_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)/vanilla
+Synthesis finished in 26.0s.
+User input keywords: Shake, Santa, suit
+Predicted keywords:[['Santa', 'Shake'], ['santa', 'shake'], ['Suit', 'shaking'], ['wear', 'suit'], ['Christmas', 'time'], ['Wishing', 'goodbye']]
+1
+Generated Lyrics: 
+oh santa come and shake me, my santa wants to shake, santa baby, do you like my christmas suit, now it is christmas time, at christmas time.
+Saving files to multiple_music_0915_9_public//shake santa shake_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)/1_shake santa shake_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)
+Synthesis finished in 17.9s.
+100
+Generated Lyrics: 
+shake santa shake santa shake, oh oh oh santa shake, suit of plain clothes, you can wear a suit and tie, when christmas time is here, at christmas time.
+Saving files to multiple_music_0915_9_public//shake santa shake_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)/100_shake santa shake_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)
+Synthesis finished in 25.2s.
+99999
+Generated Lyrics: 
+sh sh sh sh a santa a shake, a a santa a shake, old suit of clothes, sh suit and sh shirt and shoes and, and the christmas time is, at christmas time.
+Synthesize error, regenerating...
+Generated Lyrics: 
+and a santa in a shake, and a santa a shake, rank up your suit, the way that you wear the suit, this is christmas time now, this is christmas.
+Saving files to multiple_music_0915_9_public//shake santa shake_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)/99999_shake santa shake_(Bye_Bye_Blackbird_--_alternate_chords_Lead_sheet_with_lyrics_1)
+Synthesis finished in 36.3s.
+Melody title: Someone_to_watch_over_me_2
+Song title: smile
+Compiled melody constraints: 
+[[0, 0, 0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 1, 0, 0, 0, 1], [0, 0, 0, 1, 0, 1, 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 1, 0, 0, 0, 1], [0, 0, 0, 1, 0, 1, 1]]
+New Folder Created
+Synthesis finished in 25.9s.
+Vanilla Lyrics: 
+It’s not the kind of thing that I enjoy I’ve been watching you for a long time If you’re gonna love me all around the world And in return you’re gonna show me how to smile There’s not a single thing that’d take my mind away If I don’t show you how to smile you’ll just drive me insane And I can’
+Saving files to multiple_music_0915_9_public//smile_(Someone_to_watch_over_me_2)/vanilla
+Synthesis finished in 24.1s.
+User input keywords: Smile, Light, Hide
+Predicted keywords:[['Smile', 'light'], ['smile', 'lonely'], ['hide', 'soul'], ['Hide', 'eyes'], ['Light', 'darkness'], ['shine', 'brightest']]
+1
+Generated Lyrics: 
+smile when the light is shining on you and, you can smile when you are lonely, to hide your heart from your soul, show me how to hide my tears from my soul, show me the smile that lights my dark, show me how to shine brightest.
+Saving files to multiple_music_0915_9_public//smile_(Someone_to_watch_over_me_2)/1_smile_(Someone_to_watch_over_me_2)
+Synthesis finished in 31.0s.
+100
+Generated Lyrics: 
+the smile you give when you turn out the light, the smile that makes me so lonely, to hide your heart from your soul, hide your face from my eyes if you want to, show me the smile that lights my dark, shine brighter than all the rest.
+Saving files to multiple_music_0915_9_public//smile_(Someone_to_watch_over_me_2)/100_smile_(Someone_to_watch_over_me_2)
+Synthesis finished in 30.6s.
+99999
+Generated Lyrics: 
+the smile in your eyes can light up the dark, and the smile that makes me lonely, the way you hide in your soul, hide in the corner of your eyes and say, light a candle for the darkness, in the light of the darkness.
+Saving files to multiple_music_0915_9_public//smile_(Someone_to_watch_over_me_2)/99999_smile_(Someone_to_watch_over_me_2)
+Synthesis finished in 20.0s.
+Melody title: Someone_to_watch_over_me_2
+Song title: homeless souls
+Compiled melody constraints: 
+[[0, 0, 0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 1, 0, 0, 0, 1], [0, 0, 0, 1, 0, 1, 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 1, 0, 0, 0, 1], [0, 0, 0, 1, 0, 1, 1]]
+New Folder Created
+Synthesis finished in 21.5s.
+Vanilla Lyrics: 
+You can't keep your eyes open It's so cold, so cold and so dark I'm so cold, so cold and so dark When I wake up this morning In the middle of the night, I sleep With all that's left in my heart, I've been working for I'm so cold, so cold and so dark When I wake up this morning I wake up to the sound Of a beating heart
+Saving files to multiple_music_0915_9_public//homeless souls_(Someone_to_watch_over_me_2)/vanilla
+Synthesis finished in 20.3s.
+User input keywords: Homeless, souls, hand
+Predicted keywords:[['Homeless', 'souls'], ['Souls', 'homeless'], ['hands', 'hand'], ['Hand', 'hold'], ['God', 'hear'], ['Jesus', 'hope']]
+1
+Generated Lyrics: 
+homeless souls looking for a place to go, homeless souls on the streets of town, keep your hands off of me hand, so hold your head up high keep your hands up, i said jesus i hope you can, i said jesus hear my prayer.
+Saving files to multiple_music_0915_9_public//homeless souls_(Someone_to_watch_over_me_2)/1_homeless souls_(Someone_to_watch_over_me_2)
+Synthesis finished in 24.4s.
+100
+Generated Lyrics: 
+homeless souls looking for a place to go, homeless souls can find a way home, in your hands or in your hand, hold my head up high and cry out jesus, jesus help me hear you please oh, to save us from the jesus.
+Saving files to multiple_music_0915_9_public//homeless souls_(Someone_to_watch_over_me_2)/100_homeless souls_(Someone_to_watch_over_me_2)
+Synthesis finished in 20.6s.
+99999
+Generated Lyrics: 
+and the homeless souls are all in the streets, and the souls are all homeless souls, and your hands are in your hand, a hand or two will help you hold on now, in jesus we trust and we hear, and not in jesus name we.
+Saving files to multiple_music_0915_9_public//homeless souls_(Someone_to_watch_over_me_2)/99999_homeless souls_(Someone_to_watch_over_me_2)
+Synthesis finished in 26.1s.
+Melody title: In_a_Little_Spanish_Town_Lead_sheet_with_lyrics_1
+Song title: tennessee waltz
+Compiled melody constraints: 
+[[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1], [1, 1, 1, 1, 1, 1, 1], [1, 1, 1, 1, 1]]
+New Folder Created
+Synthesis finished in 18.1s.
+Vanilla Lyrics: 
+Tennessee Waltz It's a beautiful world without you Tennessee Waltz To this day, I'm blue To this day, I'm blue. That's a beautiful life Tennessee Waltz That's a beautiful place to live without you Tennessee Waltz Tennessee Waltz. That's a beautiful life. Tennessee Waltz To this day, I'm blue To this day, I'm
+Saving files to multiple_music_0915_9_public//tennessee waltz_(In_a_Little_Spanish_Town_Lead_sheet_with_lyrics_1)/vanilla
+Synthesis finished in 25.0s.
+User input keywords: Tennessee, Waltz, night
+Predicted keywords:[['Tennessee', 'Waltz'], ['waltz', 'night'], ['trouble', 'lonely'], ['Trouble', 'leaving']]
+1
+Generated Lyrics: 
+there is a tennessee walt zing going on tonight, i want to take a tennessee mile for a walt zing, you must have a tennessee, trouble leaves me sad.
+Saving files to multiple_music_0915_9_public//tennessee waltz_(In_a_Little_Spanish_Town_Lead_sheet_with_lyrics_1)/1_tennessee waltz_(In_a_Little_Spanish_Town_Lead_sheet_with_lyrics_1)
+Synthesis finished in 19.9s.
+100
+Generated Lyrics: 
+in tennessee there is a song they call tennessee, in tennessee there is a song they call a walt zing, went to the walt zing last night, trouble leaves me sad.
+Saving files to multiple_music_0915_9_public//tennessee waltz_(In_a_Little_Spanish_Town_Lead_sheet_with_lyrics_1)/100_tennessee waltz_(In_a_Little_Spanish_Town_Lead_sheet_with_lyrics_1)
+Synthesis finished in 18.0s.
+99999
+Generated Lyrics: 
+the tennessee walt and the night and the tennessee, a tennessee stroll and a tennessee ball tonight, when you do your late night walt, that would be trouble.
+Saving files to multiple_music_0915_9_public//tennessee waltz_(In_a_Little_Spanish_Town_Lead_sheet_with_lyrics_1)/99999_tennessee waltz_(In_a_Little_Spanish_Town_Lead_sheet_with_lyrics_1)
+Synthesis finished in 28.5s.

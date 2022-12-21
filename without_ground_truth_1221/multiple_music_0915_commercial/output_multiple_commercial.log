@@ -1,0 +1,161 @@
+Loading eval meta data from /home/yufeit/VoiceSynthesizer/eval_melody_0829/commercial_melody_meta.json
+Loading Models...
+Melody title: I_Write_the_Songs_1-6
+Song title: more than words (cover)
+Compiled melody constraints: 
+[[1, 0, 0, 1, 0, 0, 1], [0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 1], [0, 1, 0, 0, 0, 0, 1, 0, 1], [0, 1, 0, 0, 0, 0, 1, 0, 1]]
+You might be overwriting existing folders
+Synthesis finished in 19.1s.
+Vanilla Lyrics: 
+It's no surprise to me, I feel it too It's no surprise to me, I feel it too That I know this love is real, I feel it too More than words, words are just words I'd be lying if I thought I couldn't explain It's like a little child, I feel it too, yeah It's like a little child, I feel it too, yeah. I'd be lying if I
+Syllabify error, regenerating...
+Vanilla Lyrics: 
+More than words can say All I need is faith, faith Let the words in All I need is faith, faith Let the words in All I need is faith, faith Let the words in All I need is faith, faith Let the words in All I need is faith, faith Let the words in All I need is faith, faith Let the words in 
+Saving files to multiple_music_0915_commercial//more than words (cover)_(I_Write_the_Songs_1-6)/vanilla
+Synthesis finished in 19.1s.
+User input keywords: words, show, make
+Predicted keywords:[['time', 'show'], ['make', 'feel'], ['eyes', 'open'], ['mind', 'give'], ['hear', 'voice'], ['Words', 'more']]
+1
+Generated Lyrics: 
+take the time to show you love, to make you feel the way i do, i can see it in your eyes i see it in your eyes open wide, more than words can say, words more than words can say to show you, can you hear my voice say more than words.
+Saving files to multiple_music_0915_commercial//more than words (cover)_(I_Write_the_Songs_1-6)/1_more than words (cover)_(I_Write_the_Songs_1-6)
+Synthesis finished in 19.0s.
+100
+Generated Lyrics: 
+take the time to show you love, to make you feel the way i do, i can see it in your eyes and i can see it in your open, more than words can say, more than words is all you need to show, and if you could hear my voice again.
+Saving files to multiple_music_0915_commercial//more than words (cover)_(I_Write_the_Songs_1-6)/100_more than words (cover)_(I_Write_the_Songs_1-6)
+Synthesis finished in 18.8s.
+99999
+Generated Lyrics: 
+take the time to show you love, a way to make you feel the same, the look in your eyes and the desire you feel and the love you, the time has come to, the words you need to hear when you show, and we all want to hear your voice though.
+Saving files to multiple_music_0915_commercial//more than words (cover)_(I_Write_the_Songs_1-6)/99999_more than words (cover)_(I_Write_the_Songs_1-6)
+Synthesis finished in 19.0s.
+Melody title: The_Sound_of_Silence_1-4
+Song title: my girl
+Compiled melody constraints: 
+[[0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 0, 0, 0, 1, 0, 0, 1], [0, 0, 0, 0, 0, 1, 0, 1]]
+New Folder Created
+Synthesis finished in 14.3s.
+Vanilla Lyrics: 
+She's got a love, you better hold her tight She's got a love, you better hold her tight But that doesn't mean you gotta be with her all the time She'll take you home when you fall Now when she says bye, do she mean 'bye' That's no excuse to have left her Now when she says bye, do she mean 'bye' 'Cause she'll take you home when you fall
+Saving files to multiple_music_0915_commercial//my girl_(The_Sound_of_Silence_1-4)/vanilla
+Synthesis finished in 14.2s.
+User input keywords: Talkin, girl, bout
+Predicted keywords:[['Girl', 'talkin'], ['Talkin', 'girl'], ['Boy', 'bout'], ['Bout', 'gonna']]
+1
+Generated Lyrics: 
+girl whats your name i been talk, talk in a language of my girl, not available to the public girl, call my girl on the phone talk in.
+Saving files to multiple_music_0915_commercial//my girl_(The_Sound_of_Silence_1-4)/1_my girl_(The_Sound_of_Silence_1-4)
+Synthesis finished in 14.0s.
+100
+Generated Lyrics: 
+her name is girl i been talk, talk in a language of my girl, talk in a language my girl can speak so, talk in the car girl not so fast.
+Saving files to multiple_music_0915_commercial//my girl_(The_Sound_of_Silence_1-4)/100_my girl_(The_Sound_of_Silence_1-4)
+Synthesis finished in 14.1s.
+99999
+Generated Lyrics: 
+and the first time i heard her, uh hm in the store a talk in girl, talk in between the lines my girl and me, talk in a language my girl know.
+Synthesize error, regenerating...
+Generated Lyrics: 
+the first time i heard you talk, talk in your sleep like a girl do, a whats in the past and how the ago, talk in a language my girl know.
+Saving files to multiple_music_0915_commercial//my girl_(The_Sound_of_Silence_1-4)/99999_my girl_(The_Sound_of_Silence_1-4)
+Synthesis finished in 14.0s.
+Melody title: All_I_Want_For_Christmas_Is_You
+Song title: nothing's gonna change my love for you
+Compiled melody constraints: 
+[[1, 1, 1, 0, 1, 1, 0, 1], [1, 1, 0, 1, 1, 1, 1], [0, 1, 1, 1, 0, 1, 1, 1, 1], [1, 0, 1, 0, 1, 1, 1], [1, 0, 1, 0, 1, 1, 1, 1], [1, 0, 1, 1, 1, 1, 1]]
+New Folder Created
+Synthesis finished in 19.3s.
+Vanilla Lyrics: 
+I've been working for years to find you I've been so lost in the dark for so long I've been waiting for too long For too long I've been hiding in shadows I hope I'm not too late But I can't hide from feeling bad For too long I've been hiding in shadows I hope I'm not too late But I can't hide from feeling bad 'Til I'm ready to
+Saving files to multiple_music_0915_commercial//nothing's gonna change my love for you_(All_I_Want_For_Christmas_Is_You)/vanilla
+Synthesis finished in 19.0s.
+User input keywords: love, change, gonna
+Predicted keywords:[['love', 'gonna'], ['Love', 'change'], ['Gonna', 'lose'], ['wanna', 'give'], ['Losing', 'control'], ['Wanna', 'make']]
+1
+Generated Lyrics: 
+and my love for you is gonna, you know my love is gonna, not in control of my love for you, want you to make me love you, not gonna make me change my ways, i wanna make love to you.
+Saving files to multiple_music_0915_commercial//nothing's gonna change my love for you_(All_I_Want_For_Christmas_Is_You)/1_nothing's gonna change my love for you_(All_I_Want_For_Christmas_Is_You)
+Synthesis finished in 20.5s.
+100
+Generated Lyrics: 
+that my love for you is gonna, my love is not gonna change, love is gonna have to go my way, i wanna make love to you, i wanna make you love me too, i wanna make love to you.
+Saving files to multiple_music_0915_commercial//nothing's gonna change my love for you_(All_I_Want_For_Christmas_Is_You)/100_nothing's gonna change my love for you_(All_I_Want_For_Christmas_Is_You)
+Synthesis finished in 18.2s.
+99999
+Generated Lyrics: 
+if this love is not gonna last, there is a way to love change, goodbye to you and no way to lose, want the love you make for me, not in front of me or make me, want you want you make me love.
+Saving files to multiple_music_0915_commercial//nothing's gonna change my love for you_(All_I_Want_For_Christmas_Is_You)/99999_nothing's gonna change my love for you_(All_I_Want_For_Christmas_Is_You)
+Synthesis finished in 19.0s.
+Melody title: The_Sound_of_Silence_1-4
+Song title: on the wings of love
+Compiled melody constraints: 
+[[0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 0, 0, 0, 1, 0, 0, 1], [0, 0, 0, 0, 0, 1, 0, 1]]
+New Folder Created
+Synthesis finished in 14.5s.
+Vanilla Lyrics: 
+Don't let your heart beat Hold it in your hand So don't let your faith falter I wanna hear you say We can make the difference So don't let your faith falter I wanna hear you say we will make the difference Now I see the light of the heart Now I see the light of the heart I have found my destiny With your love, my faith and your faith
+Saving files to multiple_music_0915_commercial//on the wings of love_(The_Sound_of_Silence_1-4)/vanilla
+Synthesis finished in 14.8s.
+User input keywords: wings, love, honey
+Predicted keywords:[['love', 'wings'], ['honey', 'wonderful'], ['eyes', 'hear'], ['Honey', 'gonna']]
+1
+Generated Lyrics: 
+on the wings of love for me, cause honey you are wonderful, if you look in my eyes you might hear me, honey it feels so wonderful.
+Saving files to multiple_music_0915_commercial//on the wings of love_(The_Sound_of_Silence_1-4)/1_on the wings of love_(The_Sound_of_Silence_1-4)
+Synthesis finished in 14.0s.
+100
+Generated Lyrics: 
+the love on the wings of love, oh my love is on the wings of, the look in your eyes makes me hear you say, honey you are so wonderful.
+Saving files to multiple_music_0915_commercial//on the wings of love_(The_Sound_of_Silence_1-4)/100_on the wings of love_(The_Sound_of_Silence_1-4)
+Synthesis finished in 13.8s.
+99999
+Generated Lyrics: 
+and your love is on the wings, a the look in your eyes honey, the eyes that see and the ears that hear you, the look in your eyes says honey.
+Saving files to multiple_music_0915_commercial//on the wings of love_(The_Sound_of_Silence_1-4)/99999_on the wings of love_(The_Sound_of_Silence_1-4)
+Synthesis finished in 13.9s.
+Melody title: All_I_Want_For_Christmas_Is_You
+Song title: open your heart
+Compiled melody constraints: 
+[[1, 1, 1, 0, 1, 1, 0, 1], [1, 1, 0, 1, 1, 1, 1], [0, 1, 1, 1, 0, 1, 1, 1, 1], [1, 0, 1, 0, 1, 1, 1], [1, 0, 1, 0, 1, 1, 1, 1], [1, 0, 1, 1, 1, 1, 1]]
+New Folder Created
+Synthesis finished in 19.0s.
+Vanilla Lyrics: 
+I'm gonna open up your heart 'Til I get a feeling like you've got a lock on my heart I've been working hard to make me happy I don't wanna spend my life hiding behind a wall 'Til I get a feeling like you've got a lock on my heart I could let you know that I love you Open your heart Open your heart I'm gonna open up your heart
+Saving files to multiple_music_0915_commercial//open your heart_(All_I_Want_For_Christmas_Is_You)/vanilla
+Synthesis finished in 18.7s.
+User input keywords: open, Baby, heart
+Predicted keywords:[['Baby', 'open'], ['Open', 'heart'], ['baby', 'hear'], ['love', 'make'], ['Love', 'makes'], ['eyes', 'close']]
+1
+Generated Lyrics: 
+i want you to open your heart, open your heart up to me, open your heart to me now baby, open your heart and let go, look in my eyes and close my heart, when my eyes are close to you.
+Saving files to multiple_music_0915_commercial//open your heart_(All_I_Want_For_Christmas_Is_You)/1_open your heart_(All_I_Want_For_Christmas_Is_You)
+Synthesis finished in 18.8s.
+100
+Generated Lyrics: 
+baby open your heart to me, open your heart up to me, open your heart to me now baby, open your heart and let go, so baby close your heart to me, see my eyes when i close them.
+Saving files to multiple_music_0915_commercial//open your heart_(All_I_Want_For_Christmas_Is_You)/100_open your heart_(All_I_Want_For_Christmas_Is_You)
+Synthesis finished in 18.7s.
+99999
+Generated Lyrics: 
+so now baby just open your, go on and open your heart, and if you open your heart to me, love the way you feel so close, see in your eyes when you close them, cause in your eyes you close it.
+Saving files to multiple_music_0915_commercial//open your heart_(All_I_Want_For_Christmas_Is_You)/99999_open your heart_(All_I_Want_For_Christmas_Is_You)
+Synthesis finished in 21.4s.
+Melody title: I_Write_the_Songs_1-6
+Song title: puzzle of my heart
+Compiled melody constraints: 
+[[1, 0, 0, 1, 0, 0, 1], [0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 1], [0, 1, 0, 0, 0, 0, 1, 0, 1], [0, 1, 0, 0, 0, 0, 1, 0, 1]]
+New Folder Created
+Synthesis finished in 19.1s.
+Vanilla Lyrics: 
+This is a puzzle of my heart These are the tears that I cry for you These are the dreams that I fear To be your solver I would need you This is a puzzle of my heart These are the thoughts I fear To be your solver I need you And I know that my heart you are mine I'm hoping and I hope and I pray I'm hoping and I hope and I pray 
+Saving files to multiple_music_0915_commercial//puzzle of my heart_(I_Write_the_Songs_1-6)/vanilla
+Synthesis finished in 19.1s.
+User input keywords: Everytime, meet, picture
+Predicted keywords:[['Everytime', 'meet'], ['Picture', 'picture'], ['Puzzle', 'heart'], ['answer', 'puzzle'], ['everytime', 'met'], ['face', 'make']]
+1
+Generated Lyrics: 
+every time we meet now, picture of you in my picture, what is the puzzle of my heart and how can i begin to see, can you see my face, i see your face and i make a move, just to see your face and make me see.
+Saving files to multiple_music_0915_commercial//puzzle of my heart_(I_Write_the_Songs_1-6)/1_puzzle of my heart_(I_Write_the_Songs_1-6)
+Synthesis finished in 18.7s.
+100
